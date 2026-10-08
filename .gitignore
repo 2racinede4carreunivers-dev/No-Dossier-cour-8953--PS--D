@@ -26,3 +26,4 @@ repo-remote/
 .sidecar/screenshots/
 .sidecar/thinking/
 .sidecar/pids.json
+*.keep
