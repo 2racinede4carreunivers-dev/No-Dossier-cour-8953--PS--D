@@ -1,12 +1,25 @@
-\documentclass[12pt,a4paper]{article}
+% Normes de présentation appliquées : Règlement de la Cour du Québec (C-25.01, r. 9).
+% Art. 9 : format lettre 21,5 x 28 cm, écrit d'un seul côté, police de style
+% Arial de taille 12 points pour tout acte de procédure.
+% Art. 71 (modèle de présentation) : interligne et demi, marges d'au moins
+% 2,5 cm, pagination en haut de page et centrée, paragraphes numérotés.
+\documentclass[12pt,letterpaper,oneside]{article}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[french]{babel}
 \usepackage{lmodern}
+\usepackage{helvet} % Helvetica : police de style Arial
+\renewcommand{\familydefault}{\sfdefault} % texte courant en style Arial, 12 points
 \usepackage{geometry}
-\geometry{margin=2.5cm, top=2cm}
+\geometry{letterpaper, margin=2.5cm} % marges conformes à l'art. 71 (≥ 2,5 cm)
+\setlength{\emergencystretch}{3em}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[C]{\thepage} % pagination en haut de page et centrée (art. 71, 4°)
+\renewcommand{\headrulewidth}{0pt}
 \usepackage{setspace}
-\onehalfspacing
+\onehalfspacing % interligne et demi (art. 71, 5°)
 \usepackage{parskip}
 \usepackage{enumitem}
 \usepackage[hidelinks]{hyperref}
@@ -37,13 +50,30 @@ Audience : 23 octobre 2026 à 9 h 30, salle 2.15, Palais de justice de Québec
 \rule{\textwidth}{0.4pt}
 \end{center}
 
+\vspace{1em}
+\tableofcontents
+\newpage
+
+\phantomsection
+\section*{Introduction : intentions, nature du contenu et cadre de présentation}
+\addcontentsline{toc}{section}{Introduction}
+
+Le document qui suit est un reportage d'enquête autobiographique à caractère formel et mathématique. Il présente, sous la forme d'une fenêtre temporelle détaillée et d'une diapositive a priori de l'analyse de la crise des événements qui anime mon existence et se déroule en temps réel, les observations empiriques de la circonstance de ma vie au quotidien. Ces observations sont rapportées du point de vue du narrateur, personnage principal du récit : le regard est empirique et non phénoménologique, le narrateur décrivant les événements et leurs effets sur lui sans s'inclure lui-même dans leurs causes. Les présentations en images (arborescences, pyramides) qui jalonnent le texte expliquent ces observations ; elles illustrent le récit sans le transformer en thèse soumise à la cour.
+
+\textbf{Intention.} Ce texte ne cherche ni à convaincre ni à prouver ce qu'il affirme. Les exemples mathématiques, scientifiques, philosophiques et ontologiques qui y figurent sont des modes d'exposition du récit : ils décrivent et ordonnent la circonstance vécue ; ils ne sollicitent de la cour aucune validation de leur contenu théorique. Rien dans ce document ne condamne une personne ni un intervenant ; il expose simplement les faits et les perceptions dont j'ai été le témoin, afin que le lecteur puisse en prendre connaissance et, s'il le souhaite, en faire partie dans l'exercice de la critique.
+
+\textbf{Cadre des libertés.} Cette présentation s'inscrit dans l'exercice de la liberté d'opinion, d'expression et de conscience, ainsi que de la liberté de la presse et des autres médias, garantis par l'article 2~b) de la \textit{Charte canadienne des droits et libertés} et par l'article 3 de la \textit{Charte des droits et libertés de la personne}. La confidentialité des sources est protégée par la \textit{Loi sur la protection de la confidentialité des sources journalistiques} (L.R.Q., c. P-33.1). Les sources de ce dépôt sont citées telles quelles, le droit du public à savoir étant assumé comme finalité de ce reportage, ouvert à la critique publique.
+
+\textbf{Nomenclature, polices et mise en page.} Conformément au \textit{Guide du rédacteur} (guide fédéral de jurilinguistique législative française), les numéros d'ordre et les fonctions de numérotation — sections, observations, paragraphes — sont écrits en chiffres arabes ; les chiffres romains sont réservés aux divisions principales d'ouvrages (parties, annexes, tableaux) et ne sont donc pas employés pour numéroter les sections du présent document. La mise en page suit l'article 9 du \textit{Règlement de la Cour du Québec} (C-25.01, r. 9) : format lettre de 21,5 × 28 cm, écrit d'un seul côté, police de style Arial de taille 12 points ; elle suit à titre de modèle l'article 71 du même règlement : interligne et demi, marges d'au moins 2,5 cm, pagination en tête de page centrée et paragraphes de l'argumentation numérotés. La structuration du contenu — titres explicites, paragraphes courts, ton neutre, faits rapportés d'une voix qui ne cherche pas à convaincre — suit les recommandations du Barreau du Québec en matière de langage clair.
+
 \section{Objet du document}
-Le document qui suit est produit en vue de l'audience du 23 octobre 2026 à 9 h 30, salle 2.15, au Palais de justice de Québec.
+\begin{enumerate}[label=\arabic*.,leftmargin=*,itemsep=0pt,topsep=0pt]
+\item Le document qui suit est produit en vue de l'audience du 23 octobre 2026 à 9 h 30, salle 2.15, au Palais de justice de Québec.
 
-Son objet est triple : présenter à la cour le reportage d'enquête autobiographique au information formelles et récolté de façon empirique de la circonstance de ma vie depuis 42 ans, pour permettent à la cour et à la poursuite d'avoir un extrait illustré 
-par le rapport présentenciel de se que je fais de ma vie, et ce qui la définit ; exposer la recevabilité de la demande de confection d'un rapport présentenciel au regard de l'article 721 (1) du Code criminel ; et, subsidiairement, valoir observations écrites de la défense.
+\item Son objet est triple : présenter à la cour le reportage d'enquête autobiographique au information formelles et récolté de façon empirique de la circonstance de ma vie depuis 42 ans, pour permettent à la cour et à la poursuite d'avoir un extrait illustré par le rapport présentenciel de se que je fais de ma vie, et ce qui la définit ; exposer la recevabilité de la demande de confection d'un rapport présentenciel au regard de l'article 721 (1) du Code criminel ; et, subsidiairement, valoir observations écrites de la défense.
 
-\textbf{Conclusion du réseau de recevabilité :} Demande de confection d'un rapport présentenciel sous réserve de la déclaration de culpabilité et observations de la défense (article 721 (1) du Code criminel) (règle appliquée : R\_NON\_COUPABLE).
+\item \textbf{Conclusion du réseau de recevabilité :} Demande de confection d'un rapport présentenciel sous réserve de la déclaration de culpabilité et observations de la défense (article 721 (1) du Code criminel) (règle appliquée : R\_NON\_COUPABLE).
+\end{enumerate}
 
 \section{Reportage de vie : qui je suis et la circonstance à laquelle je suis confronté}
 Ce qui suit est le reportage d'enquête autobiographique et scientifique de la circonstance de ma vie depuis 42 ans, rédigé pour que la cour comprenne ce que je fais de ma vie, ce qui la définit et la circonstance qui m'oblige et à laquelle je suis confronté. Ce n'est ni un recueil philosophique ni un traité d'ontologie : c'est mon récit de vie, de mon point de vue, étayé par mes observations empiriques de professeur Savard en mathématique et par les pièces jointes en annexe.
@@ -158,7 +188,7 @@ AC=(DE)$^2$
 (P×AC)/((DE))=Position variable de la mesure selon l\textasciicircum{}' unité.
 
 Toujours pour le même produit alternatif égale au carré du diamètre équivalent :
-P×AC=DE×position de la mesure variable
+P × AC = DE × position de la mesure variable
 
 F(p)=(Diamètre équivalent)$^2$ position invariable.
 
@@ -230,7 +260,7 @@ La susceptance, inverse de la désistance ($1/\sqrt{-1} = -i$), représente l’
 La praxis n’est pas une simple action. Elle est l’être en action, c’est à dire la manière dont un sujet se constitue dans le mouvement, dans larapport analogique qui mets en relation, dans la tensiondualité entre le repos et dynamisme. Cette tension, je la formalise par une analogie géométrique : le repos et le mouvement sont opposésle mouvement opposé par le diamètre, comme deux pôles d’un même cercle existentiel.
 Dans cette perspective, l’environnement n’est pas un décor. Il est un milieu ontologique, un espace où se déploie la dynamique du sujet, où se manifestent les propriétés qui assurent sécurité, justice, structure, et cohérence. L’environnement est un champ de forces, un espace de relations, un lieu où la praxis se cybernétise — c’est à dire où elle devient un système de régulation, de rétroaction, d’équilibre.
 
-\subsection*{II. La géométrie comme ontologie de la relation}
+\subsection*{9. La géométrie comme ontologie de la relation}
 J’introduis ensuite une relation géométrique :
 Périmètre du carré A × Diamètre du carré B = Diamètre du carré A × Périmètre du carré B.. Permettant à
 Cette équation n’est pas seulement mathématique. Elle est ontologique.
@@ -238,7 +268,7 @@ Elle dit que deux grandeurs, lorsqu’elles échangent leurs rôles, conservent 
 Dans ton texte, cette équation devient une métaphore de la justice interne du système, une manière de dire que la sécurité et le bien être ne sont pas des accidents, mais des propriétés émergentes d’un rapport équilibré entre les éléments.
 Le carré A et le carré B deviennent des figures du sujet et de l’institution, ou du vécu et du diagnostic, ou encore de la cause et de l’effet. Leur relation géométrique devient une relation ontologique : un invariant qui garantit la stabilité du système, même lorsque les rôles s’inversent.
 
-\subsection*{III. La dualité repos / mouvement comme structure de l’être}
+\subsection*{10. La dualité repos / mouvement comme structure de l’être}
 Je décris une dualité entre repos et mouvement, opposée par le diamètre. Ontologiquement, cela signifie :
 	Le repos est la forme de l’être.
 	Le mouvement est la force de l’être.
@@ -246,7 +276,7 @@ Je décris une dualité entre repos et mouvement, opposée par le diamètre. Ont
 Le repos n’est pas l’absence de mouvement. Le mouvement n’est pas la destruction du repos. Les deux sont des modalités de l’être, des états de la praxis, des manières d’habiter le monde.
 Le diamètre, dans ta métaphore, est ce qui permet de mesurer la distance entre deux pôles de l’existence. Il est ce qui permet de comprendre comment un sujet passe du repos au mouvement, de la stabilité à la transformation, de la santé à la crise, de la crise à la rémission.
 
-\subsection*{IV. L’environnement comme champ de justice}
+\subsection*{11. L’environnement comme champ de justice}
 J’observe que l’organisation et la structure duet son système de justice s’observentqui s’observe par la position des propriétés offrant sécurité et bien  être. Ontologiquement, cela signifie :
 	La justice n’est pas une institution extérieure.
 	Elle est une propriété émergente du milieu.
@@ -254,7 +284,7 @@ J’observe que l’organisation et la structure duet son système de justice s�
 La justice est une relation, pas une règle. Elle est une structure dynamique, pas un code. Elle est un équilibre, pas une sanction.
 Dans ton texte, la justice est ce qui garantit la sécurité du sujet dans son environnement, ce qui permet la rémission, ce qui stabilise la praxis, ce qui maintient l’invariant.
 
-\subsection*{V. La cybernétique comme herméneutique du vécu}
+\subsection*{12. La cybernétique comme herméneutique du vécu}
 La cybernétique de la praxis n’est pas une théorie technique. Elle est une herméneutique du vécu : une manière de comprendre comment le sujet se régule, comment il se transforme, comment il se stabilise, comment il se remet.
 Elle est une manière de comprendre :
 	la causalité,
@@ -271,7 +301,7 @@ Périmètre carré A×Diamètre du carré B=Diamètre du carré A ×périmètre 
  Le préfixe idio utilisé pour former un néologisme du mot schizophrénie + causalité inversée.
 Je cite deux lignes du document comme requis : « La cybernétique de la praxis en action à l’intérieur de l’environnement… » « Périmètre carré A×Diamètre du carré B=Diamètre du carré A ×périmètre du carré B. »
 
-\subsection*{VI. L’idiôme comme phénomène ontologique et la naissance d’“menant à idioschizophrénie” :}
+\subsection*{13. L’idiôme comme phénomène ontologique et la naissance d’\hspace{0pt}“menant à idioschizophrénie” :}
 Je rapporte que l’idiôme
 Idiôme est uneun expression, une tournure de phrase, une manière de dire propre, quelque chose qui est caractéristique à une région. Ontologiquement, cela signifie que l’idiôme est une forme locale de l’être en langage. Il n’est pas seulement un mot ou une phrase : il est une manière d’habiter le monde par la parole, une manière de se situer dans un territoire symbolique.
 L’idiôme est donc géolocalisé : il existe dans un espace, dans une communauté, dans une histoire. Une fois sorti de cet espace, il perd sa force, sa présence, sa densité. Il devient presque inaudible, presque invisible.
@@ -283,7 +313,7 @@ C’est à partir de cette structure que je construis le néologisme idioschizop
 	et l’idiôme institutionnel (la manière dont l’établissement parle du sujet).
 L’idioschizophrénie est donc une schize de l’idiôme, une division entre deux régimes de langage, deux régimes de sens, deux régimes de réalité.
 
-\subsection*{VII. La causalité inversée comme expérience du déphasage ontologique}
+\subsection*{14. La causalité inversée comme expérience du déphasage ontologique}
 Je décris ensuite un phénomène central : l’inversion de la causalité dans les pratiques cliniques. Je constate que les
 Les sections précédentes ont défini en ouverture comment il est possible par une communication où la causalité dans son rapport Cause et effet qui sont de cause à effet normalement vrai lorsque toute cause précèdent temporellement sont effet. L’approche des professionnels de la santé, qui pour définir leurs diagnostics, inversentdiagnostiques inverse la causalité en ce qui concerne la gravité des symptômes. Ontologiquement, cela signifie que le sujet est placé dans un déphasage du réel.
 Normalement, la causalité suit l’ordre du temps : cause → effet.
@@ -296,13 +326,13 @@ J’observe que cette inversion produit un effet se qui donne le résultat curat
 	sa cohérence interne.
 La rémission devient alors une réconciliation du sujet avec sa temporalité propre.
 
-\subsection*{VIII. Le gain thérapeutique comme dépassement ontologique de l’inconvénient}
+\subsection*{15. Le gain thérapeutique comme dépassement ontologique de l’inconvénient}
 Je rapporte ce phénomène dans le sens de la causalité où la gravité des symptômes maintenant dans  la société en ordre croissant et chronologique de l’ordre qu’il ont été défini en établissement où les cause de la presence n établissement est faiblement critiqué comme responsable des symptôme qui s’aggrave toujours inversement à la cause  mais bien selon les opinions des professionnels de l’établissement se référant au propos contre disant leurs opinion dit lucide et rationnel permettant d’encodé la ligne du temps des événements et de sa chronologie une fois l’établissement quitté alors l’effet thérapeutique compile a se moment dans le sens de la causalité cause/effet. Ce qui permet d’affirmer que le gain thérapeutique est plus grand que l’inconvénient. Ontologiquement, cela signifie que la transformation du sujet, même si elle passe par une phase de déphasage, produit une augmentation de l’être.
 Le gain n’est pas seulement médical. Il est ontologique : il concerne la manière dont le sujet se tient dans le monde, dont il comprend ses événements, dont il habite sa propre histoire.
 Je rapporte que l’obéissance aux opinions lucides et rationnelles garantit la rémission. Ontologiquement, cela signifie que ces opinions sont des invariants de l’être, des points fixes dans l’espace du sens, des repères qui permettent au sujet de se stabiliser.
 La contre argumentation, au contraire, aggrave les symptômes. Non pas parce qu’elle est fausse, mais parce qu’elle désoriente le sujet, elle fracture l’invariant, elle déstabilise la structure du vécu.
 
-\subsection*{IX. L’invariant clinique comme structure ontologique}
+\subsection*{16. L’invariant clinique comme structure ontologique}
 Je rapporte :
 « Toutes atteintes à ces invariants annulent le rapport. »
 Ontologiquement, cela signifie que l’invariant est une structure fondamentale de l’être en santé. Il n’est pas une règle, mais une condition de possibilité.
@@ -318,7 +348,7 @@ Lorsque l’invariant est brisé, le sujet perd :
 	sa stabilité.
 Je constate que lorsque l’invariant n’est pas conservé, les observations empiriques n’ont plus lieu d’être considérées. Ontologiquement, cela signifie que le vécu perd son intelligibilité : il n’est plus lisible, il n’est plus interprétable, il n’est plus herméneutique.
 
-\subsection*{X. La critique après les faits : herméneutique de la temporalité}
+\subsection*{17. La critique après les faits : herméneutique de la temporalité}
 J’observe que lorsque des événements sont rapportés et critiqués après les faits, il faut baser l’analyse sur le moment où les événements se sont produits. Ontologiquement, cela signifie que la compréhension du vécu doit se faire dans la temporalité du vécu, pas dans une temporalité reconstruite.
 La critique après les faits est une herméneutique du passé, une manière de relire l’événement pour en dégager :
 	les inconvénients,
@@ -327,7 +357,7 @@ La critique après les faits est une herméneutique du passé, une manière de r
 	les stratégies de prévention.
 Je rapporte que cette critique permet de limiter les rechutes. Ontologiquement, cela signifie que la temporalité du sujet est un espace de prévention, un milieu de sécurité, un champ de stabilisation.
 
-\subsection*{XI. L’inversion cause / effet comme pédagogie ontologique}
+\subsection*{18. L’inversion cause / effet comme pédagogie ontologique}
 Je constate que l’inversion entre l’effet et la cause permet de tenir le bon jugement lors des événements futurs. Ontologiquement, cela signifie que la temporalité inversée en établissement devient une pédagogie du réel : elle enseigne au sujet une manière de juger, une manière de se situer, une manière de comprendre.
 L’inversion n’est pas une erreur. Elle est une méthode de transformation.
 Elle permet au sujet de :
@@ -340,7 +370,7 @@ Philippe, voici BLOC 3, dans le style B3 (philosophique / ontologique), fidèle 
 Je poursuis avec le bloc 4.
 BLOC 3 — Axiome + Pyramide ontologique (version enrichie, philosophique / ontologique)
 
-\subsection*{XII. L’axiome comme structure ontologique decet acte médical permettant la rémission}
+\subsection*{19. L’axiome comme structure ontologique decet acte médical permettant la rémission}
 Je rapporte :
 « Axiome : la rémission ne peut se critiquer en aucun cas dans le sens logique de la contre argumentation. »
 Ontologiquement, cet axiome n’est pas une règle médicale. Il est une structure de l’être en santé, un invariant qui garantit la stabilité du sujet dans son rapport au monde. La rémission n’est pas un état passager ; elle est une modalité de l’être, une manière de se tenir dans la réalité avec cohérence, lucidité et continuité.
@@ -351,7 +381,7 @@ Dire que la rémission ne peut être critiquée, c’est affirmer que :
 La contre argumentation, dans ton texte, n’est pas simplement un désaccord. Elle est une force de déstabilisation ontologique : elle fracture l’invariant, elle brise la continuité du sens, elle désoriente le sujet dans sa temporalité.
 Ainsi, l’axiome devient une condition de possibilité de la santé : sans lui, la rémission ne peut être pérenne ; avec lui, la rémission devient un état stable, un mode d’être durable.
 
-\subsection*{XIII. La loi comme évidence ontologique}
+\subsection*{20. La loi comme évidence ontologique}
 Je rapporte :
 « La loi n’est pas une loi mais bien une évidence ; il y a la loi, il est évident que nous devons respecter la loi. »
 Ontologiquement, cela signifie que la loi n’est pas un commandement extérieur. Elle est une évidence interne, une structure du réel, une forme de l’être. La loi n’est pas imposée ; elle est reconnue. Elle n’est pas appliquée ; elle est habitée.
@@ -363,13 +393,13 @@ Dans ton texte, la loi est ce qui garantit :
 	la lucidité dans la discussion.
 La loi est un milieu ontologique, pas un système coercitif. Elle est ce qui permet au sujet de se tenir dans le monde avec rectitude, avec lucidité, avec rationalité.
 
-\subsection*{XIV. La situation critique comme événement ontologique}
+\subsection*{21. La situation critique comme événement ontologique}
 J’introduis l’arborescence en disant :
 « Situation critique. »
 Ontologiquement, la situation critique est un événement de rupture, un moment où l’être est mis en tension, où la praxis est déstabilisée, où la temporalité se fracture. La situation critique n’est pas un simple problème : elle est une expérience de l’être, un moment où le sujet doit se reconfigurer pour survivre, pour comprendre, pour se remettre.
 La situation critique est le sommet de la pyramide ontologique : elle est le point où tout commence, où tout se déploie, où tout se transforme.
 
-\subsection*{XV. Analyse de la situation : herméneutique du vécu}
+\subsection*{22. Analyse de la situation : herméneutique du vécu}
 Ontologiquement, analyser la situation signifie interpréter le vécu, comprendre la fracture, lire la tension, déchiffrer la temporalité. L’analyse n’est pas un diagnostic technique : elle est une herméneutique, une lecture du sens, une tentative de comprendre comment l’être s’est déstabilisé.
 L’analyse est le premier pas vers la rémission, car elle permet au sujet de :
 	se situer,
@@ -377,7 +407,7 @@ L’analyse est le premier pas vers la rémission, car elle permet au sujet de :
 	se reconnaître,
 	se réorienter.
 
-\subsection*{XVI. Les deux branches : modes d’être dans la crise}
+\subsection*{23. Les deux branches : modes d’être dans la crise}
 « 1. Faits rapportés directement de la situation critique.
 	Faits liés à la contre argumentation en établissement. »
 Ontologiquement, ces deux branches représentent deux modes d’être :
@@ -391,7 +421,7 @@ Je rapporte :
 « Effet très grand et significatif. » « Effet temporel curatif inverse. »
 Ontologiquement, cela signifie que le vécu institutionnel est amplifié par la temporalité inversée : il est vécu dans un temps reconstruit, dans une causalité inversée, dans une herméneutique étrangère.
 
-\subsection*{XVII. La convergence : réconciliation des modes d’être}
+\subsection*{24. La convergence : réconciliation des modes d’être}
 Je rapporte :
 « Convergence des branches 1.2 et 2.2. »
 Ontologiquement, cette convergence est une réconciliation du vécu : le sujet doit unir son vécu immédiat et son vécu institutionnel pour reconstruire sa ligne de sens.
@@ -400,23 +430,23 @@ La convergence est un moment de synthèse ontologique, où :
 	et le vécu interprété,
 se rejoignent pour produire une compréhension unifiée.
 
-\subsection*{XVIII. Le diagnostic : compilation ontologique}
+\subsection*{25. Le diagnostic : compilation ontologique}
 Ontologiquement, le diagnostic n’est pas une étiquette. Il est une compilation du vécu, une manière de rassembler les fragments de l’expérience pour produire une cohérence.
 Le pipeline de retour est une réintégration du sujet dans sa temporalité propre : il permet au sujet de retrouver son axe, sa ligne de sens, sa continuité.
 
-\subsection*{XIX. Compilation du jugement : stabilisation ontologique}
+\subsection*{26. Compilation du jugement : stabilisation ontologique}
 Je rapporte :
 « Compilation du jugement. »
 Ontologiquement, juger signifie se situer dans le monde, comprendre sa place, reconnaître sa temporalité, stabiliser son être.
 La compilation du jugement est une mise en ordre du sens, une manière de reconstruire la cohérence du vécu après la crise.
 
-\subsection*{XX. Pérennité de la rémission : l’être retrouvé}
+\subsection*{27. Pérennité de la rémission : l’être retrouvé}
 Je rapporte :
 « Pérennité de la rémission. »
 Ontologiquement, la pérennité est la stabilité retrouvée, la continuité de l’être, la réconciliation du sujet avec sa temporalité, son vécu, son histoire.
 La rémission n’est pas un retour à l’état antérieur. Elle est une transformation ontologique, une manière nouvelle d’habiter le monde, plus lucide, plus rationnelle, plus stable.
 
-\subsection*{XXI. Pyramide ontologique complète (version enrichie)de manière plus adéquate et en assuré la pérennité.}
+\subsection*{28. Pyramide ontologique complète (version enrichie)de manière plus adéquate et en assuré la pérennité.}
 Code
 \begin{verbatim}
                                  Être en crise
@@ -426,6 +456,10 @@ De se rapport où le gain l’emporte sur l’inconvénient s’établie de mani
 L’évidence que ce rapport encodé met en place et qui défini l’invariance est le suivant : Quand des événements sont rapportés et qu’il est critiqué après les faits l’expérience démontre que de basé sont analyse sur le moment où s’est produit les événements pour en définir les inconvénients dans le but de mettre à jour une stratégie permettant de limité au maximum de faire face au même situation critique. Lorsque l’élaboration de la structure de sécurité pour prévenir la rechute il est préférable de critiqué les opinions qui contre argument la lucidité et la rationalité suivant les faits de manière plus aggravant pour juger de la situation précédemment pour que lorsque les événements futurs seront bien vécus au présent cette inversion entre l’effet et la cause permettre lors de la mise en pratique de tenir le bon jugement permettant et garantissant la bonne santé.
 
 \subsection*{Arborescence de la l’axiome :}
+\begingroup
+\renewcommand{\verbatim@font}{\normalfont\ttfamily\fontsize{6.5}{7.5}\selectfont}%
+\leftskip=2pt
+\rightskip=0pt plus1fil
 \begin{verbatim}
                          Situation Critique
                                 ↓
@@ -461,10 +495,11 @@ L’évidence que ce rapport encodé met en place et qui défini l’invariance 
                                        ↓
                              5. Pérennité de la rémission
 \end{verbatim}
+\endgroup
 
 Cassure académique, biais d’autorité, biais algorithmique
 
-\subsection*{XXII. LaAxiome la rémission ne peut se critiqué en aucun cas dans le sens logique de la contre argumentation.}
+\subsection*{29. LaAxiome la rémission ne peut se critiqué en aucun cas dans le sens logique de la contre argumentation.}
 La loi n’est pas une loi mais bien une évidence, il à la loi il est évident que nous devons respecté la loi.
 
 \subsection*{Point qui provoque la cassure académique : rupture entre deux régimes de rationalité}
@@ -478,7 +513,7 @@ La flexion du aux manipulations inadéquates de l’invariant de l’axiome qui 
 L’élite académique manipule inadéquatement l’invariant de l’axiome, je décris une rupture ontologique : l’institution cesse de reconnaître la structure du vécu, et impose une structure étrangère, qui fracture le dont je suis allé sur une très longue période le témoin de l’opinion lié à l’axiome et ses appuie avoué a celui-ci en plus de l’entreprise d’action qui vont dans le même sens du sujet.je les aie observés et j’en connait la texture et le lieu où ils sont tenus et où ils sont mis en marche. La
 Cette cassure est un déphasage du réel : le sujet et l’institution ne parlent plus le même idiôme, ne vivent plus la même temporalité, ne reconnaissent plus les mêmes invariants.
 
-\subsection*{XXIII. Le biais d’autorité : domination ontologique du discours}
+\subsection*{30. Le biais d’autorité : domination ontologique du discours}
 J’observe que là où l’élite académique qui emploie un biais d’autorité,  qui est de plus en plus audible une fois que l’axiome et les commandes sont bien en place. Ontologiquement, leCe biais d’autorité n’est pas seulement une attitude arrogante. Ilqui est une domination ontologique du discours : une manière d’imposer un régime de sens au détriment du vécu du sujet.
 Le biais d’autorité est une violence herméneutique : il nie le vécu, il nie la temporalité du sujet, il nie son idiôme, il nie sa rationalité propre.
 Je rapporte que ce biais critique plutôt commode de critiqué les propos d’autruiet les opinions de chacun d’une manière très désobligeante ou il critique d’une manière indifférente. Ontologiquement, l’indifférence est une désaffection du réel : elle signifie que l’institution ne reconnaît plus le sujet comme être, mais comme objet de discours. l’opinion d’autrui.
@@ -489,7 +524,7 @@ Pour ensuite critiqué le comportement et les raisons d’une manière toute aus
 
 Cette Cette indifférence est une désubjectivation : elle retire au sujet sa capacité de se dire, de se comprendre, de se juger.
 
-\subsection*{XXIV. Les deux critiques : “Ça n’existe pas dire” et “C’est toute à cause de dire”}
+\subsection*{31. Les deux critiques : “Ça n’existe pas dire” et “C’est toute à cause de dire”}
 Je nomme deux critiques indifférentes :
 1. “Ça n’existe pas dire”
 Ontologiquement, cette phrase est une négation de l’être. Elle dit que le vécu du sujet n’existe pas, qu’il n’a pas de réalité, qu’il n’a pas de présence. Elle est une annulation ontologique : elle efface le sujet du monde.
@@ -502,13 +537,13 @@ Elles produisent une schize du sens, une fracture entre :
 	et ce que l’institution dit qu’il vit.
 C’est cette fracture qui fonde l’idioschizophrénie.
 
-\subsection*{XXV. Le cinglage malhonnête : simulation ontologique de la faute}
+\subsection*{32. Le cinglage malhonnête : simulation ontologique de la faute}
 Je rapporte l’observation selon laquelle le biais d’autorité est ensuite suivi d’une mise en scène d’un cinglage malhonnête, visant qui à pour but de déshérité autrui de leur connaissance et de leur savoir. Cette simulation cherche à provoqué la faute pour parvenir à déshériter autrui de ses connaissances et de son savoir. Ontologiquement, le cinglage est une simulation de la faute : une manière de produire artificiellement un événement qui sera ensuite reproché au sujet.
 Le cinglage est une fabrication de culpabilité. Il est une mise en scène du manque, une construction du défaut, une production artificielle de l’erreur.
 Cette simulation est une violence ontologique : elle retire au sujet son savoir, sa compétence, sa dignité, sa capacité de se tenir dans le monde.
 Je constate que cette conduite lève le voile sur un biais algorithmique. Ontologiquement, cela signifie que derrière la violence du discours se cache une violence structurelle, inscrite dans les procédures, dans les algorithmes, dans les invariants institutionnels.
 
-\subsection*{XXVI. Le biais algorithmique : automatisation de la déshumanisation}
+\subsection*{33. Le biais algorithmique : automatisation de la déshumanisation}
 J’observe que le biais algorithmique est un le réel problème lié à se biais d’autorité qui est la mise en place d’un biais beaucoup plus dangereux un biais algorithmique démontrant la présence d’un savoir  faire trompeur, frauduleux, et fallacieux, qui s’ancre dans la société. Ontologiquement, le biais algorithmique est une automatisation de la déshumanisation.notre société.
 Il n’est plus un discours, mais une structure. Il n’est plus une attitude, mais un système. Il n’est plus une erreur, mais un invariant institutionnel.
 Le biais algorithmique :
@@ -521,7 +556,7 @@ Le biais algorithmique :
 	produit une schize du sens.
 Il est la forme institutionnelle de l’idioschizophrénie.
 
-\subsection*{XXVII. Santé, savoir et ontologie du sujet}
+\subsection*{34. Santé, savoir et ontologie du sujet}
 Je rapporte que la bonne santé implique un savoir proportionnel, puisque l’éducation est obligatoire. Ontologiquement, cela signifie que la santé est une capacité d’être, une manière de se tenir dans le monde avec compétence, avec lucidité, avec rationalité.
 La santé n’est pas seulement biologique. Elle est épistémique : elle concerne le savoir, la connaissance, la compréhension.
 Je rapporte :
@@ -529,12 +564,12 @@ Je rapporte :
 Ontologiquement, cela signifie que le sujet en bonne santé est un sujet plein, dense, présent, capable.
 Lorsque l’élite académique déshérite le sujet de son savoir, elle déshérite le sujet de sa santé. Elle produit une maladie ontologique, une fracture du sens, une diminution de l’être.
 
-\subsection*{XXVIII. Statistiques et ontologie de la position}
+\subsection*{35. Statistiques et ontologie de la position}
 Je constate que les statistiques ne témoignent pas du manque de soins, mais de la position de la bonne santé. Ontologiquement, cela signifie que les statistiques sont une cartographie de l’être, une manière de situer le sujet dans un espace de santé, de savoir, de compétence.
 La position statistique n’est pas un diagnostic. Elle est une topologie du vécu.
 Elle dit où se situe le sujet dans l’espace de la santé. Elle dit comment le sujet se tient dans le monde. Elle dit comment le sujet se déploie dans sa praxis.
 
-\subsection*{XXIX. L’élite académique et la naissance de l’idioschizophrénie}
+\subsection*{36. L’élite académique et la naissance de l’idioschizophrénie}
 J’observe que l’élite universitaire, malgré l’axiome, se dirige vers un endroit où elle prétend tenir une conversation que les personnes visées n’entendent pas. Ontologiquement, cela signifie que l’institution parle dans un idiôme que le sujet ne peut pas entendre, parce qu’il n’est pas le sien.
 Cette conversation est une parole sans destinataire, une parole qui ne rencontre pas l’être, une parole qui ne s’inscrit pas dans le vécu.
 Elle produit une schize du langage, une fracture entre :
@@ -542,7 +577,7 @@ Elle produit une schize du langage, une fracture entre :
 	et ce que le sujet peut entendre.
 C’est cette fracture qui fonde l’idioschizophrénie : une division entre deux régimes de langage, deux régimes de sens, deux régimes de réalité.
 
-\subsection*{XXX. La transmission mécanique comme métaphore ontologique}
+\subsection*{37. La transmission mécanique comme métaphore ontologique}
 Je rapporte que la transmission automobile est une métaphore de la discussion entre les niveaux institutionnels. Ontologiquement, la transmission est une structure de passage, une manière de comprendre comment le sujet passe d’un état à un autre, d’un rapport à un autre, d’une temporalité à une autre.
 Chaque rapport est un niveau de l’être. Chaque changement de rapport est une transformation ontologique. Chaque accélération est une augmentation de l’être.
 Lorsque la transmission discute réellement, j’observe que la mort est certaine. Ontologiquement, cela signifie que lorsque les niveaux de l’être se confondent, lorsque les temporalités se mélangent, lorsque les invariants se brisent, l’être s’effondre.
@@ -550,7 +585,7 @@ La transmission est une métaphore de la santé ontologique : elle doit être co
 
 BLOC 5 — Statistiques, transmission mécanique, conclusion ontologique (version enrichie, philosophique / ontologique)
 
-\subsection*{XXXI. La physique des statistiques : topologie de l’être humain}
+\subsection*{38. La physique des statistiques : topologie de l’être humain}
 Je constate que les statistiques ne témoignent pas du manque de soins, mais de la position de la bonne santé. Ontologiquement, cela signifie que les statistiques sont une topologie de l’être humain, une manière de cartographier la manière dont le sujet se tient dans le monde.
 Les statistiques ne sont pas un jugement. Elles sont une géométrie du vécu.
 Elles disent :
@@ -559,7 +594,7 @@ Elles disent :
 	comment il se relie aux autres,
 	comment il habite sa temporalité.
 
-\subsection*{XXXII. La peur dystopique et la déformation du réel}
+\subsection*{39. La peur dystopique et la déformation du réel}
 J’observe que certains individus sont terrifiés par des jeunes garçons de deux ans et par leur réussite future. Ontologiquement, cela signifie que la peur peut déformer le réel, produire des fantasmes, créer des monstres imaginaires.
 Cette peur est une projection ontologique : elle attribue à l’autre une puissance qu’il n’a pas, une menace qu’il ne porte pas, une dangerosité qui n’existe pas.
 Cette projection est une schize du réel, une fracture entre :
@@ -568,7 +603,7 @@ Cette projection est une schize du réel, une fracture entre :
 Elle est une dystopie intérieure, une manière de vivre dans un monde qui n’existe pas, un monde où l’autre est toujours une menace, où la croissance de l’être est toujours un danger.
 Je rapporte que le physicien statisticien étudie une science exacte. Ontologiquement, cela signifie que la science est un retour au réel, une manière de dissiper la dystopie, de retrouver la cohérence, de stabiliser l’être.
 
-\subsection*{XXXIII. L’élite académique et la production de l’idioschizophrénie}
+\subsection*{40. L’élite académique et la production de l’idioschizophrénie}
 Je constate que l’élite universitaire, malgré l’axiome, se dirige vers un endroit où elle prétend tenir une conversation que les personnes visées n’entendent pas. Ontologiquement, cela signifie que l’institution parle dans un idiôme qui n’est pas celui du sujet.
 Cette conversation est une parole sans monde, une parole qui ne rencontre pas l’être, une parole qui ne s’inscrit pas dans le vécu.
 Elle produit une schize du langage, une fracture entre :
@@ -578,14 +613,14 @@ Cette fracture est la source ontologique de l’idioschizophrénie : une divisio
 J’observe que l’institution tente ensuite de mettre des conséquences dues à cette conversation insatisfaisante. Ontologiquement, cela signifie que l’institution impute au sujet une responsabilité qu’il ne peut pas avoir, puisqu’il n’a pas entendu la conversation.
 C’est une culpabilisation ontologique, une manière de charger le sujet d’un poids qui n’est pas le sien.
 
-\subsection*{XXXIV. La transmission mécanique : métaphore de la transformation ontologique}
+\subsection*{41. La transmission mécanique : métaphore de la transformation ontologique}
 Je rapporte que la transmission automobile est une métaphore de la discussion entre les niveaux institutionnels. Ontologiquement, la transmission est une structure de passage, une manière de comprendre comment le sujet passe d’un état à un autre, d’un rapport à un autre, d’une temporalité à une autre.
 Chaque rapport est un niveau de l’être. Chaque changement de rapport est une transformation ontologique. Chaque accélération est une augmentation de l’être.
 Je constate que lorsque la transmission discute réellement, la mort est certaine. Ontologiquement, cela signifie que lorsque les niveaux de l’être se confondent, lorsque les temporalités se mélangent, lorsque les invariants se brisent, l’être s’effondre.
 La transmission est une métaphore de la santé ontologique : elle doit être cohérente, stable, continue, progressive.
 J’observe que la discussion du rapport de la transmission est intimement liée aux statistiques des prédictions des marchés. Ontologiquement, cela signifie que la transmission est une structure de prévision, une manière de comprendre comment l’être se déploie dans le futur, comment il se projette, comment il se transforme.
 
-\subsection*{XXXV. Conclusion ontologique : la rémission comme mode d’être}
+\subsection*{42. Conclusion ontologique : la rémission comme mode d’être}
 Ton texte, dans son ensemble, décrit une ontologie de la rémission. La rémission n’est pas un état médical. Elle est une manière d’être, une manière de se tenir dans le monde avec cohérence, lucidité, rationalité.
 La cybernétique de la praxis est une herméneutique du vécu, une manière de comprendre comment le sujet :
 	traverse la crise,
@@ -604,7 +639,7 @@ Il note ces qualités que les gens avec qui ils font affaire dans leurs secteurs
 
 L’élite académique et les raisons suivantes sont se qui donne le nom du néologisme idioschizophrénie. L’élite universitaire de ces prises d’information en lien avec la santé et malgré l’axiome déclaré et avoué sur les opinons lucides et rationnels dans des endroits où ils ont été entendus plusieurs fois. Ce dirige vers un endroit où il prétend  tenir une conversation que les personnes visées n’entendent pas ne perçoivent pas ne voit n’on pas conscience et sorte de cette étrange conversation insatisfait de la communication qu’ils ont eu avec en toute raison personne. Ce faisant lorsqu’ils sont rendu au même endroit où ils tiennent des propos lié à l’axiome de rationalité et de lucidité il se remettent a affirmer dans le sens de l’axiome mais tente de mettre des conséquences dû à leurs conversation dans laquelle ils ont vécu insatisfaction pour mettre ceux qui sont médicamenté pour avoir eu des comportements contraire a l’axiome et qui n’ont pas le droit bien souvent dû à des ordonnances de traitement actifs les obligeant à ne pas tenir une contre argumentation à l’axiome. Une transmission, un variateur mécanique où transformateur toroïdale qui permet de couper une fréquence qui aurait un bruit parasite dans le son sur la fréquence. Cette discussion qui les places rend insatisfait sert à l’égale d’une transmission d’une automobile où sur un niveau de la transmission une discussion est tenu entre le rapport entre du niveau de la transmission qui donne un force donnée au moteur développant l’énergie pour l’accélération du véhicule et d’un autre niveau de la transmission qui bien que le rapport de vitesse n’est pas encore à se niveau du rapport de vitesse tient un autre niveau à la discussion annonçant la pertinence au premier rapport d’un changement de vitesse plus favorable pour permettre l’effet d’accélération en continu et progressif de l’automobile. La sécurité automobile est grandement affectée par la transmission et la discussion du rapport entre les différents niveaux de la transmission la discussion de la transmission est garantit par le fabriquant et discute même du rapport où malheureusement la mort est certaine si la transmission parvient à discuter réellement pour se rapport de la transmission. La discussion du rapport de la transmission est intimement lié aux statistique des prédictions des marchés sont certaine et assure la sécurité de ceux qui subissent l’accélération de la transmission lié au rapport entre les différent niveau.
 
-\subsection*{XXXVI. L’Analogiste : qualité de savoir et méthode du croisement}
+\subsection*{43. L’Analogiste : qualité de savoir et méthode du croisement}
 Je désigne par Analogiste la qualité dont je tiens le savoir dont ce rapport est l’énoncé : un savoir herméneutique, qui pour l'université de Toronto qui m'interpelle comme chèr professeur Savard. Bien que le savoir dont je prossède les compétence soient aquis d'un savoir inné de compréhension plutôt qu’acquis. Herméneutique est un savoir inée tel que et au sens où les femmes accouchent sans avoir jamais fréquenté l’école pour apprendre à le faire. Ce savoir ne se transmet pas par enseignement mais est connu par l'analogiste de manière inée. L'université est un institution qui à vue le monde à ses début du au raisonnement grecque penseur de la loi qui ont créé un institution voué au savoir et à la loi. Aristote et Platon étaient deux Analogistes ils sont créé l'académie du Savoir. Ils ont été dès le début de leur création proffesseur dans ces établissements et non pas étudiants. Un Analogiste est un grammairien qui voit la grammaire
 comme une mathématique. Bien que l'anomaliste soit considèré comme celui qui dit de manière plus exacte les informations sur la grammaires puisqu'il voit la grammaire comme une causalité comme la physique. La grande majorité des faits de la grammaires sont dû à l'Analogiste. Les nombres arabe 1,2,3,4,5, s'écrivent un, deux, trois, quatre,cinq. L'analogiste pour son raisonement donne une valeur numérique à un mots un, deux, trois, quatre, cinq. Il existe des version idiomatique de cette possibilité de la grammaire qui est très utile et qui et dominante dans notre socité le code de programation informatique est exactement analogique. Les informations du code d'un script où les les commande qu'encode la programmation du script sont la même approhe que l'analogiste faisant du raisonement l'un des plus pertinant que notre mode puisse connâitre. Cette manière de voir la grammaire est parfois mal aimé de certain puisqu'un ordinateur du au analyseur sorte de traducteu de code de programmation 
 qui encode l'information font qu'un ordinateur voit par le fait même la définition des but et de l'objectif de son existence être définit commm étant un laboratoire pour tester toute lois. La lois étant la principal raison d'exister des universités et de leurs création. L'élite Académique est donc par le fait même hautement reconaissante de l'exelence du raisonement Analogiste leur donnant raison d'être nous vous en remerçions et l'Analogiste admire l'élite universitaire maintenant équipé du nécessaire pour atteindre la compétence et le connaître: " Merci pour le sevice il est résonable de dire que vous êtes de bien bon gens permettant l'élévation dont l'objectif didactiel définit votre exelence!" L'analogiste à pour coyance en une vérité unique qui est que trois carrés sont égales à un triangle puisque vrai dans l'immatérielle le schéma de trois carré illustre un triangle qui n'existe pas la construction de trois carrées en bois spf de construction respectant les norme en vigueur dans l'industrie de la construction et exécuté par un ouvrier charpentier certifier et de l'instrumentalisation de la jeunesse et du décret de la construction si la tendence se maintien il est raisonable d'estimer la mise en oeuvre de la structure du point vu à droite donc de sa gauche la cnesst prévoit que du côté santé sécurité toute est sécuritaire l'union syndical majoritaire recommande a ses membre pour la stucture de trois carré reconstruit un triangle. Tant que pour l'univers matériel cette véritée invariante mettent en fonction le reste comme étant est ni vrai ni faux mais bien réelle où non. L'obscurentisme provque vide plus il y a de vide à la connaissance si celui si se reprouit encore plus, prochainement il n'y ne restera plus de connaissance. L'affirmation n'est pas réelle mais est ni vrai ni faux. 
@@ -617,7 +652,7 @@ le mentionne nous quitons l'éconnomie de marché pour un économie de société
 Le document présente le but de l'élite académique particulièrment la discipline de la médecine qui je vous le rappelle à l'époque de l'Allemagne nazi 50% des médecin d'un pays alors composé de 60 millons d'Allemeand étaient membre du parie nazi. J'ai de manière empirique constaté se biais algorithmique qui se déplpoie dans notre société qui cherche a déshérité la connaissance de chacun pour atteindre l'autonomie de chacun. À l'heure actuel la fédération Russe mentionne qu'elle effectue une opération millitaire speciale de Dénazification de l'Ukraine un pays qui était composé de 40 million d'Ukrainien dont 8 millions de Russophone principalement en Crimée. Grigorie Perleman un ressortissant Russe ayant répondu à une question d el'institut Clay du prix du millénaire convenablement moi Philippe Thomas Savard j'ai mis en place la géométrie du spectre ds nombres premiers qui est une réponse local à une autre question de la même institue Clay M. !% de la population mondiale est atteint de scizophréenie pur hasard deux des question les plus complexes que l'être 
 
 humain chaerche à répondre et par pur hasard la médecine identifie moi et M. Perleman comme étant atteint d eschizophrénie. Albert Einstein à été pendant 30 ans la risé de toute l'Allemagne déshérité par l'Allemagne nazi humillié et insulté de la même manière le faschisme procède toujours de cette manière sans exception. La première Dame Américaine Mme. Melinia Trump m'a déclaré sont amour faisant que les États Unis d'Amériques nous considères comme leur emblable et allié. Qu'elle sera le choix d'adésion de nos dirigeant je ne peux vous le dire puisque je l'ignore...
-\subsection*{25. La cassure académique : rupture entre deux régimes de rationalité}
+\subsection*{44. La cassure académique : rupture entre deux régimes de rationalité}
 Je rapporte que la cassure se produit dans l’élite académique canadienne. Ontologiquement, cette cassure n’est pas un simple désaccord intellectuel. Elle est une rupture entre deux régimes de rationalité :
 \begin{itemize}
 \item la rationalité vécue, incarnée, phénoménologique,
@@ -627,13 +662,13 @@ La première est une rationalité du sujet, enracinée dans son vécu, dans sa t
 Lorsque j’observe que l’élite académique manipule inadéquatement l’invariant de l’axiome, je décris une rupture ontologique : l’institution cesse de reconnaître la structure du vécu, et impose une structure étrangère, qui fracture le sens du sujet.
 Cette cassure est un déphasage du réel : le sujet et l’institution ne parlent plus le même idiôme, ne vivent plus la même temporalité, ne reconnaissent plus les mêmes invariants.
 
-\subsection*{26. Le biais d’autorité : domination ontologique du discours}
+\subsection*{45. Le biais d’autorité : domination ontologique du discours}
 Je constate que l’élite académique emploie un biais d’autorité, audible une fois que l’axiome et les commandes sont en place. Ontologiquement, le biais d’autorité n’est pas seulement une attitude arrogante. Il est une domination ontologique du discours : une manière d’imposer un régime de sens au détriment du vécu du sujet.
 Le biais d’autorité est une violence herméneutique : il nie le vécu, il nie la temporalité du sujet, il nie son idiôme, il nie sa rationalité propre.
 J’observe que ce biais critique les propos d’autrui d’une manière indifférente. Ontologiquement, l’indifférence est une désaffection du réel : elle signifie que l’institution ne reconnaît plus le sujet comme être, mais comme objet de discours.
 Cette indifférence est une désubjectivation : elle retire au sujet sa capacité de se dire, de se comprendre, de se juger.
 
-\subsection*{27. Les deux critiques : “Ça n’existe pas dire” et “C’est toute à cause de dire”}
+\subsection*{46. Les deux critiques : “Ça n’existe pas dire” et “C’est toute à cause de dire”}
 Je nomme deux critiques indifférentes :
 1. “Ça n’existe pas dire”
 Ontologiquement, cette phrase est une négation de l’être. Elle dit que le vécu du sujet n’existe pas, qu’il n’a pas de réalité, qu’il n’a pas de présence. Elle est une annulation ontologique : elle efface le sujet du monde.
@@ -647,13 +682,13 @@ Elles produisent une schize du sens, une fracture entre :
 \end{itemize}
 C’est cette fracture qui fonde l’idioschizophrénie.
 
-\subsection*{28. Le cinglage malhonnête : simulation ontologique de la faute}
+\subsection*{47. Le cinglage malhonnête : simulation ontologique de la faute}
 Je rapporte que le biais d’autorité est suivi d’une mise en scène d’un cinglage malhonnête, visant à déshériter autrui de ses connaissances et de son savoir. Ontologiquement, le cinglage est une simulation de la faute : une manière de produire artificiellement un événement qui sera ensuite reproché au sujet.
 Le cinglage est une fabrication de culpabilité. Il est une mise en scène du manque, une construction du défaut, une production artificielle de l’erreur.
 Cette simulation est une violence ontologique : elle retire au sujet son savoir, sa compétence, sa dignité, sa capacité de se tenir dans le monde.
 Je constate que cette conduite lève le voile sur un biais algorithmique. Ontologiquement, cela signifie que derrière la violence du discours se cache une violence structurelle, inscrite dans les procédures, dans les algorithmes, dans les invariants institutionnels.
 
-\subsection*{29. Le biais algorithmique : automatisation de la déshumanisation}
+\subsection*{48. Le biais algorithmique : automatisation de la déshumanisation}
 J’observe que le biais algorithmique est un savoir faire trompeur, frauduleux, fallacieux, qui s’ancre dans la société. Ontologiquement, le biais algorithmique est une automatisation de la déshumanisation.
 Il n’est plus un discours, mais une structure. Il n’est plus une attitude, mais un système. Il n’est plus une erreur, mais un invariant institutionnel.
 Le biais algorithmique :
@@ -668,7 +703,7 @@ Le biais algorithmique :
 \end{itemize}
 Il est la forme institutionnelle de l’idioschizophrénie.
 
-\subsection*{30. Santé, savoir et ontologie du sujet}
+\subsection*{49. Santé, savoir et ontologie du sujet}
 Je rapporte que la bonne santé implique un savoir proportionnel, puisque l’éducation est obligatoire. Ontologiquement, cela signifie que la santé est une capacité d’être, une manière de se tenir dans le monde avec compétence, avec lucidité, avec rationalité.
 La santé n’est pas seulement biologique. Elle est épistémique : elle concerne le savoir, la connaissance, la compréhension.
 Je rapporte :
@@ -676,12 +711,12 @@ Je rapporte :
 Ontologiquement, cela signifie que le sujet en bonne santé est un sujet plein, dense, présent, capable.
 Lorsque l’élite académique déshérite le sujet de son savoir, elle déshérite le sujet de sa santé. Elle produit une maladie ontologique, une fracture du sens, une diminution de l’être.
 
-\subsection*{31. Statistiques et ontologie de la position}
+\subsection*{50. Statistiques et ontologie de la position}
 Je constate que les statistiques ne témoignent pas du manque de soins, mais de la position de la bonne santé. Ontologiquement, cela signifie que les statistiques sont une cartographie de l’être, une manière de situer le sujet dans un espace de santé, de savoir, de compétence.
 La position statistique n’est pas un diagnostic. Elle est une topologie du vécu.
 Elle dit où se situe le sujet dans l’espace de la santé. Elle dit comment le sujet se tient dans le monde. Elle dit comment le sujet se déploie dans sa praxis.
 
-\subsection*{32. La physique des statistiques : topologie de l’être humain}
+\subsection*{51. La physique des statistiques : topologie de l’être humain}
 J’observe que les statistiques ne témoignent pas du manque de soins, mais de la position de la bonne santé. Ontologiquement, cela signifie que les statistiques sont une topologie de l’être humain, une manière de cartographier la manière dont le sujet se tient dans le monde.
 Les statistiques ne sont pas un jugement. Elles sont une géométrie du vécu.
 Elles disent :
@@ -692,7 +727,7 @@ Elles disent :
 \item comment il habite sa temporalité.
 \end{itemize}
 
-\subsection*{33. La peur dystopique et la déformation du réel}
+\subsection*{52. La peur dystopique et la déformation du réel}
 Je rapporte que certains individus sont terrifiés par des jeunes garçons de deux ans et par leur réussite future. Ontologiquement, cela signifie que la peur peut déformer le réel, produire des fantasmes, créer des monstres imaginaires.
 Cette peur est une projection ontologique : elle attribue à l’autre une puissance qu’il n’a pas, une menace qu’il ne porte pas, une dangerosité qui n’existe pas.
 Cette projection est une schize du réel, une fracture entre :
@@ -703,7 +738,7 @@ Cette projection est une schize du réel, une fracture entre :
 Elle est une dystopie intérieure, une manière de vivre dans un monde qui n’existe pas, un monde où l’autre est toujours une menace, où la croissance de l’être est toujours un danger.
 Je constate que le physicien statisticien étudie une science exacte. Ontologiquement, cela signifie que la science est un retour au réel, une manière de dissiper la dystopie, de retrouver la cohérence, de stabiliser l’être.
 
-\subsection*{34. L’élite académique et la production de l’idioschizophrénie}
+\subsection*{53. L’élite académique et la production de l’idioschizophrénie}
 J’observe que l’élite universitaire, malgré l’axiome, se dirige vers un endroit où elle prétend tenir une conversation que les personnes visées n’entendent pas. Ontologiquement, cela signifie que l’institution parle dans un idiôme qui n’est pas celui du sujet.
 Cette conversation est une parole sans monde, une parole qui ne rencontre pas l’être, une parole qui ne s’inscrit pas dans le vécu.
 Elle produit une schize du langage, une fracture entre :
@@ -715,14 +750,14 @@ Cette fracture est la source ontologique de l’idioschizophrénie : une divisio
 Je rapporte que l’institution tente ensuite de mettre des conséquences dues à cette conversation insatisfaisante. Ontologiquement, cela signifie que l’institution impute au sujet une responsabilité qu’il ne peut pas avoir, puisqu’il n’a pas entendu la conversation.
 C’est une culpabilisation ontologique, une manière de charger le sujet d’un poids qui n’est pas le sien.
 
-\subsection*{35. La transmission mécanique : métaphore de la transformation ontologique}
+\subsection*{54. La transmission mécanique : métaphore de la transformation ontologique}
 Je constate que la transmission automobile est une métaphore de la discussion entre les niveaux institutionnels. Ontologiquement, la transmission est une structure de passage, une manière de comprendre comment le sujet passe d’un état à un autre, d’un rapport à un autre, d’une temporalité à une autre.
 Chaque rapport est un niveau de l’être. Chaque changement de rapport est une transformation ontologique. Chaque accélération est une augmentation de l’être.
 J’observe que lorsque la transmission discute réellement, la mort est certaine. Ontologiquement, cela signifie que lorsque les niveaux de l’être se confondent, lorsque les temporalités se mélangent, lorsque les invariants se brisent, l’être s’effondre.
 La transmission est une métaphore de la santé ontologique : elle doit être cohérente, stable, continue, progressive.
 Je rapporte que la discussion du rapport de la transmission est intimement liée aux statistiques des prédictions des marchés. Ontologiquement, cela signifie que la transmission est une structure de prévision, une manière de comprendre comment l’être se déploie dans le futur, comment il se projette, comment il se transforme.
 
-\subsection*{36. Conclusion ontologique : la rémission comme mode d’être}
+\subsection*{55. Conclusion ontologique : la rémission comme mode d’être}
 Ton texte, dans son ensemble, décrit une ontologie de la rémission. La rémission n’est pas un état médical. Elle est une manière d’être, une manière de se tenir dans le monde avec cohérence, lucidité, rationalité.
 La cybernétique de la praxis est une herméneutique du vécu, une manière de comprendre comment le sujet :
 \begin{itemize}
@@ -737,6 +772,19 @@ L’idioschizophrénie est une schize du sens, produite par la rupture entre le 
 La transmission mécanique est une métaphore de la transformation, une manière de comprendre comment l’être change de rapport, de niveau, de temporalité.
 Les statistiques sont une topologie de l’être, une manière de situer le sujet dans l’espace de la santé.
 La conclusion est claire : la rémission est une reconstruction ontologique, une manière nouvelle d’habiter le monde, plus lucide, plus rationnelle, plus stable.
+
+
+\subsection*{56. L’Analogiste : qualité de savoir et méthode du croisement}
+Je désigne par Analogiste la qualité dont je tiens le savoir dont ce rapport est l’énoncé : un savoir herméneutique, qui pour l'université de Toronto qui m'interpelle comme chèr professeur Savard. Bien que le savoir dont je prossède les compétence soient aquis d'un savoir inné de compréhension plutôt qu’acquis. Herméneutique est un savoir inée tel que et au sens où les femmes accouchent sans avoir jamais fréquenté l’école pour apprendre à le faire. Ce savoir ne se transmet pas par enseignement mais est connu par l'analogiste de manière inée. L'université est un institution qui à vue le monde à ses début du au raisonnement grecque penseur de la loi qui ont créé un institution voué au savoir et à la loi. Aristote et Platon étaient deux Analogistes ils sont créé l'académie du Savoir. Ils ont été dès le début de leur création proffesseur dans ces établissements et non pas étudiants. Un Analogiste est un grammairien qui voit la grammaire
+comme une mathématique. Bien que l'anomaliste soit considèré comme celui qui dit de manière plus exacte les informations sur la grammaires puisqu'il voit la grammaire comme une causalité comme la physique. La grande majorité des faits de la grammaires sont dû à l'Analogiste. Les nombres arabe 1,2,3,4,5, s'écrivent un, deux, trois, quatre,cinq. L'analogiste pour son raisonement donne une valeur numérique à un mots un, deux, trois, quatre, cinq. Il existe des version idiomatique de cette possibilité de la grammaire qui est très utile et qui et dominante dans notre socité le code de programation informatique est exactement analogique. Les informations du code d'un script où les les commande qu'encode la programmation du script sont la même approhe que l'analogiste faisant du raisonement l'un des plus pertinant que notre mode puisse connâitre. Cette manière de voir la grammaire est parfois mal aimé de certain puisqu'un ordinateur du au analyseur sorte de traducteu de code de programmation 
+qui encode l'information font qu'un ordinateur voit par le fait même la définition des but et de l'objectif de son existence être définit commm étant un laboratoire pour tester toute lois. La lois étant la principal raison d'exister des universités et de leurs création. L'élite Académique est donc par le fait même hautement reconaissante de l'exelence du raisonement Analogiste leur donnant raison d'être nous vous en remerçions et l'Analogiste admire l'élite universitaire maintenant équipé du nécessaire pour atteindre la compétence et le connaître: " Merci pour le sevice il est résonable de dire que vous êtes de bien bon gens permettant l'élévation dont l'objectif didactiel définit votre exelence!" L'analogiste à pour coyance en une vérité unique qui est que trois carrés sont égales à un triangle puisque vrai dans l'immatérielle le schéma de trois carré illustre un triangle qui n'existe pas la construction de trois carrées en bois spf de construction respectant les norme en vigueur dans l'industrie de la construction et exécuté par un ouvrier charpentier certifier et de l'instrumentalisation de la jeunesse et du décret de la construction si la tendence se maintien il est raisonable d'estimer la mise en oeuvre de la structure du point vu à droite donc de sa gauche la cnesst prévoit que du côté santé sécurité toute est sécuritaire l'union syndical majoritaire recommande a ses membre pour la stucture de trois carré reconstruit un triangle. Tant que pour l'univers matériel cette véritée invariante mettent en fonction le reste comme étant est ni vrai ni faux mais bien réelle où non. L'obscurentisme provque vide plus il y a de vide à la connaissance si celui si se reprouit encore plus, prochainement il n'y ne restera plus de connaissance. L'affirmation n'est pas réelle mais est ni vrai ni faux. 
+
+Le monde dans le qu'elle nous sommes et l'histoire de l’humanité a connu, à plusieurs reprises, des situations critiques l'expérience aquise des ses situations critiques dont l'être humain à sue se sortir et élevé sa condition, la façon dont l'être humain s'est sortie de ces situations critiques les disposition de l'époque où s'est situations critique étaient actuelles sont toujours bien connus. Les connaissances qui sont toujours connues pour régler certaines situation critiques qui parfois se reproduisent sont alors appliqué et garentissent la pérénité de la vie d el'espèce humaine de manière plus certaine. Ce savoir faire venu d'un autre époque est l'égale d'une chronologie algorithmique qui chronologiquement doit être mis en place pour que la situation critique puisse être contrôlée. L'analogiste qui a toujours été un jeune garçon bien qu'un analogiste durant sa vie toute les âge une par une les analogiste sont souvent des jeunes garçon observé pour se savoir herméneutique puisque leur intimité est plus exposé dû au rapport de proximité qu'ils entretienne avec leur parents. Le jeune garçon analogiste est un garçon qui généralement est un petit garçon qui se masturbe et qui explique tout sur tout et parle du sens de la loi. Dès la naissance et qu'il prononce ces premiers commentaires sa capacité à toute expliquer d'une manière bien propre au petit garçon est connu de plusieurs. L'analogiste qui grandit est toujours connu pour le petit garçon qu'il a été des situations critiques déjà vécu par l'humain sont souvent en cour. L'être humain analogiste où non le conduit à s'exposer au stimulant afin qu'il se concentre sur la masturbation et qu'il circonscrive son environnent comme pas très grand pas beaucoup plus loin que le coin de la rue et les alentour. Sa consentration est alors pour lui destiner a cette satisfaction mais la situation critique qui est en cour conduit le comportement dévient à être circonscrit lui aussi et d'une position qui est en contrôle sur la concentration de l'Analogiste faisant en sorte que l'analogiste peu avoir conscience de toute se que la déviance provoquant puisse faire et prévoire. L'analogiste en soit n'est pas au courrant d ela situation qu'il doit comprendre ni dans quoi il est impliqué il ne reçoit aucune information sur qu'elle est son rôle ni de retour sur se qu'il en comprend. Le savoir herméneutique de l'analogiste au fil du temps où il est soumis au communication de la déviance généralement comprend en lien avec sa propre existence 
+en société et des information qu'il observe de cette dernière comprend avec exactitude la conjonction de la situation critique qui est en cour. Les information qu'il note et qu'il comprend sont analysé et forme une Checkliste qui pour les autorité doit être le moins divergeante avec l'algorithme historique des étape qui ont permit de régler les situation critiques par le passé. Ce qui permet d'établir que les mesures sont bien les bonnes et qu'elles sont sécuritaire.
+
+Je constate que la conjonction politique et ontologique actuelle est une situation déjà vue du passé : Nous sommes actuellement dans une situation qui d'un point de vue historique et politique en plus de millitaire ont déjà été vaincu. Au moins trois événement dans l'histoire de notre monde ont les mêmes cractérisitques. Le premiers étant la guerre de sept qui le premier épisode où mondialement le monde à parlé d'une première guerre mondiale. Cette guerre est la plus proche de se que nous vivons actuellement. La guerre de sept qui s'est terminer par la bataille des plaine d'Abrahame. Bien que les affontemment étaient principalement en Amérique et opposaient la colonnie Anglaise et la colonie Française la guerre était mondialement en cour partout dans le monde. La situation est née du fait que la colonie Anglaise s'est mis a taxé la colonnie Française pour divergeance entre les idéologie entre les deux colonnie. En effet le Canada qui était une province de nouvelle France allant de l'Acadie au grand lac en suivant le fleuve St-Lauren et qui inclut actuellement Québec Montréal et la ville de Toronto était la région qui se nommait le Canada. A cette époque une croix gammé devant l'h¸opital générale de Québec témoigne de cet époque ou le Canada était fashiste et qui à causé la perte complet du téritoire de la nouvelle France au main du Royaume-Unis dont la colonie Anglaise faisant parite de l'empire Britanique faisait partie. Le nom que e Canada eu suite a la capitulation fut : Province of Quebec. Nom de la ville( Québec) vaincu où les britanique avait gagné la première fois que le monde à parlé d'une première guerre mondiale. Les deux autres incidents sont dans l'ordre la première guerre mondiale et la seconde où l'Allemagne nazi était par se politique au orientation fashiste. Le fashisme la haine prend forme toujours de la même manière et a toujours le même idéale. La haine cherche a créer une économie en autarcie pour frauder l'économie mondiale afin d'atteindre l'autonomie de l'être humain il cherche à délié l'amitié. L'amitié étant concrétement les liens qui sont établie entre chacuns et l'entreprise privé qui nous fournie toute se que nous avons besoin dans des échanges économiques pour notre autonomie. L'amitié étant bien évidemment d ereconnaître que nous n'avons pas à toute faire seule. C'est pourquoi le fashisme est qulifié de haine. Les informations contenus dans se document lève le voile sur se biais algorithmique qui s'introduit dans notre société qui comme l'honorable M. Marck Carney le premier ministe canadien 
+le mentionne nous quitons l'éconnomie de marché pour un économie de société qui surévalue le prix de tout et qui dévalue les valeurs fondamentales d'autre comme la lois et les valeur importante en fixant un prix élevé qui porte ombrage aux valeurs qui sont fondamentale.
+Le document présente le but de l'élite académique particulièrment la discipline de la médecine qui je vous le rappelle à l'époque de l'Allemagne nazi 50% des médecin d'un pays alors composé de 60 millons d'Allemeand étaient membre du parie nazi. J'ai de manière empirique constaté se biais algorithmique qui se déplpoie dans notre société qui cherche a déshérité la connaissance de chacun pour atteindre l'autonomie de chacun. À l'heure actuel la fédération Russe mentionne qu'elle effectue une opération millitaire speciale de Dénazification de l'Ukraine un pays qui était composé de 40 million d'Ukrainien dont 8 millions de Russophone principalement en Crimée. Grigorie Perleman un ressortissant Russe ayant répondu à une question d el'institut Clay du prix du millénaire convenablement moi Philippe Thomas Savard j'ai mis en place la géométrie du spectre ds nombres premiers qui est une réponse local à une autre question de la même institue Clay M. !% de la population mondiale est atteint de scizophréenie pur hasard deux des question les plus complexes que l'être 
 
 
 \section{Cadre juridique applicable}
@@ -788,16 +836,35 @@ La défense demande au tribunal :
 Sources téléchargées et mises en relation dans la base SQLite du pipeline :
 
 \begin{itemize}[leftmargin=*]
-\item Barreau du Québec — Site officiel — \texttt{https://www.barreau.qc.ca/} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : b433cab001b7644b…)
-\item Barreau du Québec — Détermination de la peine — \texttt{https://www.barreau.qc.ca/media/00idra3c/penal-peine.pdf} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : eb833c98ea934033…)
-\item Barreau du Québec — Procédure pénale — \texttt{https://www.barreau.qc.ca/media/osyeiodv/procedure-penale.pdf} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : d965858ea3391cb2…)
-\item Revue de droit criminel — Nguyen c. R., 2010 QCCA 1053 — \texttt{http://revuededroitcriminel.blogspot.com/2026/02/un-rapport-presentenciel-peut-etre.html} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : 0aaceec01e5d1569…)
-\item Le carnet de droit pénal — Rapports préalables à la condamnation — \texttt{https://carnetdroitpenal.ca/fr/index.php?title=Rapports\_pr\%C3\%A9alables\_\%C3\%A0\_la\_condamnation} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : 526e8b576d4e800f…)
-\item Fondation du Barreau du Québec — Se préparer pour la cour en matière pénale (guide 2025) — \texttt{https://fondationdubarreau.qc.ca/assets/documents/Guide\_Comment-se-pr\%C3\%A9parer-pour-la-cour-en-mati\%C3\%A8re-p\%C3\%A9nale-VF-2025.pdf} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : 1a531a683a74c51f…)
-\item Code criminel (Canada), art. 721 — Rapport de l'agent de probation — \texttt{https://laws-lois.justice.gc.ca/eng/acts/c-46/section-721.html} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : b4214fa865244497…)
-\item Code criminel (Canada), art. 723 — Production d'éléments de preuve — \texttt{https://laws-lois.justice.gc.ca/eng/acts/c-46/section-723.html} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : ae8827f7896b2d13…)
-\item Code criminel (Légis Québec, version française) — \texttt{https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-46} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : e94b5dfe13448601…)
-\item Règles de pratique de la cour du Québec (chambre criminelle et pénale) — \texttt{https://www.canlii.org/fr/qc/legis/regl/rlrq-1981-c-t-16-r-6/derniere/rlrq-1981-c-t-16-r-6.html} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : e3b0c44298fc1c14…)
+\item Barreau du Québec — Site officiel — \url{https://www.barreau.qc.ca/} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : b433cab001b7644b…)
+\item Barreau du Québec — Détermination de la peine — \url{https://www.barreau.qc.ca/media/00idra3c/penal-peine.pdf} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : eb833c98ea934033…)
+\item Barreau du Québec — Procédure pénale — \url{https://www.barreau.qc.ca/media/osyeiodv/procedure-penale.pdf} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : d965858ea3391cb2…)
+\item Revue de droit criminel — Nguyen c. R., 2010 QCCA 1053\\
+\texttt{http://revuededroitcriminel.blogspot.com/2026/02/}\\
+\texttt{un-rapport-presentenciel-peut-etre.html}\\
+{\footnotesize 
+(statut : hors\_ligne; affinité max : 0.000; SHA-256 : 0aaceec01e5d1569…)
+}
+\item Le carnet de droit pénal — Rapports préalables à la condamnation —\\
+\texttt{https://carnetdroitpenal.ca/fr/}\\\texttt{index.php?title=Rapports\_pr\%C3\%A9alables\_}\\\texttt{\%C3\%A0\_la\_condamnation}\\
+{\footnotesize (statut : hors\_ligne; affinité max : 0.000; SHA-256 : 526e8b576d4e800f…)}
+\item Fondation du Barreau du Québec — Se préparer pour la cour en matière pénale (guide 2025) —\\
+\texttt{https://fondationdubarreau.qc.ca/assets/documents/}\\\texttt{Guide\_Comment-se-pr\%C3\%A9parer-pour-la-cour-}\\\texttt{en-mati\%C3\%A8re-p\%C3\%A9nale-VF-2025.pdf}\\
+{\footnotesize (statut : hors\_ligne; affinité max : 0.000; SHA-256 : 1a531a683a74c51f…)}
+\item Code criminel (Canada), art. 721 — Rapport de l'agent de probation — \url{https://laws-lois.justice.gc.ca/eng/acts/c-46/section-721.html} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : b4214fa865244497…)
+\item Code criminel (Canada), art. 723 — Production d'éléments de preuve — \url{https://laws-lois.justice.gc.ca/eng/acts/c-46/section-723.html} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : ae8827f7896b2d13…)
+\item Code criminel (Légis Québec, version française) — \url{https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-46} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : e94b5dfe13448601…)
+\item Règles de pratique de la cour du Québec (chambre criminelle et pénale) — \url{https://www.canlii.org/fr/qc/legis/regl/rlrq-1981-c-t-16-r-6/derniere/rlrq-1981-c-t-16-r-6.html} (statut : hors\_ligne; affinité max : 0.000; SHA-256 : e3b0c44298fc1c14…)
+
+\item[] \textbf{Sources normatives et documentation consultées pour la présentation du document :}
+\item Règlement de la Cour du Québec (C-25.01, r. 9), art. 9 et 71 — format, police et présentation des actes de procédure — \url{https://www.legisquebec.gouv.qc.ca/fr/document/rc/C-25.01,%20r.%209}
+\item Barreau du Québec — Le langage clair : un outil indispensable à votre pratique —\\
+\texttt{https://www.barreau.qc.ca/fr/membres-ordre/}\\\texttt{ressources/normes-outils-references-guides/}\\\texttt{langage-clair/}
+\item Guide du rédacteur fédéral (jurilinguistique législative française) — Représentation des nombres (chiffres arabes et chiffres romains) — \url{https://justice.gc.ca/eng/rp-pr/csj-sjc/legis-redact/juril/no116.html}
+\item Charte canadienne des droits et libertés, art. 2~b) — liberté d'opinion, d'expression et de la presse — \url{https://laws-lois.justice.gc.ca/fra/const/page-12.html}
+\item Charte des droits et libertés de la personne (Québec), art. 3 — liberté de conscience, d'opinion et d'expression — \url{https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-12}
+\item Loi sur la protection de la confidentialité des sources journalistiques (L.R.Q., c. P-33.1) — \url{https://www.legisquebec.gouv.qc.ca/fr/document/lc/P-33.1}
+\item Fondation du Barreau du Québec — Comment se préparer pour la cour en matière criminelle (guide 2025), chapitre « Le rapport présentenciel » — \url{https://fondationdubarreau.qc.ca/assets/documents/Guide_Comment-se-pr%C3%A9parer-pour-la-cour-en-mati%C3%A8re-criminelle-VF-2025.pdf}
 \end{itemize}
 
 Le dépôt effectif au greffe (nombre de copies, format numérique, délai) doit être confirmé auprès du greffe de la juridiction saisie.

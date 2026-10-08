@@ -1,0 +1,28 @@
+# LaTeX build artifacts
+*.aux
+*.toc
+*.log
+*.out
+*.bak
+
+# Python bytecode
+__pycache__/
+
+# Database files
+*.db
+# Nested/embarrassed repositories and scratch areas
+No-Dossier-cour-8953--PS--D/
+repo-remote/
+
+
+
+# Machine-specific / ephemeral (see .sidecar/.gitignore)
+.sidecar/cache/
+.sidecar/sessions/
+.sidecar/logs/
+.sidecar/scratchpad/
+.sidecar/audit-buffer/
+.sidecar/literature/
+.sidecar/screenshots/
+.sidecar/thinking/
+.sidecar/pids.json

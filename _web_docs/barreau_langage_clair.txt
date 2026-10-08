@@ -1,0 +1,263 @@
+﻿Le langage clair : un outil indispensable &#xE0; votre pratique | Barreau du Qu&#xE9;bec
+            if (f.fbq) return; n = f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments) };
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+            n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0];
+            'https://connect.facebook.net/en_US/fbevents.js');
+!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a
+                '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        })(window, document, 'script', 'dataLayer', 'GTM-N3K3DQD');
+                        Le Barreau du Québec est soucieux de la protection des renseignements personnels des utilisateurs de son site Web, et il met en œuvre les moyens nécessaires pour garantir la confidentialité de ces renseignements. Pour rendre possible la navigation sur son site, le Barreau recourt à des fichiers témoins, dans le respect des exigences posées par la loi. Pour en savoir plus sur notre politique à ce sujet, veuillez consulter notre 
+Déclaration de confidentialité et conditions d’utilisation
+                                            Déclaration québécoise pour l’état de droit
+Barreau de section, l&#x2019;&#xE9;quipe du Barreau, &#xE9;quit&#xE9;
+                                            Responsabilité sociale et environnementale
+Historique, statistique, st&#xE9;nographes, &#xE9;venement corpo
+                                                        Assistance juridique et assurance frais juridiques
+                                                        Utilisation de sommes d’argent ou de biens à d’autres fins
+                                                        Contester un compte d’honoraires d’avocat
+                                            Avis de radiation, de non-inscription, de limitation et de suspension
+                                                        Exercice en société, en multidisciplinarité ou en personne morale sans but lucratif
+                                                        Conservation, destruction et numérisation de dossiers
+                                            Démarrage et cheminement dans la profession
+                                                        Négociation des tarifs de l’aide juridique
+                                                        Le langage clair : un outil indispensable à votre pratique
+                                                        Calculateurs et tableaux de taux d’intérêt
+                                                        Tout savoir sur les technologies de l’information
+                                                        CAIJ : bibliothèques et information juridique en ligne
+tableau de l&#x27;ordre, d&#xE9;ontologie, inspection, avis de radiation, &#xE0; l&#x27;agenda
+                                                        Balises et conseils pour une conduite déontologique
+                                                        Conseil de discipline et horaire des auditions
+                                            Avis de radiation, de non-inscription, de limitation et de suspension
+Calculateurs et tableaux de taux d’intérêt
+                                                        Je suis un étudiant ayant complété des études de droit à l’étranger
+Ouvrir le tiroir La gouvernance et les comit&#xE9;s
+Fermer le tiroir La gouvernance et les comit&#xE9;s
+                                                                            Déclaration québécoise pour l’état de droit
+                                                                            Responsabilité sociale et environnementale
+Ouvrir le tiroir Hommages et reconnaissances
+Fermer le tiroir Hommages et reconnaissances
+Ouvrir le tiroir Faire affaire avec un avocat
+Fermer le tiroir Faire affaire avec un avocat
+Ouvrir le tiroir Acc&#xE8;s &#xE0; la justice
+Fermer le tiroir Acc&#xE8;s &#xE0; la justice
+                                                                                        Assistance juridique et assurance frais juridiques
+                                                                                        Utilisation de sommes d’argent ou de biens à d’autres fins
+                                                                                        Contester un compte d’honoraires d’avocat
+                                                                            Avis de radiation, de non-inscription, de limitation et de suspension
+                                                                                        Exercice en société, en multidisciplinarité ou en personne morale sans but lucratif
+                                                                                        Conservation, destruction et numérisation de dossiers
+                                                                            Démarrage et cheminement dans la profession
+Ouvrir le tiroir D&#xE9;marrage et cheminement dans la profession
+Fermer le tiroir D&#xE9;marrage et cheminement dans la profession
+                                                                                        Négociation des tarifs de l’aide juridique
+Ouvrir le tiroir Normes, outils, r&#xE9;f&#xE9;rences et guides
+Fermer le tiroir Normes, outils, r&#xE9;f&#xE9;rences et guides
+                                                                                        Le langage clair : un outil indispensable à votre pratique
+                                                                                        Calculateurs et tableaux de taux d’intérêt
+                                                                                        Tout savoir sur les technologies de l’information
+                                                                                        CAIJ : bibliothèques et information juridique en ligne
+Ouvrir le tiroir Soutien et programmes d&#x2019;aide
+Fermer le tiroir Soutien et programmes d&#x2019;aide
+Ouvrir le tiroir R&#xE9;seautage et avantages
+Fermer le tiroir R&#xE9;seautage et avantages
+Ouvrir le tiroir Tableau de l&#x2019;Ordre
+Fermer le tiroir Tableau de l&#x2019;Ordre
+Ouvrir le tiroir D&#xE9;ontologie des avocats
+Fermer le tiroir D&#xE9;ontologie des avocats
+                                                                                        Balises et conseils pour une conduite déontologique
+                                                                                        Conseil de discipline et horaire des auditions
+                                                                            Avis de radiation, de non-inscription, de limitation et de suspension
+Calculateurs et tableaux de taux d’intérêt
+                                                                                        Je suis un étudiant ayant complété des études de droit à l’étranger
+Ouvrir le tiroir Membres de l&#x2019;Ordre
+Fermer le tiroir Membres de l&#x2019;Ordre
+Ouvrir le tiroir Ressources et outils pour la pratique
+Fermer le tiroir Ressources et outils pour la pratique
+Ouvrir le tiroir Normes, outils, r&#xE9;f&#xE9;rences et guides
+Fermer le tiroir Normes, outils, r&#xE9;f&#xE9;rences et guides
+                            Démarrage et cheminement dans la profession
+                            Transformation de la justice | Programme Lexius
+                            La procédure simplifiée à la Cour du Québec
+Le langage clair : un outil indispensable à votre pratique
+Ouvrir le tiroir Le langage clair : un outil indispensable &#xE0; votre pratique
+Fermer le tiroir Le langage clair : un outil indispensable &#xE0; votre pratique
+                            Tout savoir sur les technologies de l'information
+                            Calculateurs et tableaux de taux d’intérêt
+                            CAIJ : bibliothèques et information juridique en ligne
+Le langage clair : un outil indispensable à votre pratique
+Une communication est claire lorsque sa formulation, sa structure et sa présentation aident l’interlocuteur à comprendre l’information transmise et le lecteur à trouver et utiliser rapidement celle-ci. 
+favorise l’accès à la justice pour le grand public
+renforce la confiance envers le système de justice
+accélère le traitement des dossiers grâce à une communication simple et une compréhension partagée des enjeux
+améliore les échanges entre la clientèle et l’avocat ou l’avocate, ce qui réduit les conflits et accroît la satisfaction 
+facilite les communications entre les personnes qui interviennent au dossier, dont la magistrature, les membres du Barreau, les clients et les clientes
+témoigne d’une réelle compétence : un bon ou une bonne juriste sait bien communiquer!
+Parmi les cinq grands rôles établis par le 
+Tant à l’écrit qu’à l’oral, l’avocat connaît l’importance du mot juste. S’exprimant dans une langue de qualité, il manie habilement les concepts et notions propres à ses activités professionnelles, mais adapte ses communications aux besoins et capacités de l’interlocuteur. L’avocat s’assure en tout temps d’être bien compris. Loin d’être limité au contexte du litige, le rôle de communicateur efficace implique de synthétiser, vulgariser et structurer l’information. Bien qu’il sache convaincre, il importe à l’avocat d’instaurer un climat de confiance lors de ses échanges. Pour recueillir les informations pertinentes et adapter son discours et ses stratégies, l’avocat doit connaître et comprendre les besoins de ses interlocuteurs en démontrant une grande qualité d’écoute. Habile négociateur, l’avocat fait preuve de tact et de diplomatie.
+Lorsqu’un membre du Barreau agit à titre de conseiller ou de conseillère auprès de sa clientèle, il doit expliquer  :
+les points de droit en cause dans un dossier;
+En somme, il veille à ce que son client ou sa cliente comprenne un univers qui lui est souvent étranger.
+ est clair  : l’avocat ou l’avocate doit communiquer avec ses clients de façon à être compris par ceux-ci. Il précise également que l’avocat ou l’avocate doit fournir à son client les explications nécessaires à la compréhension de ses services professionnels et de ses honoraires.
+S’exprimer en langage clair, à l’oral ou à l’écrit, ne signifie pas que l’on change le fond du message ou qu’on change le droit. L’objectif visé est simplement de rendre les écrits ou les propos plus accessibles pour que le destinataire puisse agir en conséquence.
+Ouvrir le tiroir Quelques règles doivent être respectées
+Fermer le tiroir Quelques règles doivent être respectées
+Tenir compte des besoins du client ou de la cliente
+Établir un rapport cordial et créer un climat favorable à la communication.
+Avoir le sens de l’observation et tenir compte du processus de la communication (comment on le dit) plutôt que de son seul contenu (ce qui est dit).
+Identifier ce que la personne veut savoir.
+Définir ses attentes : quel investissement de temps et d’argent est-elle prête à fournir? Quel résultat souhaite-t-elle obtenir? Quelles sont les solutions possibles selon elle?
+Utiliser des techniques de reformulation pour vous assurer d’avoir bien compris ce que votre client ou votre cliente vous indique.
+Pour bien communiquer avec l’autre, il faut connaître ses besoins. Pour ce faire, il est essentiel de se comprendre mutuellement, et le langage clair est un outil pour y parvenir. 
+Porter une attention particulière au choix des mots
+Employer des mots simples, de tous les jours. Éviter le jargon propre au monde juridique.
+Éviter de désigner une même chose par des mots différents.
+Éviter les chaînes de synonymes et les longues enfilades de noms et d’adjectifs.
+Éliminer autant que possible les anglicismes, les archaïsmes ou les termes et les tournures difficiles à comprendre.
+Restreindre l’usage des latinismes. Si vous les utilisez, expliquez-les.
+Faire preuve de rigueur, d’efficacité, et favoriser la concision dans les échanges.
+Utiliser la technique de la pyramide inversée : les informations les plus importantes en premier et les détails en dernier.
+Utiliser la voix active (des verbes d’action : agir, analyser, guider, soutenir, etc.). Cela rend le message plus direct et plus facile à comprendre.
+Faire des phrases courtes et des paragraphes de quelques lignes seulement (une idée par paragraphe).
+Donner des exemples ou faire des analogies pour expliquer un concept.
+Dans un document, utiliser une présentation attrayante pour faciliter la lecture, et éviter, autant que possible, les notes de bas de page.
+Utiliser des schémas pour illustrer des processus ou des notions plus complexes.
+Éviter les caractères trop petits, l’écriture en filigrane ou qui n’est pas orientée pour la lecture de gauche à droite.
+Il faut du temps et des efforts pour communiquer simplement.
+Voici comment rendre des notions complexes plus accessibles, en respectant les règles présentées plus haut  :
+Préparez-vous. Préparez votre message. Tâchez de prévoir les demandes de vos clients.
+Donnez à votre explication un caractère humain.
+Exprimez-vous simplement, avec le moins de mots techniques possible, mais si vous devez en employer, donnez alors des explications.
+Rendez le propos vivant et imagé (analogies, métaphores).
+Le langage clair peut aussi se traduire par une organisation de votre site Web qui permet aux utilisateurs et utilisatrices d’y accéder et de l’utiliser facilement.
+de créer un plan du site, de définir des parcours de navigation simples et intuitifs, des menus et des catégories clairs;
+d’analyser les besoins et les comportements des utilisateurs et des utilisatrices;
+de créer des maquettes pour visualiser la navigation et de faire des tests auprès d’utilisateurs ciblés pour identifier les problèmes;
+en résumé, d’organiser l’information et le parcours utilisateur afin que l’expérience soit fluide, efficace et agréable.
+Termes et tournures difficiles à comprendre
+Ouvrir le tiroir Termes et tournures difficiles à comprendre
+Fermer le tiroir Termes et tournures difficiles à comprendre
+Dans le langage juridique, de nombreuses expressions proviennent du latin, d’autres peuvent paraître abstraites ou incompréhensibles pour les clients et les clientes. Dans le but de faciliter la communication, il est utile de 
+Voici, par exemple, des expressions à utiliser avec prudence, accompagnées de suggestions pour les rendre accessibles.
+ (se tenir debout), signifie « soutenir une action en justice, comme demandeur ou défendeur. »
+                                        À éviter. Peut être remplacé par « engager une procédure », « intenter une action en justice » ou « agir en justice ».
+                                        Il s’agit de la liberté fondamentale de toute personne de ne pas être emprisonnée sans jugement et de son droit de savoir pourquoi elle est arrêtée et de quoi elle est accusée.
+                                        Expliquer. En bref : c’est une protection qui oblige l’État à justifier toute détention.
+                                        Désigne une personne ou un organisme qui n’est pas partie au procès, mais qui soumet des informations, analyses ou arguments pour aider le tribunal à prendre sa décision, souvent utilisé dans les affaires ayant une portée publique ou juridique importante.
+« personne ou organisme qui apporte un avis au tribunal ».
+                                        Acte postérieur à un testament en vue de le modifier ou de le compléter.
+                                        Expliquer. En bref : c’est une modification apportée à un testament existant.
+                                        Il s’agit d’un ordre donné à un témoin de comparaître en cour pour y être interrogé et présenter des pièces devant le tribunal (des documents ou des objets, par exemple).
+                                        Expliquer. En bref : c’est une obligation de produire des documents devant le tribunal.
+Ou remplacer par « assignation à produire ».
+                                        Signifie « jouant le rôle de parent » dans certaines juridictions.
+                                        Remplacer par « la personne qui tient le rôle de parent » lorsqu’applicable.
+                                        Désigne une décision judiciaire qui, avant de statuer sur le fond, ordonne des mesures pour compléter l'instruction de l'affaire.
+                                        Expliquer. En bref : c’est une décision provisoire, en cours d’instance, prise avant le jugement final.
+                                        Un « justiciable » est une personne ou une organisation concernée par la justice.
+                                        À éviter. Remplacer par « grand public », « la population », « les citoyens ou les citoyennes ».
+                                        Désigne un recours en justice par lequel une autorité ou un tribunal ordonne à une personne ou à une institution publique d’accomplir une obligation légale qu’elle refuse ou omet de faire. 
+                                        Expliquer. En bref : c’est un ordre de faire quelque chose que la loi impose.
+                                        Pourvoi en contrôle judiciaire (ou évocation)
+                                        Recours auprès d'une juridiction supérieure contre la décision d'un tribunal.
+                                        Expliquer. En bref : on demande à une instance supérieure de contrôler la conformité juridique d’un jugement.
+                                        Moyen par lequel s'acquiert ou s'éteint un droit dans un certain laps de temps, selon les conditions déterminées par la loi.
+                                        Expliquer. En bref : signifie qu’au-delà d’un certain temps, on ne peut plus faire valoir un droit devant les tribunaux.
+                                        Signifie qu’on agit sans renoncer à ses droits.
+                                        Expliquer. En bref : une position peut être exprimée sans engagement définitif et ne peut pas être utilisée contre la personne par la suite. 
+                                        Se dit d'une affaire pendante, d'un problème ou d'un litige soumis à la considération du tribunal qui n'a pas encore rendu sa décision.
+                                        Expliquer. En bref : indique qu’un dossier est toujours devant les tribunaux.
+                                        Déclaration appuyée d'un serment, reçue et attestée par une personne dûment autorisée.
+                                        Expliquer ce que ça veut dire et les circonstances dans lesquelles on peut la demander.
+                                        Ordre adressé à une personne pour qu'elle comparaisse devant un tribunal.
+                                        Expliquer. En bref : c’est un document officiel qui oblige une personne à se présenter devant un tribunal à une date donnée, généralement pour témoigner ou participer à une procédure.
+                                        Signifie « de fait » ou « en fait ». Se dit d'une situation qui existe sans fondement juridique ou d'une autorité qui est établie sans base légale.
+                                        Remplacer par « de fait » ou « en fait ».
+                                        Décision rendue par une Cour d'appel ou la Cour suprême d'un État.
+                                        Expliquer et donner un exemple (un arrêt de la Cour suprême du Canada).
+                                        Décision à caractère juridictionnel émanant d'un juge. 
+, pris dans un sens restreint, désigne les décisions rendues par les tribunaux du premier degré de juridiction et s'oppose au terme 
+                                        Expliquer et donner un exemple (un jugement de la Cour du Québec). En bref : c’est une décision rendue par un tribunal.
+                                        Maintenir, pour un tribunal, une décision portée en appel devant lui.
+                                        Expliquer. En bref : la décision initiale reste valide, le tribunal d’appel rejette les arguments de contestation et aucune modification n’est apportée au jugement.
+                                        Approuver, valider un document, un acte ou un jugement en vue de le rendre exécutoire.
+                                        Expliquer. En bref : signifie faire approuver officiellement une entente ou une décision par un tribunal.
+                                        En matière de preuve, fait réel ou fictif dont une personne physique n'a pas eu personnellement connaissance, mais qui lui a été communiqué par une autre qui en aurait eu personnellement connaissance.
+                                        Expliquer. En bref : c’est une information rapportée par une personne qui n’en est pas un témoin direct. Elle provient de ce que quelqu’un a entendu dire.
+                                        En droit criminel, examen par le juge, en l'absence du jury, de l'admissibilité d'un élément de preuve que l'on souhaite présenter.
+                                        Expliquer. En bref : c’est une courte audience pour aider le juge à trancher à savoir s’il va accepter ou non un élément de preuve.
+                                        Décision d'un tribunal qui enjoint à une personne d'accomplir ou de s'abstenir d'accomplir un acte.
+                                        Expliquer. En bref : c’est une consigne obligatoire donnée par un juge.
+                                        Une personne ou un groupe qui fait preuve de quérulence; autrement dit, qui exerce d'une manière excessive ou déraisonnable son droit de présenter une demande auprès d'une juridiction, notamment d'un tribunal judiciaire.
+                                        Expliquer. En bref : c’est une personne qui utilise les tribunaux de manière répétitive et persistante.
+                                        Transfert, dans un rapport juridique, d'un droit de créance d'une personne à une autre ou, parfois, substitution à un bien d'un nouveau bien qui prend son régime juridique.
+                                        Expliquer. En bref : une personne paie une dette à la place d’une autre et elle prend ensuite ses droits pour se faire rembourser.
+                                        Charge qu'un tribunal judiciaire confie à une autre autorité judiciaire ou à un officier de justice et qui consiste à exécuter en son nom des actes visant à obtenir certaines preuves, généralement des preuves par témoignages.
+                                        Expliquer. En bref : c’est une demande officielle pour faire une enquête à un autre endroit.
+                                        L'ensemble des décisions rendues par les tribunaux sur une même question ou sur des questions analogues.
+                                        Expliquer. En bref : c’est l’ensemble des décisions rendues par les tribunaux sur un même sujet.
+                                        Qui est fait gratuitement et sans obligation.
+                                        Signifie « au premier regard », « au premier coup d'œil », de « prime abord ».
+                                        Remplacer par « au premier regard », « au premier coup d'œil », de « prime abord ».
+                                        Se dit de ce qui constitue une conséquence obligée d'un fait ou d'un acte juridique.
+                                        Signifie l'état d'esprit de quelqu'un. L'intention d'un criminel. Décrit l'un des éléments devant être prouvé lorsqu'une personne a été accusée d'un crime. Cela équivaut à l'intention de commettre une chose moralement mauvaise ou, en d'autres mots, d'être dans l'état d'esprit d'un criminel.
+                                        Remplacer par « l’intention criminelle ».
+                                        En droit pénal, élément physique de l'infraction qui est le fait matériel (l'acte matériel) causé par la personne et qui est interdit par la loi (pénale).
+                                        Remplacer par « acte prohibé » ou « geste interdit ».
+                                        Remplacer par « pour ce cas précis » ou « adapté à la situation ».
+                                        En ne tenant pas compte des éléments différents, en faisant changer ce qui doit changer pour rendre la comparaison possible.
+                                        Remplacer par « avec les modifications nécessaires » ou « avec les adaptations nécessaires ».
+                                        Se dit de l'acte d'une personne, d'un corps administratif ou d'un législateur qui a agi en dehors de sa compétence ou juridiction, donc sans droit.
+                                        Remplacer par « agit au-delà des » ou « dépassant les limites de sa compétence ». 
+                                        Signifie « entends l’autre partie ». Exprime un principe de droit naturel selon lequel un tribunal ne peut statuer sur une question affectant une personne sans lui avoir donné la possibilité de se faire entendre pour exprimer son point de vue ou pour se défendre.
+                                        Remplacer par « le droit d’être entendu » ou « le droit de se faire entendre ».
+                                        Signifie « en fonction de la personne ». Se dit d'un contrat pour lequel des qualités ou des aptitudes personnelles d'un cocontractant constituent un élément essentiel.
+                                        Remplacer par « en fonction de la personne », « en considération de la personne » ou « lié à la personne concernée ».
+                                        Opinion qu’un juge émet dans son jugement, sans que celle-ci soit une justification de sa décision.
+                                        Remplacer par « une opinion émise par le juge ».
+                                        Signifie rapidité, promptitude dans l'exécution, sans retard.
+                                        Expliquer. En bref : c’est la rapidité avec laquelle une procédure est traitée. Elle vise un traitement sans délai inutile.
+ correspond aux règles de droit non écrites formant le droit public au Québec (administratif, criminel).
+À distinguer du droit civil, qui régit le droit privé (famille, biens, contrats, etc.) dans la province.
+                                        Expliquer la distinction. En bref : il s’agit de deux sources de droit différentes, ce qui influe sur la façon de faire des tribunaux.
+Le contenu de cette page a été tiré et adapté en grande partie de la 
+Le langage clair  : un outil indispensable à l’avocat
+ produite par le Barreau en 2010. Le contenu a également fait l’objet d’une mise à jour.
+La définition des termes présentés dans le tableau provient de l’Office québécois de la langue française, de la banque de données terminologiques du gouvernement du Canada Termium Plus et du dictionnaire Larousse.
+Le langage clair est l’un des éléments essentiels pour cultiver une bonne relation client-avocat.
+Mots clés à retenir pour communiquer efficacement
+La vulgarisation est l’ensemble des actions permettant d’accéder aisément aux connaissances d’une discipline particulière. La vulgarisation est le lien entre le spécialiste d’un domaine donné et la personne qui ne connaît rien ou presque de ce domaine.
+L’avocat ou l’avocate doit vulgariser les concepts juridiques et adapter son approche en fonction des besoins et des capacités de son interlocuteur ou de son interlocutrice.
+Office québécois de la langue française - Vocabulaire du droit
+Office québécois de la langue française - Terminologie de base de la pratique professionnelle
+ – Langage clair et design juridique : optimiser la communication professionnelle avec la clientèle
+(admissible pour 30 minutes de formation continue obligatoire)
+La rédaction claire et simple à votre portée – Blogue 
+ – Ressources du Portail linguistique du Canada – Canada.ca
+ : principes et recommandations pour une langue administrative de qualité
+Le langage clair en droit : pour une profession plus humaine, efficace, crédible et prospère!
+Les intentions de l’avocat ou de l’avocate et la perception des clients et des clientes
+Certaines de vos intentions peuvent être perçues de façon erronée par vos clients et clientes.
+                                        Perception possible de la part du client ou de la cliente
+                                        Impression de distance, de froideur et d’attitude impersonnelle
+                                        Demeurer dans l’objectivité et la stratégie
+                                        « On ne me comprend pas dans ce que je ressens. »
+                                        « Cette personne est pressée, je la dérange. »
+                                        Canaliser les émotions lors d’une audience
+                                        « Mon avocat me soupçonne, ne me croit pas ou il me juge. »
+                                        « Mes émotions et mon ressenti n’ont aucune valeur à ses yeux. »
+                                        « Mon dossier n’est pas (assez) important. »
+                                        « Il est indifférent, il ne me comprend pas. »
+                                        Refuser une demande risquée de la part du client ou de la cliente
+                                        Protéger le dossier et mitiger les risques
+                                        « Mon avocat est défaitiste. », « Mon avocate veut régler mon dossier rapidement. »
+                                        Respecter les contraintes de temps ou ne pas trop facturer
+Entre ce qu’on dit et ce qui est perçu, il y a parfois un fossé à combler. Ce décalage peut nuire à la compréhension et ralentir les échanges. Parfois, il suffit de prendre un peu plus de temps avec certaines personnes pour valider ce qui a été compris. D’autres fois, il peut être utile de mieux choisir l’ordre dans lequel on communique les informations. Il peut aussi s’agir de rassurer le client ou la cliente sur nos intentions, en les expliquant davantage.
+Et par-dessus tout, prendre le temps d’expliquer pourquoi vous dites une chose ou faites une action. Donner du sens à vos propos et à vos gestes permet d’éviter les interprétations. 
+Quand c’est clair pour tout le monde, la collaboration s’installe et se maintient plus facilement.
+Inscrivez-vous aux infolettres du Barreau
+ est le lien privilégié entre le Barreau du Québec et les avocats et les avocates. Le premier vendredi du mois, 
+ vous transmet les dernières nouvelles de l’Ordre, des outils d’aide à la pratique, les avis aux membres, les positions du Barreau, etc.
+ vous informe sur les activités courantes de l'Ordre et de certains partenaires : les formations, les conférences, les appels de candidatures, les événements, etc.
+ est une infolettre trimestrielle destinée aux citoyennes et aux citoyens qui vise à faire connaître les actions du Barreau et son engagement en matière d’accès à la justice.
+D&#xE9;claration de confidentialit&#xE9; et conditions d&#x27;utilisation
