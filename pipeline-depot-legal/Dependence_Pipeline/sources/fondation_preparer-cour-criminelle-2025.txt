@@ -1,0 +1,3531 @@
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.1] ---
+Comment
+se préparer
+pour la cour
+fondationdubarreau.qc.ca
+À propos de ce guide
+en matière criminelle
+De plus en plus de personnes se présentent à la cour sans avocat. C’est pourquoi la Fondation 
+du Barreau du Québec présente les guides Comment se préparer pour la cour.
+ 
+Ces guides donnent de l’information pour mieux comprendre les principales étapes du
+processus judiciaire. Ils permettent aussi aux lecteurs de faire des choix éclairés quant aux 
+démarches à entreprendre.
+L’information contenue dans ce guide s’applique uniquement aux personnes qui sont accusées 
+devant une cour criminelle.
+  
+Depuis 1978, la Fondation a pour mission de contribuer à l’avancement du droit et au soutien 
+d’une relève juridique diversifiée pour une société plus juste.
+Financée essentiellement par des dons privés, la Fondation compte sur le soutien de ses
+gouverneurs, ses donateurs, ses partenaires et sur les profits de ses événements-bénéfice  
+pour poursuivre sa mission. Organisation collective, ouverte sur la communauté et à l’écoute 
+des besoins, la Fondation du Barreau est rassembleuse et aspire à s’ancrer au coeur d’une 
+communauté juridique engagée pour l’avenir du droit.
+ 
+Pour en savoir plus sur la Fondation ou sur les publications gratuites qu’elle offre aux citoyens, 
+consultez son site Web : www.fondationdubarreau.qc.ca.
+3
+
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.2] ---
+1
+Ce guide contient de l’information générale sur le droit en vigueur au Québec. Il ne s’agit pas 
+d’une opinion ou d’un avis juridique. 
+Nous avons utilisé le genre masculin pour faciliter la lecture. Ce choix n’a aucune intention 
+discriminatoire.
+Ce guide s’adresse aux personnes qui sont accusées devant une cour criminelle.
+Dépôt légal – Bibliothèque nationale du Québec, 2024 
+Dépôt légal–Bibliothèque nationale du Canada, 2024
+Dernière mise à jour
+  :
+ Août 2024 
+ISBN 978-2-923946-14-6 (IMPRIMÉ)
+ISBN 978-2-923946-15-3 (PDF)
+Fondation du Barreau du Québec © Tous droits réservés
+Fondation du Barreau du Québec 
+445, boulevard Saint-Laurent, bureau 400  
+Montréal (Québec) H2Y 3T8  
+Téléphone
+  :
+ 514 954-3461  
+info@fondationdubarreau.qc.ca
+www.fondationdubarreau.qc.ca
+Direction générale
+ 
+: 
+Me Anne-Marie Poitras
+Direction du projet
+  :
+ 
+Justine Daneau
+Révision juridique
+ 
+:
+Me Marie-Claude Bourrassa
+Camille Lavoie-Rancourt
+L’honorable Maxime Roy
+Rédaction
+ 
+:
+Me Anaïs Bernier
+Me Anie-Claude Paquin  
+ 
+Conception graphique, visuelle
+  e
+t mise en page
+ :
+ 
+Justine Daneau 
+Marilyn Faucher
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.3] ---
+3
+Comment se préparer pour la cour   en matièr e criminelle
+Un guide qui ne s’applique 
+pas à tous les cas
+Seulement pour les causes criminelles
+L’information contenue dans ce guide s’applique uniquement aux dossiers qui relèvent du droit 
+criminel.
+Le droit criminel est large. Il englobe plusieurs types de situations prévues principalement dans le 
+Code criminel. Il s’agit d’infractions criminelles ou, plus simplement, de crimes. 
+En voici quelques exemples (la liste pourrait être beaucoup plus longue)
+ :
+•
+ L
+es voies de fait.
+•
+ L
+es méfaits.
+•
+ L
+’agression sexuelle.
+•
+ L
+a conduite avec les facultés affaiblies.
+•
+ L
+e bris de condition.
+•
+ L
+es crimes en matière de drogue.
+   
+Un procès criminel a ses propres objectifs, règles et procédures. Ce guide ne s’adresse pas à vous 
+si votre dossier concerne un autre type de droit, comme le droit familial ou le droit civil. Il ne 
+s’applique pas, non plus, pour les demandes particulières ou les recours spéciaux comme l’appel.
+… pas pour les contraventions (les «
+ tick
+ets
+ »)
+V
+ous avez reçu une contravention pour une infraction qui n’est pas un crime
+ ? En langage
+juridique,
+ il s’agit d’une infraction pénale. Habituellement, les règles de procédure sont moins 
+complexes que pour les causes criminelles. 
+C’est pour cette raison que nous avons préparé un guide spécialement pour ce type 
+d’infractions
+ 
+: Comment se préparer à la cour – en matière pénale. 
+Les infractions qui relèvent du droit pénal sont nombreuses. Elles sont prévues dans plusieurs lois, 
+telles que
+ 
+:
+•
+ Le
+ Code de la sécurité routière (ex. pour un excès de vitesse).
+•
+ La
+ Loi concernant la lutte contre le tabagisme (ex. pour avoir fumé dans un lieu où il est 
+ in
+terdit de le faire).
+•
+ Un r
+èglement municipal (ex. pour un excès de bruit).
+
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.4] ---
+5
+Comment se préparer pour la cour   en matièr e criminelle
+Seulement pour les cours de justice du
+Québec
+Toutes les salles de cour ne fonctionnent pas de la même manière. 
+Ce guide vise les causes qui se déroulent devant l’une ou l’autre de ces cours
+ :
+•
+ L
+es cours municipales.
+•
+ L
+a Cour du Québec, Chambre criminelle et pénale.
+•
+ L
+a Cour supérieure, Chambre criminelle.
+Ce guide ne s’adresse pas à vous si votre dossier se déroule dans l’une ou l’autre de ces cours
+ :
+•
+ L
+a Cour d’appel du Québec.
+•
+ L
+es tribunaux fédéraux et tout autre tribunal qui n’a pas compétence pour entendre les 
+  
+ causes de nat
+ure criminelle.
+Seulement pour les adultes
+Les adolescents peuvent être accusés d’un crime eux aussi. 
+Même s'ils peuvent être accusés des mêmes crimes que les adultes, le processus judiciaire qui 
+s’applique aux adolescents est différent. 
+C’est pour cette raison que ce guide ne s’applique pas aux adolescents.
+
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.5] ---
+7
+Comment se préparer pour la cour   en matièr e criminelle
+Table des matières
+Un guide qui ne s’applique 
+pas à tous les cas
+2 Seulemen t pour les causes criminelles 
+4
+ Seulemen
+t pour les cours de justice du 
+ 
+ 
+Québec
+4
+ Seulemen
+t pour les adultes
+11
+ L
+’avocat ne va pas vous dénoncer
+12 Trop cher ? Il y a des options à considérer
+ 
+14
+ À
+ la suite de votre arrestation ou détention
+17
+ P
+endant le processus judiciaire
+19
+ V
+ous droits ne sont pas respectés ?
+Demander l’aide d’un  
+avocat… ou non 
+Vous avez des droits
+26  L a négociation
+29 
+ L
+a conférence de facilitation 
+30 
+ L
+es programmes de mesures de rechange
+ 
+(PMR)
+32 
+ L
+e 810 (engagement de ne pas troubler
+ l’
+ordre public)
+34
+ V
+ous avez une audience à la cour ? 
+  
+ So
+yez-y !
+35
+ 1.
+ La comparution
+40
+ 2.
+ L’enquête caution, pour décider si vous
+ demeur
+ez détenu ou non
+42 3.
+ Le pro forma
+43 4.  L’enquête préliminaire
+44
+ Connaîtr
+e les règles de savoir-vivre à la 
+ 
+ 
+cour
+46
+ L
+es audiences virtuelles
+47 L
+’ordonnance de non-publication
+ (dans cer
+tains cas)
+Des options pour 
+régler le conflit
+Les étapes à la cour
+avant le procès
+• Droit de savoir pourquoi vous êtes détenu ou arrêté
+• Droit au silence
+• Droit de ne pas être fouillé de manière abusive
+• Droit à un avocat
+Le point de départ
+du processus
+20  L a citation à comparaître, la promesse de  
+ compar
+aître et la sommation
+22
+ Ce n'es
+t pas la victime qui poursuit
+23
+ L
+e cheminement d'une plainte
+• Vous êtes présumé innocent jusqu'à preuve du 
+contraire
+• Vous avez droit à un procès dans un délai 
+raisonnable
+14
+15
+16
+16
+17
+18
+Poursuite par mise en
+accusation ou par 
+procédure sommaire ?
+24  L a différence est importante   
+• Les étapes de la comparution
+• La comparution d’un accusé détenu
+35
+39
+Préparer le procès 49 1.  Comprendre le droit qui s'applique
+52 2.
+ Préparer sa preuve matérielle
+54
+ 3
+. Préparer ses témoins
+57 4.
+ Préparer ses questions
+60
+ 5
+. Réviser le dossier
+61 6.
+ Apporter tout le nécessaire
+• La loi et les règlements
+• Les décisions des tribunaux (jurisprudence)
+• Les textes de théorie (doctrine)
+50
+51
+51
+• Le témoin qui raconte ce qu’il a vu ou entendu
+• Le témoin qui donne son opinion
+• Les témoins de la poursuite
+54
+56
+57
+• Les questions de l’interrogatoire
+• Les questions du contre-interrogatoire
+• … et votre témoignage aussi !
+57
+58
+59
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.6] ---
+9
+Comment se préparer pour la cour   en matièr e criminelle
+Table des matières
+Le procès
+La peine 
+Des ressources pour
+y voir plus clair
+• C’est la poursuite qui commence
+• Les témoignages
+• L’interrogatoire
+• Le contre-interrogatoire
+• Les documents mis en preuve
+• L’admissibilité de la preuve
+• Le voir-dire
+62 L es premiers moments
+64
+ C’
+est à la poursuite de prouver votre culpabilité
+65 L
+a présentation de la preuve
+71
+ L
+’argumentation (la plaidoirie)
+72 L
+es directives du juge au jury
+73 L
+e délibéré
+73 L
+e verdict
+74 Obser
+vations sur la peine 
+76 L
+e rapport présentenciel
+77
+ L
+e rapport Gladue, pour les Autochtones
+78 L
+es peines possibles
+ 
+82
+ P
+as toujours possible
+L'appel
+84 P our trouver de l’information et des 
+ décisions 
+des tribunaux
+86
+ P
+our trouver des formulaires
+87 P
+our poser des questions
+Index :
+pour comprendre le jargon
+90 Inde x thématique
+65
+66
+66
+66
+68
+69
+70
+• Absolution
+• « 109 »
+• Ordonnance de probation
+• Sursis de peine (sentence suspendue)
+• Amende
+• Emprisonnement avec sursis
+• Emprisonnement discontinu
+• Emprisonnement ferme
+• Suramende compensatoire
+• Autres ordonnances
+78
+78
+79
+79
+79
+80
+80
+81
+81
+81
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.7] ---
+11
+Demander l’aide d’un avocat… ou non
+Comment se préparer pour la cour   en matièr e criminelle
+Demander l’aide  
+d’un avocat… ou non
+Lorsque vous êtes accusé, vous pouvez être représenté par un avocat ou agir seul devant la cour. 
+Il n’y a pas d’autres options. Vous ne pouvez pas demander à un membre de votre famille ni à un 
+ami de faire cela pour vous. Seul un avocat peut parler en votre nom ou agir à votre place à la 
+cour. 
+Être représenté par un avocat 
+Si vous décidez d’être représenté par un avocat, vous pouvez choisir qui vous représentera. Il faut 
+cependant que l’avocat vous accepte comme client et accepte le mandat que vous lui confiez.
+Vous ne connaissez pas d’avocat
+ ? Des r
+egroupements ou des associations d’avocats offrent des 
+services de référence par domaine de droit et par région. Pour plus d’informations, consultez la 
+section «
+ 
+Services de référence
+ 
+ » sur le site du Barreau du Québec. Vous pouvez taper «
+ 
+Service 
+de référence et Barreau
+ 
+» dans un moteur de recherche tel que Google.
+Se représenter seul 
+Il se peut que vous n’ayez pas les moyens financiers pour payer un avocat. Que ce soit par choix 
+ou non, vous pouvez vous représenter seul devant les tribunaux en matière criminelle au Québec. 
+Sans avocat, vous aurez à accomplir vous-même toutes les tâches qui sont expliquées dans ce 
+guide. 
+Les règles de droit et de procédure peuvent être difficiles à comprendre et il peut être compliqué 
+de s’y retrouver. Il est important de savoir qu’elles sont applicables à tous de la même manière. 
+Si vous agissez seul, vous ne bénéficiez malheureusement d’aucun traitement spécial de la cour. 
+Vous devez vous informer des règles à suivre, comprendre ces règles et vous y conformer. 
+Évidemment, vous devrez interagir avec le procureur de la poursuite qui connaît les règles de 
+droit et de procédure applicables. Si vous voulez lui poser des questions, il doit vous donner la 
+bonne information, mais vous ne pouvez pas compter sur son assistance ou ses conseils.
+L’avocat ne va pas vous dénoncer
+Vous ne voulez pas d’avocat par peur qu’il vous dénonce ? R assurez-vous, il n’a pas le droit de 
+vous dénoncer.
+Même s’il est au courant de votre crime, l’avocat peut quand même vous défendre au moment 
+du procès. Par contre, il devra respecter certaines règles. Il ne pourra pas mentir ni vous
+permettre de mentir. 
+Si vous décidez d’être représenté par un avocat, vous pouvez donc lui parler librement. C’est 
+d’ailleurs en étant transparent et honnête avec lui qu’il pourra vous défendre et vous conseiller 
+adéquatement. 
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.8] ---
+13
+Demander l’aide d’un avocat… ou non
+Comment se préparer pour la cour   en matièr e criminelle
+2. Une consultation brève ou un mandat ciblé avec un avocat 
+Si vous agissez seul dans votre dossier ou devant la cour, vous pouvez consulter un avocat, ne 
+serait-ce que pour quelques heures.  
+Cela peut être particulièrement utile au début des procédures, mais une telle aide peut être
+sollicitée à n’importe quel moment. Si vos moyens sont limités, choisissez le moment qui vous 
+sera le plus utile pour investir cet argent. 
+Vous pouvez aussi consulter brièvement un avocat pour déterminer combien il en coûterait pour 
+qu’il vous représente ou vous assiste, que ce soit pour une partie seulement ou pour la totalité 
+des procédures.  
+Discutez avec un avocat des ententes possibles quant à ses honoraires. Dans certains cas, un 
+avocat peut accepter de travailler pour un montant forfaitaire ou accepter d’autres modalités 
+avantageuses pour votre situation. 
+3. Les services de référence
+Certains services de référence vous permettent d’obtenir une première consultation à moindre 
+coût ou gratuite.  
+Vous obtiendrez plus de détails sur ce service en consultant le site Web du Barreau du Québec 
+(sous l’onglet « Trouver un avocat ») au https://www.barreau.qc.ca/fr/trouver-un-avocat. 
+Trop cher ? Il y a des options à considérer
+Avant de conclure que vous n’avez pas les moyens financiers d’engager un avocat, vous pouvez 
+considérer les options suivantes
+  :
+ 
+•
+ L
+’aide juridique.
+•
+ Une consult
+ation brève ou un mandat ciblé avec un avocat. 
+•
+ L
+es services de référence. 
+1. L’aide juridique
+Vous avez peut-être droit à l’aide juridique, qui permet d’être représenté par un avocat
+gratuitement ou à faible coût. 
+Pour vérifier si vous êtes admissible, contactez le Bureau d’aide juridique de votre localité, ou 
+consultez le site Web de la Commission des services juridiques au www.csj.qc.ca. 
+Si vous avez été déclaré admissible à l’aide juridique, vous pouvez confier un mandat d’aide
+juridique à un avocat de la pratique privée. En acceptant le mandat que vous lui confiez,
+l’avocat ne pourra pas vous imposer un tarif horaire et sera plutôt rémunéré par la Commission 
+des services juridiques.
+
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.9] ---
+15
+Vous avez des droits
+Comment se préparer pour la cour   en matièr e criminelle
+Vous avez des droits 
+À la suite de votre arrestation ou détention
+Vous vous êtes fait arrêter ? P eut-être pas, mais vous n’étiez pas libre de partir  ? Il s ’agit peut-être 
+d’une détention pour fins d’enquête. Dans les deux cas, vous avez des droits. 
+D’abord, la police doit avoir une raison valable pour vous arrêter ou vous détenir. Elle ne peut pas 
+simplement se fier à son instinct. Dans le cas de la détention pour fins d’enquête, on parle de 
+«
+ soup
+çons
+ » r
+aisonnables. Mais pour avoir le droit de vous arrêter sans mandat, la police doit avoir 
+plus que des soupçons. Elle doit avoir des motifs raisonnables de croire que vous avez commis ou 
+que vous êtes sur le point de commettre un crime. 
+Vous avez aussi les droits suivants
+ :
+•
+ Dr
+oit de savoir pourquoi vous êtes détenu ou arrêté.
+•
+ Dr
+oit au silence.
+•
+ Dr
+oit de ne pas être fouillé de manière abusive.
+•
+ Dr
+oit à l’avocat.
+Tous ces droits sont protégés par la Charte canadienne des droits et libertés (la Charte). Ils sont 
+importants et leur violation pourrait avoir un impact sur votre procès. 
+Droit de savoir pourquoi vous êtes détenu ou arrêté
+Vous avez le droit d’être informé des motifs de votre arrestation ou détention dans les plus brefs 
+délais. Les policiers doivent vous expliquer clairement ce qui vous est reproché. 
+Ce droit vient de l’article 10 a) de la Charte.
+Droit au silence
+«  Vous avez le droit de garder le silence. Si vous renoncez à ce droit, tout ce que vous direz pourra 
+être et sera utilisé contre vous devant une cour de justice.  »
+V
+ous avez déjà regardé une série policière
+ ? 
+Vous avez sans doute déjà entendu cette phrase. 
+D’ailleurs, les policiers ont l’obligation de vous informer de ce droit lors de la détention ou de 
+l’arrestation.
+Le droit au silence vous permet de choisir librement si vous souhaitez ou non parler aux policiers. Les 
+policiers doivent respecter ce choix, mais ils peuvent insister et continuer de vous interroger. C’est à 
+vous de demeurer silencieux  !
+ 
+Si vous décidez de garder le silence, personne ne pourra conclure que c’est parce que vous êtes 
+coupable. D’ailleurs, le juge ne pourra rien conclure de votre silence. Mais si vous décidez de parler, 
+tout ce que vous avez dit aux policiers pourra être utilisé contre vous au procès.
+Ce droit vient des articles 7 et 11 c) de la Charte. 
+Vous devez quand même vous identifier
+Il existe des situations où vous avez l’obligation de vous identifier à la demande des policiers. Vous 
+devez alors leur donner votre nom, votre adresse et votre date de naissance. Vous pouvez refuser de 
+répondre à toute autre question.
+Vous refusez de vous identifier
+ ? Ou 
+vous donnez une fausse identité
+ ? L
+es policiers peuvent alors 
+vous arrêter et vous amener au poste de police.  
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.10] ---
+17
+Vous avez des droits
+Comment se préparer pour la cour   en matièr e criminelle
+Droit de ne pas être fouillé de manière abusive
+Les policiers ne peuvent pas fouiller n’importe qui, n’importe quand ni n’importe comment. 
+Par contre, les policiers ont le droit de vous fouiller dans certaines circonstances. Par exemple
+ :
+• V ous avez été arrêté.
+•
+ V
+ous êtes détenu et les policiers croient que votre sécurité, la leur ou celle de quelqu’un 
+ d’
+autre est menacée. 
+•
+ V
+ous leur avez donné la permission alors que vous saviez que vous pouviez refuser.
+Plusieurs règles existent pour encadrer le droit de fouille des policiers. Ce qu’ils peuvent faire ou ne 
+peuvent pas faire dépend de la situation. 
+Si vous croyez avoir fait l’objet d’une fouille abusive, renseignez-vous auprès d’un avocat. Une 
+preuve obtenue illégalement pourrait être exclue (c’est-à-dire qu’elle ne pourrait pas être utilisée 
+contre vous). Elle peut aussi donner ouverture à l’arrêt des procédures. 
+Ce droit vient de l’article 8 de la Charte. 
+Droit à un avocat
+Vous êtes arrêté ou détenu ? L es policiers ont l’obligation de  :
+• V ous informer sans délai de votre droit à l’avocat.
+•
+ V
+ous donner la possibilité raisonnable de communiquer en toute confidentialité avec un 
+  
+ 
+avocat.
+•
+ V
+ous informer de la possibilité de parler gratuitement à un avocat en urgence, 24 h sur 24, 7 
+ 
+ jour
+s sur 7.
+•
+ S’
+abstenir de vous questionner jusqu’à ce que vous ayez eu la possibilité de communiquer 
+ 
+ av
+ec un avocat.
+Seule votre renonciation claire, libre et volontaire peut libérer les policiers de leur obligation. 
+Même si vous décidez de vous représenter seul durant les procédures à la cour, rien ne vous 
+empêche de parler à un avocat au moment de l’arrestation ou de la détention. Autrement dit, ce 
+n’est pas parce que vous choisissez de vous représenter seul à la cour que vous renoncez à votre 
+droit à l’avocat en cas d’arrestation ou de détention. 
+Ce droit vient de l’article 10 b) de la Charte. 
+Pendant le processus judiciaire
+Toutes les personnes accusées d’un crime ont les droits suivants :  
+• Pr ésomption d’innocence.
+•
+ Pr
+ocès dans un délai raisonnable. 
+Vous êtes présumé innocent jusqu’à preuve du
+contraire
+Vous avez sans doute déjà entendu parler de la présomption d’innocence. Grâce à elle, ce n’est 
+pas à vous de prouver votre innocence. C’est à la poursuite de prouver que vous êtes coupable. 
+Autrement dit, elle en a le fardeau.  
+La preuve de la poursuite doit
+  êtr
+e faite :
+•
+ Con
+formément à la loi. 
+•
+ De
+vant un tribunal indépendant et impartial. 
+•
+ Dans le cadr
+e d’un procès public, juste et équitable.
+La poursuite doit convaincre le juge ou le jury que vous êtes coupable «
+ hor
+s de tout doute
+raisonnable
+ ».
+ C’est un seuil élevé. Il s’agit d’un niveau de certitude qui est très proche d’être 
+absolu. Si la preuve présentée par la poursuite n’est pas suffisante ou si vous soulevez un doute 
+raisonnable, vous serez donc déclaré non coupable.
+La présomption d’innocence est prévue à l’article 11 d) de la Charte. 
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.11] ---
+19
+Vous avez des droits
+Comment se préparer pour la cour   en matièr e criminelle
+Vous avez le droit d’être jugé dans un délai raisonnable. Autrement dit, vous avez le droit de subir 
+votre procès sans avoir à attendre trop longtemps.
+Préparer un procès, c’est assez long. D’un autre côté, attendre son procès amène son lot
+d’inconvénients, comme le stress, des conditions à respecter pour une très longue période ou 
+peut-être même la perte d’opportunités d’emploi. Il faut donc trouver le juste équilibre. 
+La Cour suprême du Canada, dans l’arrêt Jordan, a établi des délais limites afin de fixer un 
+procès. 
+Qu’est-ce qu’un délai raisonnable
+ ?
+Ça dép
+end du dossier. Pour les procès devant la Cour du Québec ou la cour municipale, le délai 
+est généralement de 18 mois. Mais pour les procès devant la Cour supérieure ou s’il y a une
+enquête préliminaire, le délai est de 30 mois.
+Attention
+ :
+ on ne compte pas dans ces délais ceux causés par la défense (par exemple, le report 
+d’une audition à la demande de la défense).
+Que se passe-t-il lorsque les délais sont dépassés
+ ?
+On pr
+ésume que le droit d’être jugé dans un délai raisonnable est violé. La poursuite doit alors 
+démontrer que le dépassement des délais est dû à des circonstances exceptionnelles,
+indépendantes de sa volonté. Si elle ne peut le faire, il peut y avoir un arrêt des procédures.  
+Dans ce cas, vous ne serez ni coupable ni acquitté, mais il n’y aura plus procès contre vous. 
+Le droit d’être jugé dans un délai raisonnable est prévu à l’article 11 b)  
+de la Charte. 
+Vous avez droit à un procès dans un délai raisonnable Vos droits ne sont pas respectés ? 
+Si vous estimez que l’un de vos droits constitutionnels n’a pas été respecté, vous pouvez
+demander une réparation au juge qui présidera votre procès. 
+En règle générale, ce sera à vous de prouver que votre droit n’a pas été respecté. Vous pourrez 
+questionner les policiers et faire entendre vos témoins pour le démontrer.
+Le juge va d’abord évaluer si votre droit a été violé. En d’autres mots, il déterminera si votre droit 
+n’a pas été respecté. S’il conclut qu’il y a eu une violation, il devra décider ensuite s’il accorde ou 
+non une réparation. En effet, le non-respect d’un droit n’entraîne pas toujours une réparation.
+Voici quelques réparations possibles
+ :
+•
+ R
+emise de votre procès à une date ultérieure.
+•
+ Ex
+clusion d’un élément de preuve.
+•
+ Arr
+êt des procédures.
+Comment en faire la demande
+Vous devez aviser le juge et la poursuite de votre intention de plaider que vos droits
+constitutionnels n’ont pas été respectés. Pour ce faire, vous devez faire une requête.
+En principe, vous devez transmettre votre requête à la poursuite (par lettre, courriel ou
+télécopieur) avant le procès, mais le juge peut en décider autrement. Vous pouvez communiquer 
+avec le Bureau des procureurs de la poursuite pour savoir quel avocat est responsable de votre 
+dossier.
+Si vous souhaitez faire de telles démarches, parlez-en au juge. Vous pouvez aussi en parler
+gratuitement à un avocat de l’un des centres d'Info Justice (info-justice.ca).
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.12] ---
+21
+21
+Le point de départ du processus
+Comment se préparer pour la cour   en matièr e criminelle
+Le point de départ du 
+processus
+Ces documents peuvent également vous convoquer à une autre date et à un autre lieu pour 
+vous soumettre à une prise d’empreintes digitales et une photographie. Vous devez également 
+vous y présenter.
+La particularité de la promesse de comparaître
+La promesse de comparaître peut comporter des conditions à respecter pour garder sa liberté. 
+Si vous avez reçu une promesse, vous devez respecter les conditions prévues par celle-ci jusqu’à 
+la fin du processus judiciaire. En cas de non-respect, il y aura des conséquences. Par exemple, 
+vous pourriez perdre votre liberté. 
+Voici quelques exemples de conditions
+ :
+•
+ Ne p
+as communiquer avec certaines personnes, directement ou indirectement.
+•
+ Ne p
+as posséder d’arme à feu.
+•
+ Se pr
+ésenter à la police à certains moments.
+Vous vous êtes fait arrêter
+ ? C
+’est parce que le policier avait de bonnes raisons de croire que vous 
+avez commis une infraction criminelle.
+À la suite de l’arrestation, le policier avait 2 options
+ :
+Op
+tion 1
+ :
+ Vous garder détenu. 
+Dans ce cas, vous avez comparu détenu devant un juge dans les meilleurs délais. 
+Option 2 :
+ Vous remettre en liberté. 
+Dans ce cas, vous avez pu rentrer à la maison. Le policier vous a remis soit  :
+•
+ Une cit
+ation à comparaître.
+•
+ Une pr
+omesse de comparaître.
+•
+ Une sommation.
+La citation à comparaître, la promesse de 
+comparaître et la sommation
+Ce que c’est
+Ce sont 3 documents qui ont un objectif commun
+ :
+ s’assurer que la personne soupçonnée d’avoir 
+commis un crime se présente à la cour pour comparaître. Pour en savoir plus sur la comparution, 
+consultez les pages 35 à 39 de ce guide.
+La citation et la promesse de comparaître sont délivrées au moment de la remise en liberté, alors 
+que la sommation peut parfois être délivrée plus tard. 
+Si vous avez reçu l’un ou l’autre de ces documents, vous devez vous présenter à la cour à la date 
+et au lieu inscrits.
+
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.13] ---
+23
+23
+Le point de départ du processus
+Comment se préparer pour la cour   en matièr e criminelle
+Avez-vous remarqué que votre dossier s’intitule R. c. Votre nom ?
+L
+a lettre R. désigne « le Roi » et la lettre c. signifie «
+ con
+tre
+ ».
+ En effet, c’est l’État (donc le Roi) qui 
+vous poursuit. 
+Bien entendu, ce n’est pas le Roi Charles qui portera la toge le jour de l’audience. C’est le 
+procureur aux poursuites criminelles et pénales qui gère le dossier et prend les décisions quant à 
+la poursuite du dossier. Par exemple, c’est lui qui décide du choix et du nombre d’accusations. 
+Ce n’est donc pas la personne victime qui vous poursuit. Elle n’a pas, non plus, le pouvoir de retirer 
+sa plainte. 
+Ce n’est pas la victime qui poursuit
+Une accusation sans plainte ?
+C
+’est possible. En effet, une personne peut être accusée d’un crime, même si la victime ne
+souhaite pas porter plainte. S’il y a des témoins et suffisamment de preuves, le procureur pourrait 
+autoriser le dossier. 
+Les policiers reçoivent la plainte.
+1
+Les policiers décident s'ils retiennent ou non
+la plainte et s'ils tiennent une enquête.2
+Au terme de l'enquête, le policier enquêteur 
+soumet le dossier au procureur.3
+Le procureur qui reçoit le dossier d'enquête 
+doit l'étudier afin de décider s'il autorise ou 
+non la plainte et s'il porte ou non les
+accusations appropriées.
+4
+Le cheminement d’une plainte
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.14] ---
+25
+Comment se préparer pour la cour   en matièr e criminelle
+Poursuite par mise en accusation ou par procédure sommaire ?
+Il existe deux modes de poursuite:
+1.
+ P
+ar mise en accusation.
+2.
+ P
+ar procédure sommaire.
+Il est important de savoir par quel mode on vous poursuit afin de bien vous préparer. 
+La procédure par mise en accusation est réservée aux crimes plus graves. On appelle ces crimes 
+des “actes criminels” .
+La poursuite par procédure sommaire s’applique aux crimes qu’on appelle des « infractions 
+sommaires ». La procédure est moins complexe et les peines sont moins sévères que pour les 
+poursuites par mise en accusation. 
+Il existe une troisième catégorie de crime: « l’infraction hybride », qu’on appelle aussi « infraction 
+mixte ». Si on vous accuse d’un tel crime, c’est à la poursuite de décider du mode de poursuite : 
+par mise en accusation ou par procédure sommaire. Vous serez informé de la procédure lors de 
+votre comparution.
+Poursuite par mise en
+accusation ou par procédure 
+sommaire ?
+Poursuite par mise en 
+accusation 
+(pour les actes criminels)
+ 
+Poursuite par procédure 
+sommaire
+(pour les infractions sommaires)
+Procédure
+Peine
+Dossier criminel
+Voici un aperçu des différences entre les deux modes de poursuite :
+Gravité Plus grave Grave
+Plus complexe
+ 
+: 
+•
+ Enquêt
+e préliminaire possible1.
+•
+ Pr
+ocès devant jury possible.
+1.  Pour comprendre ce qu’est une enquête préliminaire, consultez la page 43 de ce guide.  
+Moins complexe : 
+•
+ Pr
+ocès devant juge seul.
+Plus sévère Sévère
+Entraîne un dossier criminel Entraîne un dossier criminel
+Exemples •  Meur tre ou tentative de meurtre.
+•
+ V
+oies de fait graves.
+•
+ A
+gression sexuelle armée.
+•  T roubler la paix.
+•
+ Êtr
+e nu dans un endroit  
+ 
+public.
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.15] ---
+27
+Comment se préparer pour la cour   en matièr e criminelle
+Des options pour régler le conflit
+Parfois, c’est possible de s’entendre avec la poursuite. C’est même assez fréquent. En effet, la 
+plupart des dossiers se règlent avant le procès.
+Vous pourrez peut-être éviter le procès grâce à l'une ou l'autre de ces options
+ :
+•
+ L
+a négociation.
+•
+ L
+a conférence de facilitation. 
+•
+ Un pr
+ogramme de mesures de rechanges.
+•
+ Un engagemen
+t de ne pas troubler l’ordre public.
+La négociation
+Ce que c’est
+La négociation permet d’arriver à une entente avec la poursuite en acceptant de faire certains 
+compromis. Une telle entente pourrait vous éviter de subir un procès. 
+Il s’agit d’un processus informel qui est mené uniquement par la poursuite et vous-même,
+c’est-à-dire la défense. Elle peut aussi se faire avec le juge.
+La négociation peut se faire à tout moment. 
+Ce n’est pas une obligation 
+•
+ L
+a poursuite
+ 
+:
+Le procureur de la poursuite n’est pas tenu de négocier avec vous ni d’accepter vos propositions.  
+Il a également certaines balises à respecter dans le cadre de la négociation.
+•
+ L
+e juge
+ 
+:
+Le juge n’est pas obligé d’accepter les recommandations communes des parties, sauf s’il était 
+impliqué dans la négociation. Dans ce cas, le juge sera lié. 
+•
+ V
+ous
+ 
+:
+Évidemment, vous aussi avez votre mot à dire sur la négociation. Personne ne peut vous y 
+obliger. 
+Ce que vous pouvez négocier
+Vous pouvez négocier avec le procureur de la poursuite en vue d’obtenir une entente sur les
+accusations ou une entente sur la peine.
+Si vous concluez une entente avec la poursuite et que cette entente prévoit que vous plaidiez 
+coupable, vous devrez renoncer à votre droit de subir un procès en bonne et due forme.  
+Pourquoi  ? Parce que plaider coupable, c’est reconnaître que vous avez bel et bien commis  
+le crime qu’on vous reproche. Il faut donc prendre cette décision de manière réfléchie.
+Des options pour 
+régler le conflit
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.16] ---
+29
+Comment se préparer pour la cour   en matièr e criminelle
+Des options pour régler le conflit
+Voici des exemples de ce que vous pouvez négocier :
+Négociation sur les chefs d’accusation
+•
+ Une accusation moins gr
+ave
+La poursuite pourrait accepter de vous accuser d’un crime moins grave que celui qui vous est reproché. 
+À quelle condition
+ ? Que 
+vous plaidiez coupable. Vous risquez ainsi une peine moins lourde. En langage 
+juridique, il s’agit d’une négociation pour la «
+ diminution de l’in
+fraction
+reprochée à une infraction moindre ou incluse
+ ».
+•
+ L
+e retrait ou l’abandon d’accusations
+Par exemple, la poursuite pourrait accepter d’abandonner les accusations et de vous donner plutôt un 
+engagement de garder la paix (un «
+ 810
+ »).
+ Si vous êtes accusé de plusieurs crimes, elle pourrait aussi 
+accepter de retirer un chef d’accusation si vous acceptez de plaider coupable aux autres. 
+•
+ L
+e regroupement des chefs d’accusation
+Vous êtes peut-être accusé de plusieurs chefs. S’ils sont liés aux mêmes faits, la poursuite peut accepter 
+de les regrouper sous un seul chef.
+Négociation sur la peine
+•
+ Une pr
+omesse de recommander une peine
+La poursuite peut s’engager à recommander une peine précise.
+•
+ Une pr
+omesse de ne pas s’opposer à la peine suggérée
+La poursuite peut s’engager à ne pas s’opposer à la peine que vous souhaitez suggérer.
+•
+ Une pr
+omesse de ne pas demander de peine additionnelle 
+La poursuite peut s’engager à ne pas demander une peine supplémentaire (qui s’ajouterait à la peine 
+principale).
+•
+ Une r
+eprésentation commune sur la peine 
+Vous pouvez vous entendre avec la poursuite et faire une suggestion commune au juge.
+•
+ Une pr
+omesse de procéder par procédure sommaire et non par acte criminel 
+C’est possible dans le cas d’une infraction hybride. Dans le cas d’une procédure sommaire, la peine 
+encourue est généralement moins sévère.
+•
+ Une pr
+omesse de ne pas demander de détention préventive 
+Il s’agit de la détention imposée avant l’imposition de la peine. Par exemple, au stade de l’enquête sur 
+mise en liberté.
+La négociation peut également viser une entente sur les faits, mais celle-ci est moins fréquente. 
+Par exemple, la poursuite peut vous promettre de ne pas fournir de renseignements 
+susceptibles de vous nuire. Elle peut aussi promettre de ne pas soulever une circonstance 
+aggravante lors de la détermination de la peine.
+La conférence de facilitation
+Ce que c’est
+La conférence de facilitation ressemble à une négociation, puisqu’elle vise à trouver une solution 
+qui convient à tous. Par contre, la facilitation se déroule toujours devant un juge, contrairement 
+à une négociation informelle. Le juge est là pour aider les parties à dialoguer, à explorer des 
+pistes de solutions et à clarifier leurs points de vue, entre autres. 
+Si vous arrivez à une entente grâce à la facilitation, le juge la respectera. Mais si vous n’arrivez 
+pas à vous entendre, vous aurez un procès devant un autre juge. Ce qui a été dit lors de la  
+facilitation restera confidentiel, ce qui veut dire que ce ne sera pas utilisé lors du procès. 
+Sans votre présence
+Normalement, la conférence de facilitation se déroule sans la présence de l’accusé. Seuls les
+avocats et le juge y participent. 
+Comme vous n’avez pas d’avocat, il est probable qu’un avocat soit nommé pour vous
+représenter lors de la facilitation. Il s’agit d’un « amicus », un avocat qui a comme seule 
+fonction de vous représenter à un moment précis. Vous n’aurez pas à payer pour ses services.
+Comment y participer
+La conférence de facilitation n’est pas offerte partout au Québec. Du moins, pas encore.  
+Il faut donc demander si elle est offerte dans votre district. 
+Si la facilitation est possible, vous devez alors remplir un formulaire avec la poursuite. Il s’agit 
+d’une demande conjointe. 
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.17] ---
+31
+Comment se préparer pour la cour   en matièr e criminelle
+Des options pour régler le conflit
+Les programmes de mesures de rechange 
+(PMR) 
+Ce que c’est 
+Avec ces programmes, vous avez la possibilité d’assumer la responsabilité de vos actes en évitant 
+le processus judiciaire traditionnel. 
+Certains de ces programmes peuvent mener au retrait des accusations s’ils sont complétés avec 
+succès.
+Comment y participer 
+Vous devez d’abord démontrer une volonté de collaborer. Vous devez aussi reconnaître les gestes 
+à l’origine du crime dont on vous accuse. La plupart du temps, cette reconnaissance des faits ne 
+pourra pas être utilisée contre vous si le programme échoue.   
+Il existe plusieurs programmes extrajudiciaires. Chacun de ces programmes à ses propres critères 
+d’admissibilité. 
+Normalement, c’est la poursuite qui vous propose de participer à l’un ou l’autre de ces 
+programmes. Si elle ne le fait pas, c’est probablement parce qu’il n’y a pas de programme 
+approprié à votre situation. 
+Les différents programmes 
+Certains programmes sont disponibles un peu partout au Québec. Vous pouvez consulter le
+tableau à la page suivante pour avoir un aperçu de certains de ces programmes. 
+D’autres programmes extrajudiciaires sont disponibles dans des régions précises.
+Par exemple, il existe le Programme de traitement de la toxicomanie de la Cour du 
+Québec (PTTCQ) à Montréal et à Puvirnituq au Nunavik.
+Pour connaître les programmes disponibles dans votre région, parlez-en au procureur. 
+Programme de traitement non 
+judiciaire de certaines infractions 
+criminelles commises par des 
+adultes
+Programme de mesures de
+rechange général (PMRG)
+Programme d’accompagnement 
+justice et santé mentale (PAJ-SM)
+Personnes 
+visées
+Être accusé d’un crime admissible au programme. 
+Présenter des vulnérabilités liées
+notamment à un trouble de santé 
+mentale, une déficience intellectuelle 
+ou un trouble du spectre de l’autisme.
+Critères 
+d'admissibilité
+Le dossier doit être devant la Cour du 
+Québec ou une cour municipale.
+•
+ Êtr
+e âgé de 18 ans et plus.
+•
+ Ne p
+as avoir d’antécédents 
+ judiciair
+es pour un crime 
+ 
+semblable.
+•
+ Ne p
+as avoir de cause pendante.
+•
+ Ne p
+as avoir fait l'objet d'une 
+ mesur
+e non judiciaire au cours 
+ des 5 dernièr
+es années.
+C’est la poursuite qui décide de vous 
+admettre ou non au programme. 
+Le dossier doit être devant la 
+Cour du Québec ou une cour 
+municipale.
+Le dossier doit être devant la Cour du 
+Québec ou une cour municipale.
+•
+ Êtr
+e âgé de 18 ans et plus.
+•
+ A
+voir un trouble de santé 
+ 
+mentale.
+•
+ Êtr
+e apte et criminellement 
+  
+ 
+responsable.
+C’est la poursuite qui décide de vous 
+admettre ou non au programme. 
+Objectifs
+• Évit er la judiciarisation.
+•
+ Encour
+ager l’accusé à corriger 
+ 
+ son comp
+ortement et à ne pas 
+ 
+ commet
+tre de nouvelle infraction.
+• R esponsabiliser l’accusé.
+•
+ R
+éparer les torts causés.
+•
+ Diminuer le risque de r
+écidive.
+•  R éhabiliter la personne.
+•
+ Diminuer le risque de r
+écidive.
+•
+ O
+ffrir un encadrement adapté 
+ et un suivi con
+tinu dans la 
+ 
+communauté.
+•
+ Évit
+er le recours à la détention 
+ 
+ 
+(emprisonnement).
+Mesures ou 
+conclusions
+visées
+La non-judiciarisation, c’est-à-dire ne 
+pas porter d’accusations et
+transmettre plutôt :
+•
+ Une let
+tre d’avertissement. 
+ 
+Ou
+•
+ Une mise en demeur
+e.
+La déjudiciarisation, c’est-à-dire 
+retirer les accusations et 
+appliquer plutôt des mesures de 
+rechange, comme :
+•
+ Sé
+ances de médiation.
+•
+ P
+aiement d’une 
+ comp
+ensation financière.
+•
+ Ser
+vices à la collectivité.
+•
+ P
+articipation à des 
+ 
+thérapies.
+•  Un accomp agnement par des  
+ in
+tervenants de la santé.
+•
+ L
+a déjudiciarisation
+ :
+ retirer les 
+ 
+ 
+accusations. 
+ 
+Ou
+•
+ Une r
+éduction de peine. 
+En cas de refus ou d’échec à l’un de ces programmes, vous risquez de faire face au processus judiciaire régulier.
+Besoin de plus d’informations ? Vous en trouverez sur le site Web du Gouvernement du Québec. Pour y accéder, 
+inscrivez le nom du programme dans un moteur de recherche tel que Google.
+C’est la poursuite qui décide 
+de vous admettre ou non au 
+programme. 
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.18] ---
+33
+Comment se préparer pour la cour   en matièr e criminelle
+Des options pour régler le conflit
+Pour les Autochtones 
+Il existe également des programmes offerts exclusivement à la population autochtone du 
+Québec, comme le Programme de mesures de rechange pour les adultes en milieu
+autochtone (PMR-Autochtone).
+Le comité de justice de votre communauté peut suggérer au procureur une mesure de rechange 
+adaptée à votre situation.  
+Le 810 (engagement de ne pas troubler
+l’ordre public)
+= = =810
+Engagement  
+de ne pas  
+troubler  
+l'ordre public
+Mandat
+de paix
+Interdit de 
+contact
+Toutes ces expressions veulent dire la même chose. Mais le vrai nom est «
+ engagemen
+t de ne pas 
+troubler l’ordre public »,
+ prévu à l’article 810 du Code criminel.
+Ce que c’est
+Il s’agit d’une promesse écrite de respecter certaines conditions. Plus précisément, c’est un
+engagement de ne pas troubler l’ordre public, comme l’indique son nom.
+Si vous l’acceptez, vous vous engagez à respecter certaines conditions déterminées par le
+tribunal. Le tribunal va préciser jusqu’à quand, mais ça ne peut pas dépasser 12 mois.
+Le fait de signer un tel engagement ne crée pas de casier judiciaire. Il peut même être un moyen 
+d’éviter une condamnation criminelle. En effet, il peut parfois être avantageux de l’accepter. En 
+échange, on pourrait retirer la plainte et les accusations portées contre vous.
+Voici quelques exemples de conditions
+ :
+ 
+•
+ Ne p
+as troubler l’ordre public.
+•
+ A
+voir une bonne conduite.
+•
+ Ne p
+as communiquer avec la victime.
+•
+ Ne p
+as s’approcher de son lieu de résidence, de travail ou d’études.
+•
+ Ne p
+as consommer de drogues, d’alcool ou d’autres substances intoxicantes.
+Ce qui permet d’y avoir recours 
+L’engagement de ne pas troubler l’ordre public n’est pas approprié pour tous les crimes. Il l’est  
+si une personne a de bonnes raisons de craindre que vous fassiez l’une ou l’autre de ces choses
+ :
+•
+ Que 
+vous lui causiez des blessures (ou à son conjoint ou ses enfants).
+•
+ Que 
+vous endommagiez sa propriété.
+•
+ Que 
+vous publiez ou distribuez une image intime la concernant. 
+Par exemple, un tel engagement pourrait être pertinent pour une accusation de méfait, 
+de harcèlement, de voies de fait, etc. 
+De votre côté, vous devrez admettre que cette personne a des motifs raisonnables d’avoir cette 
+crainte. Cette admission n’équivaut pas à un plaidoyer de culpabilité. 
+L’engagement de ne pas troubler l’ordre public peut avoir lieu dans le cadre d’une négociation 
+ou d’une entente pour régler votre dossier avec le procureur de la poursuite.
+Le non-respect des conditions  
+En cas de non-respect des conditions auxquelles vous vous êtes engagé, vous pourriez être  
+accusé d’un crime et devoir faire face au processus judiciaire.
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.19] ---
+35
+Les étapes à la cour avant le procès
+Comment se préparer pour la cour   en matièr e criminelle
+Les étapes à la cour
+avant le procès
+Vous avez une audience à la cour ? Soyez-y !
+Vous devez être présent à toutes les étapes des procédures. Si vous êtes absent, le juge peut
+lancer un mandat d’arrestation qui ordonne aux autorités policières de vous amener devant la 
+cour. Pour certaines infractions, la cour peut vous trouver coupable, même en votre absence.
+En règle générale, vous devez être présent en personne tout au long de la procédure criminelle. 
+Toutefois, un juge peut vous permettre d’être présent par audioconférence ou visioconférence 
+dans certaines circonstances. Par exemple, si vous vous trouvez dans un lieu éloigné ou si ça 
+coûterait trop cher d’être présent en personne. Le tribunal peut mettre fin à cette permission en 
+tout temps et exiger votre présence physique.
+Chaque dossier est unique et peut suivre un parcours différent. Certains dossiers se règlent
+rapidement sans se rendre au procès, alors que d’autres passeront par chacune de ces étapes
+ :
+1. La comparution
+Comparaître, c’est se présenter devant un juge pour la première fois. En effet, il s’agit de la 
+première étape du processus judiciaire.
+Cette étape est obligatoire. Elle peut se faire par visioconférence ou au palais de justice. 
+Les étapes de la comparution
+1. L'appel du rôle
+Il y aura probablement plusieurs dossiers et plusieurs comparutions dans la même salle et à la 
+même heure que vous. Il y a donc de fortes chances que vous ne soyez pas le seul accusé dans 
+la salle de cour. C’est pour cela que l’audience va débuter par l’appel du rôle. C’est une étape 
+qui permet de déterminer l’ordre dans lequel les dossiers seront entendus.
+Vous devrez faire preuve de patience. Parfois, les dossiers qui impliquent des avocats en 
+d
+é
+fense sont entendus avant les dossiers o
+ù
+ l’accus
+é
+ se repré
+sente seul. 
+G
+é
+n
+é
+ralement, l’horaire des audiences est disponible en version papier en salle d’audience. Il 
+s’agit du rô
+le d’audience. V
+ous constaterez que les avocats de la d
+é
+fense le consulteront avant 
+d’annoncer au juge pour quel dossier et quel accus
+é
+ ils comparaissent. Rassurez-vous, le juge 
+ne s’attend pas 
+à
+ ce que vous y fassiez ré
+fé
+rence comme les avocats.
+Ce qui est important, c’est d’être à l’heure. Si vous ne trouvez pas la salle d’audience, vous 
+pouvez demander de l’aide à un constable spécial. Il s’agit d’un agent de sécurité affecté aux 
+palais de justice. Une fois dans la salle, assoyez-vous en silence dans l’espace réservé au public 
+jusqu’à ce qu’on vous appelle. 
+La comparution
+(plaider coupable ou non coupable)1
+2
+3
+4
+L'enquête caution 
+(si vous êtes détenu au moment de la comparution)
+La date pro forma
+(le temps d'évaluer la preuve reçue de la poursuite
+et de décider si vous souhaitez un procès)
+L'enquête préliminaire
+(sur demande et pour certains types de dossiers 
+seulement)
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.20] ---
+37
+Comment se préparer pour la cour   en matièr e criminelle
+Les étapes à la cour avant le procès
+2. La lecture des chefs et le plaidoyer
+Lorsque votre nom sera appelé, vous devrez vous avancer face au juge et au greffier. Le juge 
+procèdera à la lecture du chef d’accusation ou des chefs d’accusation portés contre vous.
+Vous devrez alors enregistrer un plaidoyer de culpabilité ou non-culpabilité, c’est-à-dire plaider 
+coupable ou non coupable à chacune des infractions reprochées.
+Au stade de la comparution, il est préférable de plaider non coupable afin de prendre
+connaissance de la preuve au dossier. Cette preuve vous sera remise par le procureur de la 
+poursuite.
+Vous hésitez à plaider coupable ou non coupable
+ ? 
+Voici 3 choses à considérer pour faire votre 
+choix 
+:
+1.
+ Même si 
+vous plaidez non coupable lors de la comparution, vous pourrez modifier votre 
+  
+ plaido
+yer à toute étape des procédures. L’inverse n’est pas vrai. Il peut être difficile de retirer 
+ 
+ un plaido
+yer de culpabilité.
+2.
+ V
+ous avez intérêt à prendre connaissance de la preuve au dossier avant d’enregistrer un 
+  
+ plaido
+yer de culpabilité. Peut-être que la preuve de la poursuite n’est pas suffisante
+ ?
+3
+.
+ R
+enseignez-vous sur les conséquences d’un plaidoyer de culpabilité. Elles peuvent avoir un 
+ 
+ imp
+act sur plusieurs aspects importants de votre vie. Par exemple, sur votre emploi 
+ (congé
+diement ou refus d’embauche), votre logement, vos assurances (le coût ou un refus), 
+ 
+ v
+otre demande d’immigration ou vos voyages à l’étranger.  
+3. Le choix du mode de procès
+Dans certains cas, généralement pour des accusations plus graves ou des dossiers plus  
+complexes, vous aurez le choix entre deux types de procès
+ :
+•
+ Un pr
+ocès devant un juge seul. 
+ 
+ou
+•
+ Un pr
+ocès devant un juge et un jury.
+Vous n’êtes pas obligé de faire ce choix au moment de la comparution. Il est recommandé de 
+prendre cette décision après avoir pris connaissance de toute la preuve.
+4. La divulgation de la preuve 
+Lors de la comparution, le procureur de la poursuite a l’obligation de vous transmettre toute la 
+preuve au dossier
+ :
+ les déclarations écrites, les déclarations vidéos, les photos, les
+enregistrements audio, etc. 
+Ces éléments de preuve proviennent de l’enquête policière. C’est d’ailleurs en fonction de cette 
+preuve que le procureur de la poursuite a déterminé les accusations portées contre vous.
+Pour être en mesure de vous défendre face à ces accusations, il faut évidemment que vous ayez 
+en votre possession tous les renseignements pertinents que possède la poursuite. Ce principe 
+est connu sous le nom du droit à la divulgation de la preuve. Il est prévu à l’article 7 de la Charte 
+canadienne des droits et libertés. 
+La poursuite doit donc vous remettre tous les éléments de preuve, peu importe qu’ils nuisent 
+ou aident votre défense. Cette obligation est continuelle, c’est-à-dire que la poursuite doit vous 
+remettre toute la preuve qu’elle obtient jusqu’à la fin du procès.
+
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.21] ---
+39
+Comment se préparer pour la cour   en matièr e criminelle
+Les étapes à la cour avant le procès
+Vous croyez que la poursuite n’a pas divulgué toute sa preuve ?
+Dans ce cas,
+ vous devez en informer le juge du procès le plus rapidement possible. Ce dernier 
+prendra alors la décision qui s’impose. Vous devez savoir qu’il existe toutefois certaines exceptions 
+à la divulgation de la preuve. C’est le cas lorsque des éléments de preuve sont protégés par des 
+règles particulières de confidentialité.
+Devez-vous dévoiler votre preuve, vous aussi
+ ?
+L
+a réponse est non. À ce stade-ci, vous n’avez pas à divulguer quoi que ce soit ni à vous justifier. 
+5. La remise du dossier à une date ultérieure (pro forma)
+•
+ Si 
+vous plaidez non coupable 
+La cour va reporter le dossier pour «
+ orien
+tation
+ » ou «
+ p
+our la forme
+ » (
+pro forma).
+Il ne s’agit pas de la date de votre procès. 
+Ainsi, vous aurez le temps d’étudier la preuve, d’évaluer les enjeux que comporte votre dossier et 
+de reconsidérer l’opportunité d’agir seul à votre procès. Une fois la date de la prochaine audition 
+fixée, vous pouvez quitter la salle d’audience.
+•
+ Si 
+vous plaidez coupable à l’ensemble des accusations 
+Le juge a 2 choix. Il peut décider d’imposer une peine immédiatement. Il peut aussi reporter le 
+dossier pour entendre les observations sur la peine (pour en savoir plus sur les observations sur la 
+peine, consultez les pages 74 et 75 de ce guide). 
+6. Le choix de la langue
+Vous avez le droit de demander que votre procès se déroule dans la langue de votre choix.  
+Le juge va d’ailleurs vous le préciser lors de votre comparution. 
+En matière criminelle, les procès se tiennent en français ou en anglais. Si vous ne parlez pas  
+la langue du procès, un interprète sera fourni. 
+Dans tous les cas, les frais sont assumés par l’État.
+La comparution d’un accusé détenu
+Si vous avez été arrêté et que les policiers ne vous ont pas libéré, votre comparution aura lieu 
+dans les 24 heures suivant votre arrestation, sauf s’il y a une circonstance exceptionnelle.
+Est-ce que le déroulement de la comparution sera différent
+ ?
+Non,
+ le déroulement sera le même. Mais avant d’entrer en salle de cour, vous serez sous garde, 
+généralement en cellule, en attendant que votre dossier soit appelé. Lorsque ce sera votre tour, 
+des constables vous emmèneront en salle de cour dans la «
+ b
+oîte
+ » p
+our les accusés détenus.
+À la fin de la comparution, la poursuite devra indiquer si elle est en accord ou en désaccord 
+avec votre remise en liberté. Si elle s’y oppose, le tribunal devra procéder à l’étape de l’enquête 
+sur mise en liberté provisoire, aussi connue sous le nom d’«
+ enquêt
+e caution
+ ».
+ Elle doit se faire 
+dans un délai de trois jours francs2.
+2.  Dans le calcul des jours francs, on ne compte pas le jour de départ ni le jour d'arrivée. Par exemple, si votre comparution a lieu le 1er septembre, l’enquête  
+caution se 
+tiendra le 5 septembre, ou avant. 
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.22] ---
+41
+Comment se préparer pour la cour   en matièr e criminelle
+Les étapes à la cour avant le procès
+2.L’enquête caution, pour décider si vous 
+demeurez détenu ou non
+Toutes ces expressions font référence à la même chose.
+Peu importe son nom, cette étape n’a lieu que si vous êtes détenu.
+Ce que c’est
+L’enquête caution permet au juge de décider si vous serez libéré ou détenu jusqu’à la tenue de 
+votre procès. 
+Ce n’est donc pas votre procès
+ :
+ on ne cherche pas à savoir si vous êtes coupable. 
+Ce qui justifie la détention
+Le juge va se poser les 3 questions suivantes pour décider s’il doit vous remettre en liberté ou 
+non
+ 
+:
+1.
+ Risquez-v
+ous de ne pas vous présenter à la cour ? 
+ 
+ L
+a détention peut être jugée nécessaire pour s’assurer de votre présence au tribunal pendant 
+ 
+ t
+oute la durée des procédures.
+2.
+ Es
+t-ce probable que vous commettiez un nouveau crime ou que vous nuisiez à 
+ l’
+administration de la justice
+ ?
+ 
+ L
+’objectif est de s’assurer de la protection et de la sécurité du public. Ceci inclut la victime. 
+ Il s
+’agit du motif de détention le plus souvent retenu. Le juge peut prendre en compte 
+ diff
+érents éléments pour dresser votre profil, notamment le fait d’avoir des antécédents 
+ 
+judiciaires.
+3.
+ L
+a société serait-elle choquée si l’on vous remettait en liberté
+ ?
+ 
+ L
+’objectif est de préserver la confiance du public envers le système judiciaire. 
+Le déroulement 
+En règle générale, c’est la poursuite qui doit convaincre le juge que votre détention est nécessaire 
+en raison de l’un des trois motifs énumérés précédemment. Pour ce faire, la poursuite présente la 
+preuve au dossier ainsi que les probabilités de condamnation. Elle peut également faire état de 
+vos antécédents judiciaires, de votre caractère ainsi que de votre mode de vie. 
+Rassurez-vous, vous aurez votre mot à dire. Vous pourrez témoigner et faire entendre des témoins 
+(au besoin). Votre objectif sera de convaincre le juge qu’il doit vous mettre en liberté et que vous 
+allez respecter toutes les conditions imposées. Mais attention
+ :
+ ce qui sera dit pourra être utilisé 
+par la poursuite durant les procédures, notamment lors du procès.
+À cette étape, les règles de preuve sont moins strictes. Vous pourrez rapporter des faits ou des 
+paroles que vous n’avez pas constatés vous-même, mais qui ont été portés à votre connaissance 
+par une autre personne. Lors du procès, ce ne sera pas permis de le faire. On appelle cela du 
+ouï-dire. 
+Les conditions de remise en liberté
+Le juge décide de vous remettre en liberté en imposant certaines conditions
+ ?
+ 
+Vous devez les respecter. Sinon, vous pourriez être accusé d’un nouveau crime et être détenu à 
+nouveau pour le reste des procédures.
+La caution 
+C’est possible qu’on vous demande une caution. Vous pouvez aussi l’offrir vous-même pour
+rassurer le tribunal. 
+Mais c’est quoi, au juste
+ ?
+L
+orsqu’on parle d’une «
+ caution
+ »,
+ on parle généralement d’une personne qui accepte et s’engage 
+à vous surveiller et à s’assurer que vous respecterez vos conditions. Il peut s’agir d’un conjoint, d’un 
+parent, d’un ami ou de toute autre personne de confiance. 
+Une caution peut se faire avec ou sans dépôt d’agent ($). Si votre caution est accompagnée d’un 
+dépôt et que vous ne respectez pas vos conditions, l’argent sera confisqué. 
+= = =
+Enquête 
+caution =
+Mise en
+liberté
+provisoire
+Enquête sur 
+mise en 
+liberté
+Détention
+provisoire Cautionnement
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.23] ---
+43
+Comment se préparer pour la cour   en matièr e criminelle
+Les étapes à la cour avant le procès
+Il peut y avoir plusieurs remises du dossier et par conséquent, plusieurs dates «  pr o forma  » ou 
+«
+ p
+our orientation
+ »,
+ et ce, à différentes étapes de l’instance.
+Le pro forma a plusieurs utilités. Entre autres, il permet de
+ :
+•
+ Divulguer de la pr
+euve.
+•
+ Discut
+er de l’orientation du dossier.
+•
+ Né
+gocier. 
+Cette étape n’a lieu que pour les cas d’actes criminels les plus graves, soient ceux punissables 
+par un emprisonnement maximal de 14 ans ou plus.
+Ce que c’est 
+L’enquête préliminaire est une audience qui permet de déterminer si la preuve est suffisante 
+pour justifier la tenue d’un procès. 
+Elle peut se conclure de l’une de ces 3 façons 
+ :
+1
+.
+ L
+a preuve n’est pas suffisante  L'accusé est libéré des chefs d'accusation qui pèsent   
+ con
+tre lui. 
+2.
+ L
+a preuve est suffisante  L’accusé va subir un procès comme prévu. 
+3.
+ L
+a preuve a révélé de nouvelles infractions  De nouveaux chefs d’accusation vont   
+ s
+’ajouter à ceux déjà portés.
+Ce n’est donc pas votre procès
+ :
+ on ne cherche pas à savoir si vous êtes coupable. 
+D’ailleurs, il vaut mieux ne pas témoigner ni présenter sa défense lors de l’enquête préliminaire. 
+En effet, tous les témoignages sont enregistrés et pourront être utilisés contre vous au procès. 
+Profitez-en plutôt pour «
+ t
+ester
+ » la pr
+euve et poser des questions aux témoins de la poursuite en 
+contre-interrogatoire.
+Cette étape n’a pas lieu automatiquement
+L’enquête préliminaire est tenue à la demande de l’une des parties
+ :
+ la poursuite ou vous-même, 
+le défendeur. 
+Elle est tenue après l’enquête caution (si celle-ci a eu lieu), mais avant le procès.
+3. Le pro forma 4. L’enquête préliminaire
+
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.24] ---
+45
+Comment se préparer pour la cour   en matièr e criminelle
+Les étapes à la cour avant le procès
+Vous pouvez faire d’autres demandes
+Votre situation a changé à la suite de l’enquête préliminaire
+ ? 
+Vous pourriez peut-être faire
+d’autres demandes. 
+Par exemple, si le juge vous libère de certains chefs d’accusation, vous pourriez demander une 
+remise en liberté ou la révision de vos conditions de mise en liberté.
+Connaître les règles de savoir-vivre à la cour
+Il existe plusieurs règles de savoir-vivre dans une salle de cour. Il est important de les connaître et 
+de les respecter. 
+Ces règles sont obligatoires. Leur non-respect peut avoir de réelles conséquences. Imaginez-vous, 
+en plein procès, être corrigé par le juge pour un manquement à l’une de ces règles. Vous n’avez 
+certainement pas besoin de cette source de stress. 
+Les règles s’appliquent en tout temps, même si ce n’est pas à votre tour d’intervenir et même si 
+certaines auditions à la cour se déroulent par visioconférence. 
+Voici les principales règles
+ :
+Ê
+tre à l’heure
+C’est fondamental. Pour être certain d’arriver à l’heure, arrivez en avance au palais de justice. Vous 
+aurez le temps de trouver la salle de cour.
+Il faut savoir qu’il y a des contrôles de sécurité dans certains palais de justice. Parfois, ces contrôles 
+entraînent des files d’attente.
+Vous ne vous souvenez plus de la date d’une audience
+ ? 
+Vous pouvez appeler au greffe de votre 
+palais de justice ou de la Cour itinérante pour la demander. Pour certains palais de justice, vous 
+pouvez aussi trouver la date sur le site Web roles.tribunaux.qc.ca. 
+S’habiller proprement
+Vous devez porter une attention particulière à votre tenue lorsque vous devez vous rendre à la 
+cour. Si votre tenue est délabrée, le juge pourrait même exiger que vous vous changiez.
+Vos vêtements doivent être sobres et propres. Ne portez pas de casquette, de chapeau, de
+sandales, ni de vêtements très courts (short ou jupe, camisole).
+Enfin, si vous avez un tatouage qui véhicule un message offensant, sexiste, violent ou lié aux 
+drogues, vous pourriez le recouvrir. Certains juges sont plus sensibles que d’autres à cette forme 
+d’expression.
+Être silencieux et discret 
+Dès votre entrée dans une salle de cour, vous devez éviter de faire du bruit ou d’attirer l’attention 
+sur vous.  
+C’est pour cela que vous devez, entre autres
+ :
+•
+ Ét
+eindre votre cellulaire avant d’entrer dans la salle d’audience. 
+ 
+Et
+•
+ V
+ous abstenir d’apporter de la nourriture ou des boissons.
+Sachez également qu’il est interdit d’enregistrer le son ou l’image d’un procès.
+Se lever quand il le faut
+Vous devez vous lever quand le juge entre ou sort de la salle d’audience et demeurer debout 
+jusqu’à ce qu’il se soit assis ou ait quitté la salle. 
+Vous devez aussi vous lever lorsque vous prenez la parole.
+S’adresser aux autres avec respect
+Aucun manque de respect ne sera toléré. Vous devez vouvoyer toutes les personnes dans la salle 
+de cour.
+Quand vous parlez au juge, dites «
+ madame la juge
+ » ou «
+ monsieur le juge
+ ».
+ 
+Quand vous parlez à un avocat, dites «
+ maîtr
+e
+ ».
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.25] ---
+47
+Comment se préparer pour la cour   en matièr e criminelle
+Les étapes à la cour avant le procès
+Voici quelques informations utiles pour votre audience virtuelle  :  
+•
+ V
+otre appareil doit être doté
+ d’un microphone et d’une caméra.
+•
+ V
+otre connexion internet doit être stable.
+•
+ A
+vant l’audience, vous recevrez les liens de connexion par courriel ou par la poste. Vous 
+ p
+ouvez aussi consulter le rôle ici
+ :
+ http
+ 
+://roles.tribunaux.qc.ca
+•
+ L
+ors de l’audience, vous devrez vous trouver dans un endroit calme et être seul.
+•
+ V
+ous devez mettre votre microphone en sourdine et fermer votre caméra lorsque vous êtes en  
+ at
+tente et que vous n’intervenez pas.
+Pour plus d’informations sur le mode de connexion, visitez le site Web de la cour devant laquelle 
+vous vous présentez. Les règles peuvent être différentes d’une cour à l’autre.
+• P our les cours municipales  :  https  ://coursmunicipales.ca/documentation
+•
+ P
+our la Cour du Québec :
+ 
+ h ttps  ://courduquebec.ca/centre-de-documentation/outils-pour-les-audiences-en-salle-semi-virtuelle
+• P our la Cour supérieure  :  
+ h
+ttps
+ 
+://coursuperieureduquebec.ca/roles-de-la-cour/audiences-virtuelles
+L’ordonnance de non-publication
+(dans certains cas) 
+En règle générale, les procès sont publics. Votre identité, celle de la victime ainsi que des témoins 
+peuvent être connues, tout comme les informations et la preuve présentées.
+Vous pouvez demander au juge de rendre une «
+ or
+donnance de non-publication
+ » de la pr
+euve ou 
+des renseignements recueillis lors de certaines auditions qui se déroulent avant le procès. C’est 
+une demande verbale faite simplement. C’est souvent la poursuite qui en fait la demande pour 
+préserver l’équité du procès. 
+Même si une ordonnance de non-publication a été accordée, les médias ont quand même le droit 
+de mentionner votre nom et la nature des accusations. Par contre, ils n’ont pas le droit de publier 
+les détails de la preuve présentée devant la cour.
+Dans certains cas, même si le procès est public, le juge peut rendre une ordonnance qui interdit 
+aux médias de publier toute information qui pourrait permettre d’identifier la victime. Par
+exemple, si le nom de l’accusé risque de dévoiler l’identité de la victime, le juge peut ordonner que 
+l’accusé ne soit identifié que par ses initiales.
+Attendre son tour pour parler
+Pendant l’audience, écoutez attentivement et ne coupez pas la parole aux autres, sauf pour 
+vous opposer à une question de la partie adverse.
+Vous devez attendre que ce soit votre tour pour parler. Si vous devez vous exprimer sur quelque 
+chose, demandez la permission au juge pour prendre la parole. 
+Respecter les demandes et décisions du juge
+C’est le juge qui est chargé du déroulement de l’audience. Respectez ses décisions et obéissez 
+toujours à ses instructions. 
+Le juge peut vous poser certaines questions relativement aux faits que vous expliquez. Même 
+si vous connaissez bien votre dossier, rappelez-vous que le juge l’entend pour la première fois. 
+Certains détails peuvent vous paraître peu importants, mais ils peuvent être cruciaux pour le 
+juge. Écoutez bien ses remarques et questions, et répondez-y le mieux possible.
+Les interventions du juge ne veulent pas dire qu’il est d’accord ou non avec vous ou qu’il
+favorise l’une ou l’autre des parties.
+Finalement, n’oubliez pas que la seule personne que vous voulez convaincre pendant le procès 
+est le juge (ou le jury). Adressez-vous à lui directement et non à la partie adverse, sauf quand 
+vous interrogez un témoin.
+Les audiences virtuelles
+Soyons clairs :  la plupart des audiences se déroulent à la cour, en présentiel.
+Mais les audiences virtuelles par visioconférence ou audioconférence sont maintenant possibles, 
+dans des cas précis. 
+Lorsque l’audience virtuelle est permise, elle est accessible par l’entremise d’une plateforme 
+sécurisée. Vous pouvez normalement accéder à cette plateforme par ordinateur, par tablette 
+ou même par téléphone. 
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.26] ---
+49
+Préparer le procès
+49
+Comment se préparer pour la cour   en matièr e criminelle
+Préparer le procès
+N’attendez pas à la dernière minute pour vous préparer. Toutes ces étapes prennent du temps 
+et méritent que vous vous y attardiez.  
+N’hésitez pas à assister au procès d’une autre personne. Les procès sont publics
+ :
+ vous
+pouvez simplement entrer dans une salle d’audience en silence et prendre place dans les sièges 
+réservés au public. Vous aurez donc une meilleure idée de ce qu’est un procès et vous pourrez 
+vous préparer en conséquence. 
+Pour savoir quels sont les éléments que vous devrez prouver au juge, vous devez comprendre le 
+droit qui s’applique à  votre situation. Pour une recherche complète, vous devriez consulter ces 
+trois sources
+ 
+: 
+•
+ L
+a loi et les règlements.
+•
+ L
+es décisions des tribunaux qui traitent de situations semblables 
+à
+ la vôtre
+ :
+ c’est ce qu’on 
+ app
+elle la «
+ 
+jurisprudence
+ 
+». 
+•
+ Des t
+extes de théorie rédigés par des auteurs spécialisés
+ :
+ c’est ce qu’on appelle la 
+ «
+ 
+doctrine
+ 
+». 
+Gardez à l’esprit qu’il est possible que vous soyez convaincu d’avoir raison, mais que les règles 
+de droit disent autre chose. Vous avez la responsabilité de prendre connaissance du droit et de 
+vous renseigner sur les principes applicables à votre cause. 
+1. Comprendre le droit qui s’applique
+Ce ne sont pas toutes les ressources qui sont bonnes !
+En ef
+fet, certaines pourraient vous induire en erreur. Par exemple
+ :
+•
+ L
+es forums et plateformes de discussion.
+•
+ L
+es blogues personnels. 
+•
+ L
+es sites Web étrangers
+ :
+ l’information qu’ils contiennent ne 
+ s
+’applique pas ici
+ ! 
+
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.27] ---
+51
+Comment se préparer pour la cour   en matièr e criminelle
+Préparer le procès
+51
+La loi et les règlements
+Pour qu’une personne soit trouvée coupable d’un crime, la poursuite doit prouver ces deux
+éléments hors de tout doute raisonnable
+ :
+1
+.
+ Que cet
+te personne a commis un acte illégal. 
+2.
+ Qu’
+elle avait une intention coupable. 
+Ces deux éléments s’appellent l’actus reus (l’acte illégal) et la mens rea (l’intention coupable). 
+Pour la plupart des crimes, c’est dans le Code criminel que l’on retrouve ces éléments. On y
+retrouve aussi
+ 
+:
+•
+ L
+es principes sur la détermination de la peine. 
+•
+ L
+es peines possibles pour chacun des crimes.
+•
+ L
+’essentiel de la procédure à suivre en matière criminelle.
+Prenez le temps de lire les articles du Code criminel pertinents à votre affaire. Vous comprendrez 
+mieux ce qui doit être prouvé par la poursuite. 
+Encore mieux, tentez de mettre la main sur une copie du Code criminel annoté. Il s’agit d’une 
+édition dans laquelle les articles du Code criminel et de certaines autres lois connexes sont
+accompagnés de la jurisprudence la plus pertinente. C’est utile pour comprendre comment les
+articles sont interprétés à la cour. Le Code criminel annoté peut être consulté dans certaines
+bibliothèques municipales et universitaires. 
+Bien que le Code criminel soit la loi principale en droit criminel, ce n’est pas la seule. Il est possible 
+que d’autres lois s’appliquent à votre situation. Par exemple
+ :
+•
+ La
+ Charte canadienne des droits et libertés pour connaître vos droits fondamentaux.
+•
+ La
+ Loi sur la preuve au Canada qui prévoit quelques règles d’admissibilité de la preuve.
+•
+ La
+ Loi réglementant certaines drogues et autres substances.
+Les décisions des tribunaux (jurisprudence)
+Vous devriez aussi prendre connaissance des décisions déjà rendues qui traitent de situations 
+semblables à la vôtre. C’est ce qu’on appelle la jurisprudence.
+La jurisprudence est complémentaire aux lois, puisqu’il s’agit de l’interprétation que les juges 
+ont faite des articles de loi. C’est aussi dans la jurisprudence que vous retrouverez la plupart des 
+moyens de défense, excuses et justifications.
+Vous pouvez présenter de la jurisprudence au juge lors de votre procès, à l’étape de la plaidoirie. 
+Accordez une attention particulière aux décisions qui viennent de la Cour suprême du Canada et 
+de la Cour d’appel du Québec. Elles ont plus de poids que les décisions de la Cour supérieure ou 
+de la Cour du Québec. 
+Faire une recherche de jurisprudence
+Plusieurs banques de recherche juridique peuvent 
+ê
+tre consultées gratuitement en ligne
+ :
+•
+ S
+OQUIJ
+ 
+: http
+ 
+://citoyens.soquij.qc.ca
+•
+ CanLii
+ 
+: www.canlii.org/fr
+•
+ C
+AIJ
+ 
+: www.caij.qc.ca/jurisprudence
+Vous avez besoin d’aide pour faire votre recherche de jurisprudence
+ ? Un av
+ocat de l’un des 
+centres d'Info Justice peut vous aider gratuitement (info-justice.ca).
+Les textes de théorie (doctrine)
+Pour vous aider à comprendre les règles de droit, vous pouvez consulter des textes de théorie 
+juridique. 
+Par contre, ces textes ne sont pas contraignants devant les tribunaux. Cela veut dire que les
+juges n’ont pas à suivre ce qui y est écrit. Ils peuvent toutefois vous aider à comprendre et à 
+repérer les décisions pertinentes.   
+Pour avoir accès à ces textes, vous pouvez vous rendre dans la bibliothèque d’une université qui 
+offre un programme en droit ou sur le site Web du CAIJ
+ :
+ www.caij.qc.ca/doctrine.
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.28] ---
+53
+Comment se préparer pour la cour   en matièr e criminelle
+Préparer le procès
+53
+2. Préparer sa preuve matérielle 
+La preuve matérielle, ce sont les documents et objets que vous utiliserez au procès pour appuyer 
+ce que vous dites. On les appelle les «
+ piè
+ces
+ ».
+V
+oici quelques exemples
+ :
+•
+ Do
+cuments bancaires.
+•
+ Con
+trats.
+•
+ Bulletins scolair
+es.
+•
+ R
+apports médicaux.
+•
+ Arme du crime.
+•
+ V
+êtement.
+•
+ Empr
+einte digitale ou un échantillon d’ADN.
+•
+ Pho
+tographies ou vidéos.
+Vous n’avez pas à divulguer votre preuve à la poursuite 
+Vous n’avez pas à dévoiler à l’avance votre défense, ni à la poursuite ni au juge. Vous serez la seule 
+personne à connaître votre stratégie. 
+Il y a toutefois des exceptions. Vous devrez dévoiler votre preuve dans les cas suivants
+ :
+•
+ P
+our la défense d’alibi.
+•
+ P
+our le témoin expert ou pour son rapport. Pour en savoir plus sur le sujet, consultez la page 
+ 
+ 
+56.
+•
+ P
+our les documents officiels. 
+Comment savoir ce qui doit être divulgué ou non? Dites au juge ce que vous comptez utiliser 
+comme preuve lors d'une rencontre pré-procès. Il pourra vous éclairer à ce sujet. Il vous expliquera 
+également les règles que vous devez suivre pour divulguer votre preuve. Ces règles sont
+importantes. 
+Vous devrez d’abord envoyer le document à la poursuite par une méthode qui permet d’avoir une 
+preuve de remise, comme le courriel avec une confirmation de remise, le courrier recommand
+é
+, ou 
+le fax. Il s’agit de la «
+ no
+tification
+ ».
+ 
+Dans certains cas, la notification doit être faite par un huissier. Dans ce cas, on parle plutôt de
+« signification ».
+Il faut ensuite déposer une copie du document au greffe, avec la preuve de notification ou de 
+signification. Le greffe est un endroit où sont conservés tous les dossiers de la cour. Il est facile à 
+repérer dans les palais de justice.
+D’autres règles peuvent s’appliquer. Demandez au juge de vous les expliquer et assurez-vous de 
+bien les comprendre. 
+Prévoir des copies pour le procès
+Si vous souhaitez déposer des pièces lors du procès, prévoyez toujours trois copies
+ :
+ une pour le 
+juge, une pour la poursuite et l’autre pour vous. 
+Lorsque vous les déposerez, vous devrez également attribuer une cote aux pièces afin de les 
+identifier (ex. D-1, D-2, D-3). Le «
+ D
+ » est p
+our «
+ déf
+ense
+ ».
+
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.29] ---
+55
+Comment se préparer pour la cour   en matièr e criminelle
+Préparer le procès
+55
+3. Préparer ses témoins
+Pour convaincre le juge lors du procès, vous pouvez témoigner vous-même. Vous pouvez aussi 
+faire entendre d’autres personnes. 
+Pour identifier les témoins qui vous seront utiles, posez-vous ces questions
+ :
+ 
+•
+ Quels son
+t les faits essentiels de votre défense que vous voulez prouver devant le tribunal
+ ?
+•
+ Qui a eu connaissance de ces f
+aits personnellement et qui peut venir les expliquer
+ ?
+•
+ Qui est l’
+auteur ou le signataire des documents que souhaitez utiliser au procès
+ ?
+•
+ Quels t
+émoins pourraient contredire en partie ou en totalité ceux de la poursuite
+ ?
+Le témoin qui raconte ce qu’il a vu ou entendu
+Une personne qui raconte des faits qu’elle a personnellement vus, entendus, ou observé s
+s’appelle «
+ té
+moin ordinaire
+ ».
+ On l’appelle ainsi pour la distinguer du «
+ té
+moin expert
+ ».
+ Le 
+té
+moin ordinaire ne peut pas donner d’avis ou d’opinion. 
+Voici des exemples de témoins ordinaires
+ :
+•
+ Un p
+olicier.
+•
+ L
+a personne qui a porté plainte.
+•
+ Un cit
+oyen qui a vu l’incident.
+•
+ Une p
+ersonne qui en a entendu une autre admettre avoir commis un crime.
+Le témoin qui raconte  
+ce qu’il a vu ou entendu
+L
+e témoin expert  
+qui donne son opinion
+L
+es témoins  
+des autres parties 
+Préparer leur présence
+Une fois vos témoins identifiées, vous devez maintenant vous assurer de leur présence au procès. 
+Pour ce faire, vous aurez peut-être à les assigner. Une assignation, qu’on appelle aussi un
+«
+ subpœna
+ »,
+ est un document qui oblige à aller témoigner. Il informe le témoin de cette
+obligation et de la date, le lieu et l’heure à laquelle il doit se présenter. 
+Que se passe-t-il lorsqu’un témoin assigné ne se présente pas au procès
+ ? Il risque d’
+être arrêté 
+par la police et d’être amené de force au procès. Alors qu’un témoin à qui vous avez simplement 
+demandé de venir témoigner, sans assignation formelle, n’aura aucune conséquence s’il ne se 
+présente pas au procès. 
+Pour assigner vos témoins, vous devez remplir et transmettre au témoin le
+formulaire d’assignation (SJ-762B). Pour le trouver, inscrivez «
+ F
+ormulaire d’assignation 
+SJ-762 B» dans un mo
+teur de recherche tel que Google. Son nom complet est Formulaire 
+d’assignation à un témoin à la demande de la défense (SJ-762B).
+Avisez-les le plus tôt possible pour vous assurer de leur présence. Vous pouvez les rassurer
+ :
+ leur 
+employeur a l’obligation de les libérer pour qu’ils puissent assumer leur rôle de témoin, et ce, 
+avec ou sans compensation. 
+Payer les témoins
+Vous devez payer une indemnité aux témoins que vous assignez. Cette indemnité permet de 
+compenser leurs frais de déplacement, de repas, d’hébergement, ainsi que la perte de temps qui 
+leur est causée. 
+Le montant de l’indemnité est établi par le gouvernement. C’est le même pour tous.  En 2024, 
+le montant de l'indemnité est de 45 $ pour les témoins qui doivent s'absenter 5 heures ou moins 
+de leur domicile pour participer au procès. S'ils doivent s'absenter plus longtemps, l'indemnité 
+est de 90 $.
+Pour être indemnisés, vos témoins devront se rendre au comptoir du greffe. On leur remettra un 
+formulaire à remplir. 
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.30] ---
+57
+Comment se préparer pour la cour   en matièr e criminelle
+Préparer le procès
+57
+Le témoin qui donne son opinion
+Un expert est une personne qui, en raison de ses compétences et de ses connaissances
+particulières sur un sujet, donne son avis. Son rôle consiste à aider la cour en clarifiant certaines 
+questions techniques qui lui sont soumises. Par exemple, il peut s’agir d’un
+ :
+ 
+•
+ P
+athologiste judiciaire qui explique la cause d'un décès.
+•
+ Exp
+ert en reconstitution d’accidents qui explique les causes d’un accident.
+•
+ Mé
+decin.
+L’expert peut présenter son avis par un témoignage ou par le dépôt d’un rapport.
+Si vous décidez de présenter un rapport d’expert, assurez-vous qu’il est bref, mais suffisamment 
+détaill
+é
+ et motivé
+ pour que le juge soit en mesure de bien le comprendre. L’expert doit préciser la 
+méthode d’analyse qu’il a utilisée. Si l’expert recueille des témoignages, il doit les joindre au
+rapport puisqu’ils font partie de la preuve. 
+Pour qu’une preuve d’expert soit admissible, il faut que tous ces critères soient satisfaits
+ :
+•
+ L
+a preuve est pertinente avec la question en litige.
+•
+ Elle est né
+cessaire pour aider le juge à bien comprendre les faits.
+•
+ Il n
+’y a pas de règles qui l’excluent. 
+•
+ L
+’expert est suffisamment qualifié. 
+Vous devez divulguer cette preuve
+Si vous avez l’intention de faire témoigner un expert ou de déposer son rapport, sachez que vous 
+devez donner un préavis au procureur de la poursuite au moins 30 jours avant le début du procès. 
+•
+ S’il n
+’y a pas de rapport
+ :
+ vous devez fournir un résumé précis et détaillé de l’opinion de votre 
+ 
+ e
+xpert.  
+•
+ S’il 
+y a un rapport
+ :
+ vous devez transmettre une copie du rapport dans un délai raisonnable. 
+ 
+ L
+a poursuite pourrait toutefois exiger que votre expert se présente au procès afin de pouvoir le 
+ 
+ 
+contre-interroger.
+Les témoins de la poursuite
+Lors de la divulgation de la preuve, vous avez probablement reçu les déclarations écrites, audios ou 
+vidéos des témoins de la poursuite. 
+Vous aurez l’occasion de poser des questions 
+à
+ ces personnes lors du procès, mais vous n’êtes pas 
+obligé. Si vous décidez de le faire, préparez-vous minutieusement. 
+4. Préparer ses questions
+Les questions de l’interrogatoire
+Lors du procès, vous poserez des questions à vos témoins afin qu’ils expliquent clairement leur
+version des faits. 
+Voici comment vous préparer
+ :
+•
+ Iden
+tifiez les 
+é
+l
+é
+ments que chaque té
+moignage sert 
+à
+ prouver. 
+•
+ Pré
+parez une liste de questions pour chacun de vos té
+moins.
+•
+ R
+encontrez vos té
+moins, 
+à
+ l’avance, afin de bien conna
+î
+tre leur version des faits. 
+•
+ Prév
+oyez une s
+éance de pr
+atique avec vos té
+moins. 
+•
+ Dur
+ant cette s
+éance,
+ notez leurs ré
+ponses. 
+Vous pouvez toujours décider que vous ne souhaitez plus faire entendre un témoin, si, par exemple, 
+sa version des faits est moins favorable que ce que vous pensiez. Rappelez-vous que l’obligation 
+du témoin est de dire la vérité. Vous ne devez pas tenter d’influencer son témoignage de quelque 
+façon que ce soit.
+Seulement des questions ouvertes 
+Lorsque vous interrogez l’un de vos témoins, vous devez poser des questions ouvertes, c’est-à-dire 
+des questions qui ne se répondent pas simplement par «
+ oui
+ » ou «
+ non
+ ».
+ Souvent, les questions 
+ouvertes débutent par où, quand, quoi, comment et pourquoi. 
+Par exemple
+ 
+:
+•
+ Commen
+t étiez-vous habillé
+ ?
+•
+ P
+ourquoi portiez-vous un veston
+ ?
+•
+ De quelle couleur ét
+ait-il
+ ?
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.31] ---
+59
+Comment se préparer pour la cour   en matièr e criminelle
+Préparer le procès
+59
+Les questions du contre-interrogatoire
+Vous aurez l’occasion de poser des questions aux témoins de la poursuite. En effet, quand la
+poursuite aura terminé de les interroger, ce sera à votre tour de les contre-interroger.
+Des questions suggestives 
+Pendant le contre-interrogatoire, vous pouvez poser des questions qui suggèrent une réponse. 
+Généralement, une question suggestive est courte et vise un point bien précis. Par exemple
+ :
+•
+ V
+ous portiez un veston, n’est-ce pas
+ ?
+•
+ V
+ous avez mis votre veston pour vous rendre à un mariage
+ ?
+•
+ N’
+est-il pas exact que votre veston était noir
+ ?
+En con
+tre-interrogatoire, il est fortement recommandé de poser des questions dont vous 
+connaissez déjà la réponse afin d’éviter d’être pris par surprise ou de renforcer la preuve de la 
+poursuite. Si vous ne connaissez pas d’avance la réponse du témoin, il est peut-être plus sage de 
+ne pas lui poser la question. 
+… et votre témoignage aussi !   
+D’abord, vous avez le droit de garder le silence. Le fait de ne pas témoigner ne peut être retenu
+contre vous. En d’autres mots, le juge ou le jury ne peut pas conclure que votre silence est louche. 
+Mais si vous choisissez de témoigner à votre procès, vous devez vous préparer. Notez ce que vous 
+voulez dire et prenez le temps d’organiser vos idées.
+En effet, votre témoignage sera un élément central du procès. Il ne faut pas le prendre à la légère.
+Si vous décidez de témoigner, vous serez sûrement contre-interrogé par la poursuite. N’oubliez pas
+ :
+ 
+vous devez dire la vérité, en tout temps. 
+Interrogatoire Contre-interrogatoire
+Objectif
+Type de questions Ouvertes
+Qui ? Quoi ? Quand ? Où ? 
+Comment ? Pourquoi ?
+Suggestives
+Établir les faits de votre défense. Attaquer la crédibilité ou la 
+fiabilité d'un témoin. Démontrer 
+qu'il se trompe sur certains faits. 
+Faire ressortir certains éléments 
+importants et favorables à vos 
+prétentions.
+Exemples
+Questions courtes et bien ciblées
+De quelle couleur était votre veston ? Votre veston était-il noir ?
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.32] ---
+61
+Comment se préparer pour la cour   en matièr e criminelle
+Préparer le procès
+61
+5. Réviser le dossier
+La révision de votre dossier est importante.
+En effet, vous devez vous assurer d’avoir tout en main pour pouvoir contester les arguments de la 
+poursuite et établir votre défense.
+        Voici les principales étapes pour une révision efficace de votre dossier
+ :
+ Relire minutieusement la preuve remise par la poursuite
+ S’assurer de connaître et de comprendre les règles de preuve qui seront applicables lors du    
+pr
+ocès (voir pages 69 et 70 de ce guide).
+ S’assurer que votre dossier est ordonné :  vous ne voulez pas avoir à fouiller et à chercher des
+documents pendant le procès.
+ Prévoir 3 copies des documents que vous comptez déposer en preuve pour le juge et pour la 
+poursuite (si applicable).
+ Conserver précieusement tous les documents et les éléments de preuve en lien avec 
+l’accusation
+ :
+ vous devrez peut-être les utiliser au procès (apportez-les au palais de justice).
+Faire réviser par un avocat
+ ?
+Savie
+z-vous que c’est possible de consulter un avocat pour quelques heures seulement
+ ? 
+À cette 
+étape-ci, une consultation pourrait être utile pour vous assurer d’être sur la bonne voie dans la 
+préparation de votre dossier. 
+Si vous en avez les moyens, un avocat pourrait analyser votre dossier et déterminer avec vous
+ :
+•
+ L
+es points de droit que vous devez faire valoir pour soutenir votre position.
+•
+ L
+a façon de déposer et de présenter votre preuve et vos arguments.
+•
+ L
+es règles de preuve auxquelles vous devez vous conformer.
+•
+ L
+a préparation du contre-interrogatoire des témoins de la poursuite.
+6. Apporter tout le nécessaire
+Avant de vous rendre au palais de justice, assurez-vous de ne rien oublier. Pensez aussi à
+app
+orter des copies de la jurisprudence et de la doctrine que vous voulez présenter au juge. Vous 
+devez prévoir un nombre suffisant de copies pour vous, pour le juge et pour la poursuite.
+Voici également une liste de choses qui pourraient vous être utiles. Rien de tout 
+ç
+a n’est
+obligatoire, mais ces documents pourraient grandement vous aider
+ :
+ 
+•
+ Un plan qui pr
+évoit dans quel ordre vous allez présenter vos témoins et vos documents. 
+•
+ L
+a liste des questions que vous poserez aux témoins.
+•
+ Un do
+cument qui résume vos arguments juridiques. 
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.33] ---
+63
+Comment se préparer pour la cour   en matièr e criminelle
+Le procès
+Le procès
+Ne soyez pas en retard pour votre procès ! Si vous le pouvez, arrivez en avance. 
+Les premiers moments
+Quand vous aurez trouvé la salle au palais de justice, entrez et assoyez-vous à l’endroit réservé au 
+public.
+ 
+Voici comment se déroulent les premiers moments dans la salle de cour
+ :
+ 
+•
+ On annoncer
+a le nom du juge lorsque celui-ci sera prêt 
+à
+ entrer dans la salle. À ce momen
+t-là, 
+ 
+ v
+ous devez vous lever. 
+•
+ Si plusieur
+s dossiers sont prévus devant le même juge ce jour-là, le personnel de la cour vous 
+ 
+ dir
+a 
+à
+ quel moment ce sera votre tour. 
+•
+ L
+orsque le juge sera prêt 
+à
+ entendre votre cause, on vous appellera par le nom de votre dossier.  
+ A
+vancez-vous et prenez place 
+à
+ l’endroit qui vous est indiqué.  
+•
+ On demander
+a ensuite aux avocats et aux parties de se présenter
+ :
+ vous devez alors vous 
+  
+ nommer et con
+firmer que vous n’avez pas d’avocat. 
+Souvent, le juge demande aux témoins de sortir de la salle, dès le début de l’audition. Pourquoi
+ ? 
+P
+arce qu’on veut éviter que leur témoignage ne soit influencé par le témoignage des autres 
+témoins. Cette procédure ne s’applique pas à vous (l’accusé) ni aux témoins experts. Si le juge ne 
+le fait pas, la poursuite ou vous-même pouvez demander l’exclusion des témoins. 
+Voici à quoi ressemble une salle de cour
+ : 
+L
+e procès peut être un moment stressant. Si vous êtes préparé et que vous comprenez bien les 
+différentes étapes, votre expérience peut être plus douce. 
+Si vous sentez l’émotion monter ou que vous avez besoin d’un moment pour réorganiser vos idées, 
+vous pouvez demander au juge de prendre une courte pause. 
+
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.34] ---
+65
+Comment se préparer pour la cour   en matièr e criminelle
+Le procès
+Généralement, un procès se déroule dans cet ordre :  
+1.
+ L
+a présentation de la preuve (par des témoignages ou des documents).
+•
+ Pr
+euve de la poursuite.
+•
+ Pr
+euve de la défense. 
+2.
+ Plaidoirie (les ar
+guments juridiques).
+C’est l’accusé qui commence, s’il a présenté une défense. Sinon, il va plaider en deuxième.  
+3.
+ L
+es directives du juge au jury (s’il y en a un).
+4.
+ L
+e délibéré. 
+5.
+ L
+e verdict.
+C’est à la poursuite de prouver votre
+culpabilité
+La poursuite a toujours l’obligation de prouver que vous êtes coupable hors de tout doute
+raisonnable. Elle a le «
+ f
+ardeau de la preuve
+ » puisque 
+vous êtes présumé innocent.
+Par contre, le fardeau de la preuve peut se déplacer sur vous dans certaines circonstances. C’est le 
+cas s’il y a une présomption contre vous, comme d’avoir eu la garde et le contrôle d’un véhicule ou 
+d’avoir effectué une entrée par effraction. 
+S’il y a un tel renversement, vous n’avez pas à faire une preuve hors de tout doute raisonnable, 
+mais votre preuve doit être suffisante pour convaincre le juge ou le jury.
+La présentation de la preuve
+Au procès, chaque partie présente sa preuve à tour de rôle. 
+L
+a preuve, c’est tous les éléments qui appuient ce que vous dites. Il peut s’agir de documents ou 
+de témoins qui viennent raconter ce qu’ils ont vu ou entendu. 
+C’est la poursuite qui commence
+Puisque c’est à la poursuite de prouver votre culpabilité, c’est à elle de présenter sa preuve en 
+premier.
+Une fois la preuve de la poursuite terminée, vous devez d’abord décider si vous présentez une 
+preuve et si vous souhaitez témoigner. Lors de votre procès, vous pouvez décider de ne pas 
+présenter de défense.
+Pour prendre la décision de présenter ou non une défense, il faut analyser la preuve présentée 
+devant la cour. Constitue-t-elle une preuve hors de tout doute raisonnable de tous les éléments 
+de l’infraction
+ ? Si 
+vous avez besoin de temps pour faire cette évaluation, vous pouvez en faire 
+part au juge. Vous devez savoir qu’un aveu de votre part devant la cour, même par inadvertance, 
+peut servir de preuve.
+Si vous présentez une preuve, essayez de la présenter dans l’ordre, de manière chronologique. 
+Si vous vous en sentez capable, portez attention au juge. Si vous remarquez qu’il écrit pendant 
+que vous parlez, ralentissez pour lui permettre de compléter ses notes et de vous écouter. 
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.35] ---
+67
+Comment se préparer pour la cour   en matièr e criminelle
+Le procès
+Les témoignages
+Le témoignage occupe une place de premier plan au sein du procès. 
+Avant d’entendre les témoins, le juge (ou le jury) ne connaît pas les faits de votre cause. Le juge 
+doit analyser soigneusement chaque témoignage qu’il entend. Il doit évaluer la crédibilité, la 
+cohérence et la pertinence des faits. Les témoignages sont déterminants dans la décision que 
+devra rendre le juge.
+Un conseil
+ :
+ préparez vos questions soigneusement avant le procès. Pour savoir comment,
+consultez ce guide aux pages 57 à 59.
+L’interrogatoire 
+L’interrogatoire, c’est le moment où une partie interroge ses propres témoins.
+Ensuite, l’autre partie peut interroger ce même témoin pendant le contre-interrogatoire. 
+Tous les témoins sont assermentés avant de témoigner, c’est-à-dire qu’ils doivent promettre de 
+dire la vérité. 
+Ensuite, l’interrogatoire peut débuter. Lors de l’interrogatoire, les questions doivent être ouvertes. 
+En effet, il ne faut pas suggérer de réponse à ses propres témoins. Si vous croyez que la poursuite 
+pose des questions suggestives, vous pouvez vous objecter. 
+Le contre-interrogatoire
+Lorsqu’une partie a terminé de poser des questions à son témoin, l’autre partie a le droit de
+l’interroger à son tour. Lors de ce contre-interrogatoire, il est permis de poser des questions qui 
+suggèrent une réponse. 
+Dans certaines circonstances, le juge pourrait vous interdire de contre-interroger vous-même
+certains témoins. Par exemple, la victime d’une infraction à caractère sexuel ou un témoin
+mineur. Ce contre-interrogatoire devra être mené par un avocat.
+Dans ce cas, le tribunal doit vous donner la possibilité de choisir un avocat pour procéder au 
+contre-interrogatoire. Si vous ne trouvez pas d’avocat, le tribunal en désignera un gratuitement. 
+L’avocat désigné ne vous représente pas et son mandat est limité au contre-interrogatoire. 
+Gardez à l’esprit que la meilleure preuve est plus souvent celle que vous faites à l’aide de vos
+propres témoins. Vous n’êtes pas obligé de contre-interroger les témoins de la poursuite. Du 
+moins, la plupart du temps. 
+Imaginons que votre témoin, Madame A, viendra dire le contraire du témoin de la poursuite,
+Monsieur X. 
+Interrogatoire :  on pose des questions à son propre témoin.
+Contre-interrogatoire
+ :
+ on pose des questions au témoin de l’autre partie.
+« La voiture
+était rouge. »
+« La voiture
+était blanche. »
+Monsieur X
+Témoin de la poursuite
+Madame A
+Votre témoin
+Vous ne pouvez pas choisir de ne pas contre-interroger Monsieur X et plaider ensuite qu’il
+mentait. Il faut lui permettre de s’expliquer et d’être confronté à ses contradictions. 
+Et si c’est plutôt une preuve matérielle (par exemple, une photo) qui contredit Monsieur X, 
+c’est la même chose
+ :
+ vous devrez le contre-interroger.
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.36] ---
+69
+Comment se préparer pour la cour   en matièr e criminelle
+Le procès
+Le réinterrogatoire 
+Il peut également y avoir un réinterrogatoire dans les cas suivants
+ :
+•
+ L
+orsque des éléments nouveaux ont été abordés lors du contre-interrogatoire.
+•
+ P
+our demander une précision au témoin.
+•
+ P
+our demander au témoin de compléter une réponse. 
+Les documents mis en preuve
+Les documents, photos ou textos qui vous servent de preuve portent le nom de « piè ces  ».
+Si 
+vous souhaitez présenter des pièces lors du procès, référez-vous aux pages 52 et 53 de ce guide. 
+Le juge peut aussi vous expliquer la procédure à suivre. 
+Lors du procès, vous devrez démontrer la provenance et l’authenticité de la pièce. Pour ce faire, 
+vos témoins peuvent donner des détails sur leur contenu. Vous devez préparer le témoignage de 
+chaque personne pour vous assurer qu’elle témoigne sur tous les documents nécessaires. 
+Par exemple, une photo peut être déposée par un témoin qui reconnaît les lieux. Il peut alors 
+témoigner que cette photo représente les lieux lors du crime. 
+Lors de votre plaidoirie (c’est la prochaine étape), vous aurez l’occasion d’expliquer au juge
+pourquoi ces pièces appuient votre point de vue. 
+L’admissibilité de la preuve 
+Il se peut que le juge vous dise que votre preuve ne peut pas être présentée parce que vous ne 
+respectez pas les règles de preuve applicables. Vous devez alors écouter les explications du juge et 
+vous assurer de respecter les règles, sinon votre preuve risque d’être rejetée. 
+Les règles sur l’admissibilité de la preuve sont variées et complexes. Voici tout de même 
+quelques-unes de ces règles
+ :
+L
+a règle de la pertinence
+Toutes les preuves doivent être
+ :
+•
+ En lien dir
+ect avec le crime.
+•
+ P
+ertinentes aux accusations portées contre vous.
+•
+ Utiles au juge ou au jur
+y. Par exemple, pour juger de la crédibilité d’un témoin. 
+Vous pouvez vous objecter si vous considérez que le procureur de la poursuite assigne un témoin 
+qui n’a rien à dire au sujet du crime ou un témoin qui présente un document qui n’est pas
+pertinent.
+La poursuite peut aussi s’opposer à ce que vous présentiez une preuve qu’elle considère comme 
+non pertinente.
+La preuve de bonne réputation
+En principe, il est interdit à la poursuite d’attaquer votre réputation dans le seul but de prouver 
+que vous êtes un type de personne plus susceptible de commettre un crime. 
+Par contre, vous pouvez faire une preuve de votre bonne réputation, c’est-à-dire tenter de prouver 
+que vous n’êtes pas le genre de personne susceptible de commettre ce crime. Attention, si vous 
+présentez une preuve de bonne réputation, vous permettez alors à la poursuite de faire la preuve 
+contraire. 
+C’est assez difficile de faire une preuve de bonne réputation. Si vous y songez, prenez le temps de 
+réfléchir aux conséquences d’une telle preuve.
+
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.37] ---
+71
+Comment se préparer pour la cour   en matièr e criminelle
+Le procès
+Le ouï-dire
+Généralement, il n’est pas possible de rapporter à la cour les paroles d’une autre personne. C’est 
+ce qu’on appelle du «
+ ouï-dir
+e
+ ».
+ 
+C’est à la personne qui a prononcé les paroles de les rapporter au procès. Pourquoi
+ ? P
+arce que le 
+ouï-dire n’est pas fiable. Pour s’assurer de la véracité, il faut que la personne témoigne et qu’il soit 
+possible de la contre-interroger. 
+Il existe des exceptions à la règle du ouï-dire, notamment pour les paroles prononcées par un
+accusé. Un témoin de la poursuite pourrait donc rapporter vos paroles. 
+Vous voulez savoir si une exception s’applique à un ouï-dire que vous voulez mettre en preuve? 
+Parlez-en gratuitement à un avocat de l’un des centres d'Info Justice (info-justice.ca). 
+Le voir-dire
+Le voir-dire n’est pas toujours nécessaire. Il est possible que vous ne passiez pas par cette étape 
+lors de votre procès.
+Le voir-dire est comme un «
+ pr
+ocès dans un procès
+ ».
+ En effet, c’est une audience qui peut être 
+tenue avant ou pendant un procès. 
+Ce que c’est 
+Le voir-dire permet de déterminer l’admissibilité d’un élément de preuve. Il peut viser, par
+exemple, l’admissibilité des déclarations de l’accusé, de la preuve par ouï-dire ou encore de celle
+obtenue en violation de la Charte. 
+Si vous croyez que certains éléments de preuve ont été obtenus en violation de la Charte, vous 
+pourriez demander un voir-dire et tenter de les faire exclure de votre procès. 
+Le déroulement du voir-dire 
+Lors du voir-dire, des témoins peuvent être entendus. Il peut s’agir des témoins de la poursuite ou 
+de la défense. 
+Vous pouvez également choisir de témoigner, même si vous voulez garder le silence lors du 
+procès. En effet, la preuve présentée lors d’un voir-dire ne peut être utilisée au procès pour vous 
+incriminer. 
+Les règles d’interrogatoire et contre-interrogatoire s’appliquent lors du voir-dire.
+Si votre procès se fait devant un jury, le voir-dire se déroulera devant le juge seul, en l’absence du 
+jury. 
+À la fin du voir-dire, le juge décide si la preuve est admissible ou non.
+L’argumentation (la plaidoirie)
+Après la présentation de la preuve vient l’étape de la plaidoirie. C’est votre dernier temps de
+parole. 
+Ce que c’est 
+La plaidoirie est un expos
+é
+ oral qui permet de présenter ses arguments au juge. Le but est de
+résumer brièvement sa preuve (pièces et témoignages) et de convaincre le juge ou le jury. 
+À cette étape, il est inutile de répéter tout le procès. N’oubliez pas que le juge ou le jury a déjà 
+entendu toute la preuve et a pris des notes. Vous devez toutefois insister sur les faits qui appuient 
+votre cause. Et s’il y a des faiblesses dans la preuve de la poursuite, vous pouvez les soulever. Par 
+exemple, vous pouvez souligner les contradictions dans les témoignages rendus.
+Durant votre argumentation, il n’est pas permis d’ajouter ou de préciser des faits qui n’ont pas 
+é
+té
+ établis lors de la présentation de votre preuve, sauf avec la permission du juge.
+Votre procès se fait devant un juge seul 
+(sans jury) ? 
+Votre procès se fait devant jury ?
+C’est à cette étape que vous pouvez présenter 
+les dé
+cisions judiciaires (jurisprudence) et les 
+textes juridiques (doctrine) qui vous
+semblent favorables.
+Avant la plaidoirie, vous aurez l’occasion de 
+discuter avec le juge et la poursuite, sans la 
+présence du jury. Ensemble, vous discuterez 
+du droit et des directives que le juge
+présentera au jury. 
+Lors de la plaidoirie, le jury sera de retour. 
+C’est d’ailleurs le jury que vous devrez 
+convaincre. Pour ce faire, vous pourrez lui 
+présenter la preuve et les faits qui vous sont 
+favorables, mais pas de notions juridiques.   
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.38] ---
+73
+Comment se préparer pour la cour   en matièr e criminelle
+Le procès
+Le déroulement  
+La plaidoirie se fait 
+à
+ tour de rôle. 
+Si vous avez présenté une défense, c’est à vous de plaider en premier. Si vous n’avez pas présenté 
+de défense, ce sera à la poursuite de présenter ses arguments en premier.
+La partie qui plaide la première peut demander au juge la permission de répliquer aux arguments 
+de la partie adverse, sauf lors d’un procès devant jury.
+Le juge peut également vous poser certaines questions. Prenez le temps de bien les écouter, et 
+répondez-y le plus calmement et honnêtement possible.
+Surtout, ne coupez pas la parole 
+à
+ l’autre partie pendant qu’elle est en train de plaider. 
+Les directives du juge au jury 
+Lorsqu’un procès est entendu par un jury, le juge s’adresse aux jurés après les plaidoiries de
+chaque partie et avant que l’on demande au jury de se retirer pour en arriver à un verdict. 
+Cette procédure permet au juge d’expliquer le droit aux jurés, afin qu’ils puissent évaluer si les 
+faits de la cause soutiennent un verdict d’acquittement ou de culpabilité.
+Le délibéré
+Procès sans jury
+Le juge peut décider de rendre sa décision immédiatement après les plaidoiries des deux parties. 
+Le juge peut aussi décider de prendre la cause en délibéré et fixer une date ultérieure pour rendre 
+sa décision. L’accusé doit être présent à cette date.
+Procès avec jury
+À la fin du procès, les jurés se retirent dans un endroit privé afin de discuter entre eux de la 
+décision à rendre. À compter de ce moment, ils sont «
+ séquestr
+és
+ »,
+ c’est-à-dire qu’ils n’ont plus 
+de contact avec l’extérieur et qu’ils ne peuvent consulter aucun média. On appelle cette étape le 
+délibéré. 
+Les jurés peuvent prendre tout le temps nécessaire afin d’en arriver à une décision qui doit être 
+unanime. Si les jurés ne s’entendent pas sur un verdict unanime, il faudra recommencer le procès 
+devant un nouveau jury.
+Le verdict
+Il y a un verdict pour chaque chef d'accusation. Voici les verdicts possibles :
+•
+ Non coup
+able.
+•
+ Coup
+able.
+•
+ Non coup
+able de l’accusation portée contre vous, mais coupable d’une infraction moins 
+  
+ gr
+ave qui y est incluse.
+D’autres verdicts sont possibles, dans certaines situations. 
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.39] ---
+75
+Comment se préparer pour la cour   en matièr e criminelle
+La peine
+La peine
+Vous avez plaidé coupable ou vous avez été déclaré coupable ? Alors, le juge vous imposera une 
+peine, qu’on appelle aussi une sentence.
+Le juge doit tenir compte de plusieurs facteurs pour déterminer la peine. Cette décision n’est pas 
+prise à la légère.
+Pour comprendre ce qui doit être pris en considération dans la détermination de la peine, vous 
+pouvez consulter l’article «
+ Commen
+t un juge détermine-t-il la peine
+ ?
+ » sur le sit
+e Web 
+d’Éducaloi (www.educaloi.qc.ca). 
+Observations sur la peine
+Avant de vous imposer une peine, le juge tient une audition pour les observations sur la peine.
+Ce que c’est 
+Pendant cette audition, la poursuite et vous-même ferez valoir les facteurs atténuants ou
+aggravants de la cause. Il s’agit de facteurs qui pourraient alléger ou alourdir votre peine. Ces 
+facteurs peuvent être en lien avec qui vous êtes ou avec la manière dont le crime a été commis.
+Exemples de facteurs atténuants
+ :
+•
+ V
+otre collaboration avec les autorités (ex. :
+ plaidoyer de culpabilité).
+•
+ V
+otre faible niveau d’implication dans le crime.
+•
+ Un tr
+avail régulier.
+•
+ Un changemen
+t dans votre comportement.
+•
+ V
+otre réhabilitation.
+Exemples de facteurs aggravants
+ :
+•
+ Une in
+fraction motivée par des préjugés ou de la haine (origine ethnique, religion, sexe, 
+ 
+ iden
+tité ou expression de genre, etc.).
+•
+ Un mauv
+ais traitement infligé à un enfant mineur, un époux ou conjoint.
+•
+ L
+’usage d’abus de confiance.
+•
+ L
+e fait que vous ayez déjà un casier judiciaire.
+Le déroulement 
+À cette étape, vous pouvez témoigner ou faire entendre des témoins pour tenter de convaincre  
+le juge de vous imposer la peine la plus clémente compte tenu des circonstances. 
+La poursuite peut également faire entendre des témoins, dont les victimes et leurs proches.  
+Le juge va également prendre connaissance des «
+ Dé
+clarations des victimes
+ ».
+ Il s’agit d’un
+document dans lequel les victimes expliquent comment elles ont été affectées par le crime.  
+Vous recevrez une copie de ce document.  
+La négociation, encore possible
+Si vous réussissez à vous entendre avec la poursuite, vous pourrez présenter au juge une
+suggestion commune sur la peine. Le juge n’est pas tenu de suivre votre recommandation, sauf  
+si l’entente a eu lieu dans le cadre d’une conférence de facilitation (pour en savoir plus sur la 
+conférence de facilitation, consultez la page 29).
+
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.40] ---
+77
+Comment se préparer pour la cour   en matièr e criminelle
+La peine
+Le rapport présentenciel
+Le rapport présentenciel n’est pas toujours nécessaire. 
+La poursuite, le juge ou vous-même pouvez demander la confection d’un tel rapport. La décision 
+finale revient au juge.
+Ce que c’est  
+Le rapport présentenciel permet d’orienter le juge sur la peine la plus appropriée. Il vise à établir le 
+profil d’un accusé et à établir le niveau de risque de récidive. 
+Le rapport peut aborder plusieurs aspects de la vie de l’accusé, allant de son enfance, jusqu’à sa 
+vie actuelle, sa consommation d’alcool ou de drogue, sa santé mentale, ses croyances, etc.   
+Parfois, le rapport présentenciel est composé de deux rapports produits par deux professionnels 
+différents
+ 
+: 
+•
+ Il 
+y a toujours le rapport régulier, confectionné par un agent de probation.
+•
+ On p
+eut aussi y ajouter un «
+ v
+olet
+ »,
+ lorsqu’une expertise est demandée. Le volet est donc 
+  
+ con
+fectionné par un expert, tel qu’un sexologue, un neuropsychologue, etc. 
+Le rapport Gladue, pour les Autochtones
+Êtes-vous Autochtone ?
+Si vous l’êtes et que vous risquez une peine d’emprisonnement, vous pouvez demander un rapport 
+Gladue, même si vous ne résidez pas sur une communauté autochtone. 
+Ce que c’est 
+Un rapport Gladue vise à déterminer une peine juste et appropriée. 
+Le rapport tient compte des difficultés vécues par vous et par votre communauté, notamment  
+les facteurs systémiques et historiques. Il fait aussi mention de ce qui est offert dans votre
+communauté et qui pourrait servir à votre réhabilitation et guérison. 
+Pour en savoir plus sur le rapport Gladue
+ :
+•
+ Consult
+ez le site Web des Services parajudiciaires autochtones du Québec au 
+ spaq.qc.ca
+/rapportgladue
+•
+ Visionne
+z la vidéo Accusés autochtones
+ : Demander un r
+apport Gladue sur le site Web 
+ d’É
+ducaloi (www.educaloi.qc.ca). Pour la trouver, écrivez «
+ accusés aut
+ochtones
+ » dans 
+  
+ l’
+outil de recherche. 
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.41] ---
+79
+Comment se préparer pour la cour   en matièr e criminelle
+La peine
+Les peines possibles
+Absolution
+L’absolution est la mesure la plus clémente qui existe en matière criminelle. Elle peut être
+inconditionnelle (sans condition) ou conditionnelle (avec conditions).
+On dit souvent que l’absolution permet d’éviter le casier judiciaire. C’est vrai, oui et non… En effet, 
+l’absolution n’entraîne pas la création d’un casier judiciaire permanent, mais il en crée un
+temporaire. Le casier sera créé dans les fichiers de la Gendarmerie Royale du Canada (GRC), 
+mais sera effacé un an après l’ordonnance dans le cas d’une absolution inconditionnelle ou trois 
+ans après dans le cas d’une absolution conditionnelle. 
+L’absolution n’est pas exceptionnelle, mais elle n’est pas toujours possible non plus. Il sera
+impossible d’obtenir une absolution pour une infraction qui prévoit une peine minimale ou 
+punissable d’un emprisonnement de 14 ans ou plus. Par exemple, la conduite avec les facultés 
+affaiblies ou avec une concentration de drogue ou d’alcool supérieure à la limite permise prévoit 
+une peine minimale et ne peut pas permettre l’absolution.
+Absolution inconditionnelle
+L’absolution inconditionnelle n’équivaut pas à un acquittement, mais fait en sorte que vous 
+n’aurez pas de condition à respecter.
+Absolution conditionnelle
+L’absolution peut être accompagnée de conditions à respecter. Ces conditions sont
+prévues dans une ordonnance de probation pour une période déterminée. 
+Si vous ne respectez pas les conditions ou si vous êtes trouvé coupable d’une nouvelle infraction 
+commise pendant votre période de probation, il sera possible pour le juge d’annuler votre
+absolution. De plus, le juge pourra vous imposer une peine pour la première infraction en plus 
+d’une peine pour la nouvelle infraction.
+« 109 »
+Vous entendrez peut-être le procureur et le juge parler d’un « 10 9  ».  Il s’agit d’un article du Code 
+criminel. Concrètement, il s’agit d’une interdiction d’être en possession d’une arme à feu ou une 
+arbalète. Cette interdiction vise aussi les armes de chasse. 
+Ordonnance de probation
+L’ordonnance de probation est une peine qui peut être prononcée avec une autre peine. Elle sert 
+principalement à imposer des conditions restrictives à la personne déclarée coupable, et ce, pour 
+une période maximum de trois ans.
+Voici quelques exemples de conditions
+ :
+•
+ Êtr
+e présent à la cour lorsque requis.
+•
+ Ne p
+as troubler l’ordre public et avoir une bonne conduite.
+•
+ Pr
+évenir le tribunal ou l’agent de probation de tout changement d’adresse ou de nom et les 
+ 
+ aviser de t
+out changement d’emploi ou d’occupation.
+•
+ S’
+abstenir de communiquer, directement ou indirectement, avec certaines personnes.
+•
+ Ne p
+as aller dans un lieu spécifique.
+•
+ S’
+abstenir de consommer des drogues, de l’alcool ou d’autres substances intoxicantes.
+Sursis de peine (sentence suspendue)
+Le juge peut décider de ne pas imposer de peine immédiatement, mais de conserver la possibilité 
+de la prononcer plus tard si vous commettez une nouvelle infraction. C’est ce qu’on appelle un 
+sursis de peine. 
+Le juge rendra alors une ordonnance de probation qui comporte des conditions à respecter. Si ces 
+conditions ne sont pas respectées, le juge peut vous faire revenir en cour et vous imposer la peine 
+qui aurait dû vous être imposée initialement.
+Attention de ne pas confondre le «
+ sur
+sis
+ » de p
+eine avec l’emprisonnement avec «
+ sur
+sis
+ ».
+Amende
+Le juge peut choisir de vous imposer une amende. Cette sanction doit être proportionnelle à la 
+gravité du crime et à votre capacité de payer, sauf dans les cas où une amende minimale est 
+prévue. 
+Pas les moyens de payer
+ ?
+V
+ous pouvez demander un délai afin de payer l’amende.
+Si vous avez été condamné à payer une amende et que vous réalisez plus tard que vous ne
+pouvez pas la payer, vous pouvez demander de l’acquitter par l’accomplissement de travaux 
+communautaires. 
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.42] ---
+81
+Comment se préparer pour la cour   en matièr e criminelle
+La peine
+Emprisonnement avec sursis 
+Le juge peut vous imposer une peine d’emprisonnement avec sursis, aussi connue sous
+l’appellation «
+ emprisonnemen
+t dans la collectivité
+ ».
+ Pour ce faire, il doit être convaincu que 
+cette mesure ne met pas en danger la sécurité du public et qu’elle est conforme aux principes et 
+objectifs de la peine.
+Le recours à l’emprisonnement avec sursis est limité par les critères suivants
+ :
+•
+ L
+’emprisonnement doit être de moins de deux ans.
+•
+ A
+ucune peine minimale d’emprisonnement ne doit être prévue.
+L’emprisonnement avec sursis est accompagné de conditions exigeantes et restrictives à votre 
+liberté. Par exemple, être assigné 24 heures sur 24 à votre domicile, sauf pour aller travailler ou 
+pour d’autres occupations essentielles à votre subsistance.
+Tout au long de votre sursis, vous serez soumis à des vérifications étroites et serrées. Le
+non-respect de vos conditions peut avoir des conséquences très sérieuses. 
+Emprisonnement discontinu 
+L’emprisonnement peut aussi être purgé de façon discontinue, souvent la fin de semaine. Cette 
+peine n’est possible que pour les emprisonnements d’une durée maximale de 90 jours. 
+Cette peine permet d’éviter une perte d’emploi, mais elle n’est pas synonyme de liberté absolue. 
+Si vous recevez cette peine, vous devrez respecter des conditions qui vous seront imposées dans 
+le cadre d’une ordonnance de probation. Les conditions peuvent également se poursuivre après 
+avoir complété la durée de votre peine de fin de semaine.
+Si vous ne respectez pas vos conditions ou si vous ne vous rendez pas à la prison pour purger votre 
+peine discontinue, vous risquez de nouvelles accusations criminelles.
+Si une peine d’emprisonnement discontinu vous est infligée, sachez que vous pouvez demander 
+au tribunal de purger votre peine de façon continue.
+Emprisonnement ferme
+La peine d’emprisonnement ferme peut être purgée dans une prison ou un pénitencier, selon sa 
+durée. 
+•
+ Emprisonnemen
+t de moins de deux ans = prison provinciale. 
+•
+ Emprisonnemen
+t de deux ans et plus = pénitencier fédéral.
+Votre admissibilité à une libération conditionnelle est assujettie à des règlements distincts, selon 
+que vous purgez votre peine dans une prison ou un pénitencier.
+Suramende compensatoire 
+Il s’agit d’un montant d’argent qui sert à financer des programmes et des services à l'intention 
+des victimes d'actes criminels. La suramende compensatoire s’additionne à une autre peine.
+Autres ordonnances
+En plus de la peine, le juge a le pouvoir ou l’obligation, dans certains cas, de rendre d’autres
+ordonnances.
+Par exemple, vous pouvez être condamné à rembourser les dommages causés par votre crime. 
+Vos moyens financiers ou votre incapacité de payer n’empêcheront pas le tribunal de rendre une 
+telle ordonnance.
+ 
+Le juge peut aussi rendre d’autres ordonnances. Par exemple
+ :
+•
+ V
+ous interdire de conduire.
+•
+ V
+ous interdire de posséder des armes à feu. 
+•
+ V
+ous confisquer certains biens ou produits qui proviennent de la criminalité.
+•
+ V
+ous obliger à vous soumettre à un prélèvement d’échantillon d’ADN. 
+•
+ V
+ous enregistrer à titre de délinquant sexuel. 
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.43] ---
+83
+Comment se préparer pour la cour   en matièr e criminelle
+L'appel
+L'appel
+Dans certaines circonstances, vous avez le droit de porter en appel le verdict de culpabilité ou la 
+peine imposée.
+Par contre, ne faites pas appel simplement parce que vous 
+ê
+tes déçu. Le rôle de la Cour
+d’appel n’est pas de refaire le procès ou de réentendre les témoins. 
+Pour avoir gain de cause, il faut convaincre la Cour d’appel que le premier juge a commis des 
+erreurs déterminantes dans son jugement. 
+Délai de 30 jours
+Le délai pour déposer un avis d’appel est de 30 jours. Si vous dépassez ce délai, vous devrez
+demander la permission à la Cour pour faire appel et devrez expliquer les raisons de votre retard.
+Si vous souhaitez porter le jugement de culpabilité en appel, n’attendez pas de recevoir la peine. 
+Vous risqueriez de dépasser le délai de 30 jours.
+Deux endroits pour faire appel 
+Selon le type d’accusation portée contre vous, l’appel devra être entendu par
+ :
+•
+ L
+a Cour supérieure, pour les infractions poursuivies par procédure sommaire.
+•
+ L
+a Cour d’appel du Québec, pour les actes criminels.
+La transcription du procès est obligatoire
+Si vous décidez d’aller en appel d’une décision, vous devez obtenir la transcription de tout ce qui 
+s’est déroulé lors du procès. Vous devrez payer les frais pour l'obtenir.
+Si vous avez gain de cause, la Cour d’appel peut condamner la poursuite à vous en rembourser le 
+coût.
+Des règles différentes
+Les règles et procédures applicables en appel sont différentes de celles décrites dans ce guide. 
+Renseignez-vous 
+à
+ ce sujet en consultant un avocat, si possible. 
+La suspension de la peine
+L’appel ne suspend pas l’exécution de la peine automatiquement. 
+Par exemple, imaginons qu’on vous retire le droit de conduire pour une période d’un an et qu’on 
+vous condamne à une amende de 1
+ 000 $
+. En attendant l’appel, vous devrez payer l’amende et 
+vous n’aurez pas le droit de conduire un véhicule. 
+Toutefois, vous pouvez demander à la Cour d’appel de suspendre le jugement de première
+instance en attendant l’audition de l’appel.
+
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.44] ---
+85
+Comment se préparer pour la cour   en matièr e criminelle
+Des ressources pour y voir plus clair
+Des ressources pour  
+y voir plus clair
+Il existe plusieurs ressources, gratuites ou à faible coût, pour vous aider à vous préparer pour 
+votre procès. 
+Pour trouver de l’information et des
+décisions des tribunaux
+Éducaloi
+www.educaloi.qc.ca
+C’est un bon point de d
+é
+part pour commencer sa recherche d’information juridique. Vous y
+retrouverez de l’information fiable et facile 
+à
+ comprendre. 
+Êtes-vous Autochtone
+ ? É
+ducaloi a préparé un guide sur le processus judiciaire criminel et les 
+droits des accusés autochtones. Pour le consulter, allez sur la page d’accueil du site Web
+d’Éducaloi, cliquez sur «
+ Publications
+ » et séle
+ctionnez ensuite la catégorie «
+ A
+utochtones
+ ».
+ Vous y 
+trouverez également des vidéos pertinentes. 
+Centre d’acc
+ès 
+à
+ l’information juridique (CAIJ)
+www.caij.qc.ca
+Grâ
+ce 
+à
+ son moteur de recherche UNIK, vous trouverez facilement la doctrine, les d
+écisions des 
+tribunaux
+ (la jurisprudence) ainsi que les lois dont vous avez besoin pour pré
+parer votre dossier.
+Société  qu é bécoise d’in formation juridique (SOQUIJ)
+citoyens.soquij.qc.ca
+Ce site Web contient, lui aussi, un moteur de recherche pour trouver des d
+écisions des tribunaux
+ 
+(la jurisprudence). 
+Pour y acc
+éder
+, cliquez sur l’ic
+ô
+ne des trois lignes situ
+ée en haut 
+à
+ droite de la page. Cliquez
+ensuite sur «
+ T
+rouver une d
+écision
+ ».
+ 
+Gouvernement du Québec
+www.quebec.ca/justice-et-etat-civil/systeme-judiciaire
+Ce site est une mine d’or d’information pour les personnes qui se représentent seules. Attention, 
+vous y trouverez aussi de l’information sur les procès civils
+ :
+ assurez-vous de choisir les articles qui 
+s’appliquent au droit criminel.
+Vous trouverez entre autres sur ce site
+ :
+ 
+•
+ De l’in
+formation sur le processus judiciaire.
+•
+ L
+e rôle pour connaître l’horaire de vos audiences.
+•
+ De l’in
+formation sur les programmes d’aide pour les personnes reconnues coupables.
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.45] ---
+87
+Comment se préparer pour la cour   en matièr e criminelle
+Des ressources pour y voir plus clair
+Pour trouver des formulaires
+Le personnel du greffe
+Il y a un greffe dans tous les palais de justice. C’est le lieu où sont conservés les dossiers relatifs 
+aux affaires portées devant les tribunaux. 
+Le rôle du personnel du greffe est limité à vous donner des renseignements généraux et à recevoir 
+certaines procédures.
+Le personnel du greffe peut, par exemple
+ :
+•
+ V
+ous renseigner sur les types de formulaires dont vous avez besoin, sur la façon de les remplir 
+ 
+ ainsi que sur les coût
+s qui y sont reliés.
+•
+ V
+ous indiquer où se trouvent les divers services et ressources en cas de besoin.
+•
+ V
+ous expliquer, de manière générale, certains éléments de procédure de base, comme la 
+  
+ f
+açon d’assigner un témoin.
+Cependant, le personnel du greffe ne peut en aucun cas
+ :
+•
+ V
+ous donner un avis juridique concernant votre dossier.
+•
+ V
+ous recommander un avocat.
+Cour du Qu
+é
+bec (Centre de documentation) 
+courduquebec.ca/centre-de-documentation 
+Si votre proc
+è
+s a lieu 
+à
+ la Cour du Qu
+é
+bec, vous y trouverez les formulaires dont vous avez besoin.
+ 
+Lorsque vous 
+ê
+tes sur la page d’accueil du site Web de la Cour du Qu
+é
+bec, cliquez sur l’ic
+ô
+ne des 
+trois lignes situ
+ée en haut 
+à
+ droite de la page. C’est l
+à
+ que vous trouverez le Centre de
+documentation. 
+Cour supé rieure du Qu é bec (Division de Montréal ou Division de Qu é bec) 
+coursuperieureduquebec.ca
+Si votre proc
+è
+s a lieu 
+à
+ la Cour supé
+rieure, vous y trouverez les formulaires dont vous avez besoin. 
+Lorsque vous 
+ê
+tes sur la page d’accueil du site Web de la Cour supé
+rieure, cliquez sur l’ic
+ô
+ne des 
+trois lignes situ
+ée en haut 
+à
+ droite de la page. Ensuite, choisissez votre division (Montréal ou
+Qu
+é
+bec).
+Pour poser des questions
+Boussole juridique 
+boussolejuridique.ca
+À consult
+er absolument
+ ! 
+Il s
+’agit d’un moteur de recherche, facile 
+à
+ utiliser, pour vous aider 
+à
+ trouver une ressource
+juridique (comme des cliniques juridiques) prè
+s de chez vous. 
+Il est inté
+ressant de noter que des cliniques juridiques sont disponibles dans toutes les faculté
+s de 
+droit des université
+s du Qu
+é
+bec
+ ! 
+T
+outes les ressources qui s’y trouvent sont gratuites ou 
+à
+ faibles co
+û
+ts. 
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.46] ---
+89
+Comment se préparer pour la cour   en matièr e criminelle
+Des ressources pour y voir plus clair
+Info Justice 
+info-justice.ca
+Info Justice est une ressource incontournable. 
+Avec des centres situ
+é
+s un peu partout au Qu
+é
+bec, Info justice vous permet de rencontrer 
+gratuitement un avocat. Lors d’une consultation, vous pourrez obtenir, entre autres :
+•
+ De l’in
+formation juridique propre 
+à
+ votre situation. 
+•
+ De l’
+aide pour trouver les bons formulaires et des explications pour les compl
+é
+ter. 
+•
+ De l’
+orientation vers des ressources appropri
+ées.
+ 
+Par contre, les avocats d'Info Justice ne peuvent pas :
+•
+ V
+ous dire quoi faire ou si vous avez une chance de gagner. 
+•
+ R
+emplir les formulaires pour vous.
+•
+ V
+ous représenter à la cour.
+Le juge
+Vous pouvez poser des questions au juge. 
+En effet, le juge a un rôle d’assistance et d’information envers les parties, surtout celles qui ne 
+sont pas représentées par un avocat. Le juge a même une obligation de vous expliquer les règles. 
+Assurez-vous de bien comprendre ce qu’il vous dit. Si ses explications vous semblent compliquées, 
+ne soyez pas timide et demandez-lui de vous expliquer de nouveau. 
+Bas-Saint-Laurent
+418 722-7770 • 1 855 345-7770
+Centre-du-Québec 
+873 382-2262 
+Côte-Nord
+581 826-0088 • 1 844 960-7483
+Estrie 
+819 933-5540
+Laval-Laurentides-Lanaudière
+450 990-8071 • 1 844 522-6900
+Mauricie
+819 415-5835 • 1 888 542-1822
+Montérégie
+579 723-3700
+Nunavik
+819 254-8567 • 1 833 844-8055 
+Outaouais
+819 600-4600 • 1 844 606-4600
+Québec-Chaudière-Appalaches
+418 614-2470 • 1 833 614-2470
+Grand-Montréal
+514 227-3782 (option 4)
+Saguenay-Lac-Saint-Jean 
+418 412-7722 • 1 844 412-7722
+Gaspésie-Îles-de-la-Madeleine
+418 689-1505 • 1 844 689-1505
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.47] ---
+91
+Comment se préparer pour la cour   en matièr e criminelle
+Des ressources pour y voir plus clair
+Pour prendre des notes
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.48] ---
+93
+Comment se préparer pour la cour   en matièr e criminelle
+Index thématique
+93
+Index : pour  
+comprendre le jargon 
+Le monde juridique a son propre jargon... et il peut être difficile de s’y retrouver. 
+Pour comprendre l’un des termes ci-dessous, consultez le guide aux pages correspondantes.
+810 (Engagement de ne pas troubler l’ordre public)
+Acte criminel
+Actus reus
+Amicus
+Appel du rôle
+Assignation
+Caution
+Comparution
+Contre-interrogatoire
+Déjudiciarisation
+Détention
+Doctrine
+Enquête caution
+Enquête préliminaire 
+Enquête sur mise en liberté provisoire
+Fardeau de la preuve
+Hors de tout doute raisonnable
+Infraction hybride
+Infraction mixte 
+Infraction moindre ou incluse
+Infraction punissable par mise en accusation
+Infraction punissable par procédure sommaire
+Infraction sommaire
+Jours francs
+Jurisprudence
+Mens rea
+Non-judiciarisation
+Notification
+page 32
+pages 24, 25
+page 50
+page 29
+page 35
+page 55
+page 41
+pages 35 à 39
+pages 58, 66, 67
+page 31
+page 14
+page 51
+page 40
+page 43
+page 40
+page 64
+page 17
+page 24
+page 24
+page 28
+pages 24, 25
+pages 24, 25
+pages 24, 25
+page 39
+page 51
+page 50
+page 31
+page 52
+Ouï-dire
+Pièce
+Plaidoyer
+PMR (Programme de mesures de rechange)
+Pro forma
+Probation
+Rôle d'audience
+Signification
+Subpoena
+Voir-dire
+page 70
+page 52
+page 36
+page 30
+page 42
+page 79
+page 35
+page 52
+page 55
+page 70
+
+--- [fondation_preparer-cour-criminelle-2025.pdf p.49] ---
+95
+Comment se préparer pour la cour   en matièr e criminelle
+Remerciements
+La réalisation des guides Comment se préparer pour la cour a été possible grâce au  
+soutien et à l’engagement du Barreau du Québec envers notre mission. 
+  
+Son dévouement continu en faveur d’une justice accessible et de qualité renforce notre 
+détermination à contribuer à l’avancement du droit et à soutenir une relève juridique 
+diversifiée. 
+  
+Merci !
+Merci à Info Justice ! 
+La rédac tion des guides Comment se préparer pour la cour n’aurait pas été possible sans 
+la participation d’Info Justice. Grâce à l’expertise de ses avocats, les informations qu’ils 
+contiennent sont exactes et répondent concrètement aux besoins des citoyens.
+Ensemble, nous contribuons donc 
+à
+ rendre la justice plus accessible et 
+à
+ accro
+î
+tre la  
+confiance du public envers le systè
+me de justice.

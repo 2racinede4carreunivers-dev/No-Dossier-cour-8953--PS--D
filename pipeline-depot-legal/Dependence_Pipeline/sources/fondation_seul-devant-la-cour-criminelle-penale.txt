@@ -1,0 +1,2093 @@
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.1] ---
+
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.2] ---
+
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.3] ---
+MISE EN GARDE
+Ce document se veut une source d’information générale  
+et ne constitue pas une opinion ou un avis juridique.  
+Son contenu ne doit pas être interprété pour tenter  
+de répondre à une situation particulière. 
+Dans ce document, la forme masculine désigne, lorsque le 
+contexte s’y prête, aussi bien les femmes que les hommes.
+Dépôt légal – Bibliothèque nationale du Québec, 2012
+Dépôt légal – Bibliothèque nationale du Canada, 2012
+3e trimestre 2012
+ISBN 978-2-923946-00-9 (IMPRIMÉ)
+ISBN 978-2-923946-01-6 (PDF)
+Dernière mise à jour : Janvier 2018
+© Fondation du Barreau du Québec, 2012
+Tous droits réservés 
+Fondation du Barreau du Québec
+445, boulevard Saint-Laurent
+Montréal (Québec)  H2Y 3T8
+Téléphone : 514 954-3461 • Télécopieur : 514 954-3449
+Courriel : infofondation@barreau.qc.ca
+Site Web : www.fondationdubarreau.qc.ca
+Direction du projet : Me Claire Morency
+Rédaction : Me Pierre E. Gagnon 
+ Me Myriam Lachance
+ Me Maxime Roy
+ Me Isabel J. Schurman, Ad. E.
+La Fondation du Barreau tient à remercier les membres de  
+la  magis trature et du Barreau du Québec qui ont généreusement 
+offert leur collaboration par l’apport de leurs judicieux 
+commentaires.
+Conception graphique et visuelle : Septembre éditeur
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.4] ---
+AVANT-PROPOS
+Face au phénomène croissant des individus qui choisissent de se représenter seuls 
+devant les tribunaux, la Fondation du Barreau du Québec met à la disposition de 
+ces personnes des renseignements d’ordre général afin de les aider à mieux 
+ comprendre les principales étapes du processus judiciaire, espérant ainsi leur per-
+mettre de faire des choix éclairés quant aux meilleures démarches à entreprendre.
+Le troisième guide de cette série s’adresse principalement aux personnes qui font 
+face au système judiciaire en matières criminelle ou pénale. Il a pour but 
+ d’expliquer et de démystifier les différentes étapes du processus et  d’accompagner 
+les individus qui choisissent d’agir seuls. Bien qu’ils ne doivent pas l’utiliser 
+comme une source d’information exhaustive, nous souhaitons que ce guide 
+ facilite leur compréhension tout au long du processus judiciaire.
+En matières criminelle et pénale, la liberté ou l’avenir de la personne accusée  
+est presque toujours en péril. La personne qui décide de se représenter seule a 
+avantage à connaître toutes les conséquences d’une telle décision.
+Dans cette même série :
+SEUL DEVANT LA COUR en matière civile, publié au 2 e trimestre 2009.
+SEUL DEVANT LA COUR en matière familiale, publié au 3 e trimestre 2010.
+SEUL DEVANT UN TRIBUNAL ADMINISTRATIF. Tribunal administratif  
+du Québec, Commission des lésions professionnelles,  Régie du logement 
+et Commission des relations de travail, publié au 1 er trimestre 2013.
+Les mots et expressions indiqués en gras et en 
+couleur dans le texte (la couleur varie selon le 
+ chapitre) renvoient à des définitions que vous 
+trouverez au glossaire situé à la fin de ce guide.
+3
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.5] ---
+4
+ÉTAPE 4
+LES ÉTAPES AVANT LE PROCÈS 
+4.1 Les types d’infractions
+4.2 Les types de convocation à la cour
+ 4.2.1 Le constat d’infraction
+ 4.2.2 La sommation, la promesse,  
+la citation ou l’engagement  
+à comparaître
+ 4.2.3 L’arrestation
+4.3 La comparution
+ 4.3.1 L’accusé en liberté 
+ 4.3.2 L’accusé détenu
+ 4.3.3 La mise en liberté provisoire ou 
+« enquête sur cautionnement » 
+   Les objectifs et principes  
+de la mise en liberté
+   Les critères de la mise  
+en liberté
+   Les règles de preuve lors  
+de l’enquête pour mise  
+en liberté
+   Les conditions de mise  
+en liberté
+4.4 L’enquête préliminaire
+ 4.4.1 Son objectif et ses effets
+ 4.4.2 Son déroulement
+ 4.4.3 La révision de l’ordonnance de 
+mise en liberté ou de détention
+4.5 La négociation
+ÉTAPE  5
+LA PRÉPARATION DU PROCÈS
+5.1 La révision de votre dossier
+5.2 Les témoins de la poursuite
+5.3 L’identification et l’assignation  
+de vos témoins
+5.4 La préparation de vos témoins
+5.5 La recherche sur les principes  
+de droit applicables
+6
+7
+7
+8
+11
+11
+12
+12
+12
+12
+13
+13
+14
+15
+15
+16
+16
+16
+17
+17
+19
+19
+20 
+20
+20
+21
+21
+22
+22
+22
+22
+23
+23
+23
+24
+24
+24
+25
+25 
+27
+27 
+28
+28
+29
+29
+TABLE DES MATIÈRES
+SEUL DEVANT LA COUR
+En matières criminelle et pénale
+VOUS ÊTES SEUL DEVANT LA COUR 
+ÉTAPE 1
+ÊTRE OU NON REPRÉSENTÉ  
+PAR UN AVOCAT
+1.1 Votre droit d’être représenté  
+par un avocat
+1.2 Avec ou sans avocat?  
+Les questions à se poser
+ÉTAPE 2
+L’ORGANISATION DES TRIBUNAUX
+2.1 La Cour suprême du Canada
+2.2 La Cour d’appel
+2.3 La Cour supérieure
+2.4 La Cour du Québec
+2.5 Les cours municipales
+ÉTAPE 3
+LE RÔLE DE CHACUN
+3.1 Le juge
+3.2 L’avocat de la poursuite
+3.3 L’avocat de la défense
+3.4 Le personnel du greffe
+3.5 Le constable spécial
+3.6 Le greffier
+3.7 L’huissier audiencier
+3.8 L’interprète
+3.9 Les règles de conduite devant la cour
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.6] ---
+31
+31 
+32
+32
+32
+32
+32
+32
+33
+34
+34
+34
+35
+35
+36
+36
+36
+36
+37
+37
+37
+37
+38
+39
+40
+41
+41
+42
+42
+42
+45 
+46
+46
+46
+46
+49 
+50
+50
+50
+50
+50
+51
+51
+51
+53 
+53
+54
+55
+5
+ÉTAPE 6
+LE PROCÈS EN MATIÈRE  
+CRIMINELLE
+6.1 Devant juge seul ou devant juge et jury?
+6.2 Un procès public
+6.3 La présence de l’accusé
+6.4 La présentation de la preuve
+ 6.4.1 Le fardeau de la preuve
+ 6.4.2 Le déroulement de la preuve
+   La preuve de la poursuite
+   La preuve de la défense
+ 6.4.3 Le témoignage
+   Les règles de l’interrogatoire
+  	Les règles du contre- 
+interrogatoire
+ 6.4.4 L’admissibilité de la preuve
+   La règle de la pertinence
+   La preuve obtenue à la suite 
+d’une violation d’un droit 
+garanti par la Charte
+ 6.4.5 Les types de preuve
+   Le témoin 
+   La preuve matérielle  
+ou documentaire
+6.5 La fin du procès
+ 6.5.1 Les plaidoiries
+ 6.5.2 Les directives du juge au jury
+ 6.5.3 Le délibéré
+ 6.5.4 Le verdict
+ÉTAPE 7
+LA DÉTERMINATION DE LA PEINE
+7.1 L’absolution
+7.2 L’amende
+7.3 L’ordonnance de probation
+7.4 L’emprisonnement avec sursis
+7.5 L’emprisonnement
+7.6 Le dédommagement des victimes
+ÉTAPE 8
+L’APPEL
+8.1 Le délai d’appel
+8.2 Qui peut aller en appel?
+8.3 Où aller en appel?
+8.4 La suspension du jugement  
+de 1re instance
+ÉTAPE 9
+LA CHARTE CANADIENNE :  
+PROCÉDURE ET PRINCIPES DE BASE
+9.1 La protection contre les fouilles,  
+les saisies et les perquisitions abusives
+9.2 La protection contre l’arrestation  
+ou la détention arbitraire
+9.3 Le droit au silence
+9.4 Le droit à l’avocat
+9.5 La présomption d’innocence
+9.6 Le droit à la divulgation de la preuve
+9.7 Le droit à un procès dans un délai 
+ raisonnable
+9.8 Le droit à la protection contre  
+les peines cruelles et inusitées
+RESSOURCES DISPONIBLES
+Sites Web
+Bureaux d’information juridique
+GLOSSAIRE  
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.7] ---
+VOUS ÊTES SEUL DEVANT LA COUR
+Vous devez savoir que les matières criminelle et pénale sont d’ordre public. Par conséquent, 
+en ces matières, vous serez poursuivi par l’État ou « La Reine » et non par une personne ou 
+une compagnie. Les décisions finales quant à la poursuite du dossier reviennent générale-
+ment au représentant de l’État.
+Le plaignant ne peut pas de lui-même retirer sa plainte.  
+La dé ci sion finale appartient à la poursuite.
+Lorsque vous êtes accusé, vous pouvez être représenté par un avocat. Vous pouvez également 
+choisir d’agir seul, c’est votre droit.
+Avant de prendre la décision d’agir seul, vous devez vous poser certaines questions  importantes :
+• Savez-vous pourquoi on vous accuse?
+• Savez-vous pourquoi vous devez comparaître à la cour?
+• Comprenez-vous les documents que vous avez reçus?
+• Savez-vous ce que vous risquez si vous êtes trouvé  cou pable?
+Si vous répondez NON à l’une ou l’autre de ces questions, il est possible que vous ne compreniez 
+pas les conséquences d’agir seul en matières criminelle ou pénale.
+6
+À
+SAVOIR
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.8] ---
+1.1 VOTRE DROIT D’ÊTRE REPRÉSENTÉ  
+PAR UN AVOCAT
+Devant la cour, vous avez le choix : être représenté par un avocat ou agir seul. Personne 
+ d’autre qu’un avocat ne peut parler en votre nom ou agir à votre place devant le tribunal, pas 
+même un membre de votre famille.
+Sachez que vous avez le droit de choisir l’avocat qui 
+va vous représenter, que vous soyez ou non admis-
+sible à l’aide juridique. Il faut cependant que  l’avocat 
+accepte le mandat.
+Pour vérifier si vous êtes admissible à l’aide juridique, 
+contactez le Bureau d’aide juridique de votre localité 
+ou consultez le site Web de la Commission des  services 
+juridiques au : www.csj.qc.ca.
+7
+ÊTRE OU NON
+ REPRÉSENTÉ PAR UN AVOCAT
+ÉTAPE 
+1
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.9] ---
+ÉTAPE 1          ÊTRE OU NON REPRÉSENTÉ PAR UN AVOCAT
+8
+Si vous êtes admissible au programme d’aide juridique, vous avez le choix d’être représenté 
+par un avocat qui travaille à un bureau d’aide juridique ou par un avocat en pratique privée 
+qui accepte des mandats d’aide juridique.
+Si vous n’êtes pas admissible à l’aide juridique compte tenu de vos revenus ou encore parce 
+que les services dont vous avez besoin ne sont pas couverts par le programme, vous pouvez 
+consulter un avocat de pratique privée pour déterminer le coût de ses services. L’avocat peut 
+vous représenter pour la totalité ou pour une partie seulement des procédures dans votre 
+ dossier. N’hésitez pas à discuter avec un avocat des arrangements possibles quant à ses hono-
+raires. Dans certains cas, un avocat peut accepter de travailler pour un montant forfaitaire 
+ou accepter d’autres modalités adaptées à votre situation financière. Il est également possible 
+de seulement consulter un avocat. Pour plus de détails sur les mandats à portée limitée 
+consulter le site web du Barreau du Québec.
+Vous ne connaissez pas d’avocat? Des regroupements ou des associations d’avocats offrent des 
+services de référence ou des listes d’avocats exerçant en matière criminelle ou en matière 
+pénale.  Voir Ressources disponibles à la fin de ce guide
+1.2 AVEC OU SANS AVOCAT?  
+LES QUESTIONS À SE POSER
+Agir seul devant le tribunal comporte des difficultés et des risques. Avant de faire ce choix, 
+réfléchissez bien aux conséquences de cette décision. Il est possible que vous soyez respon-
+sable du geste reproché sans nécessairement être coupable d’une infraction criminelle. Vous 
+pouvez croire à tort que votre responsabilité criminelle est engagée du simple fait qu’une 
+ accusation est  portée contre vous. D’un autre côté, une défense que vous croyez valable ne 
+l’est peut-être pas.  
+Voici quelques points à considérer pour vérifier si l’assistance d’un avocat vous sera utile.
+L’AIDE D’UN AVOCAT EST PARTICULIÈREMENT UTILE 
+DANS LES CAS SUIVANTS :
+• Vous avez de la difficulté à comprendre les règles applicables devant la cour;
+• Vous n’êtes pas à l’aise lorsque vous devez vous exprimer en public;
+• Vous vivez un conflit avec certains témoins de la poursuite et la situation est devenue 
+très émotive;
+• Vous ne comprenez pas la gravité des infractions reprochées et les conséquences d’une 
+déclaration de culpabilité;
+• Vous ignorez quels sont vos moyens de défense;
+• Vous éprouvez des difficultés à identifier quels témoins ou quels éléments de preuve 
+seront utiles à votre défense;  Voir 5.3
+• Vous devez déterminer si un témoin expert devrait être consulté;  Voir 6.4.5
+• Vous ne savez pas s’il vous est possible d’éviter un casier judiciaire;
+• Vous souhaitez porter votre dossier en appel.  Voir Étape 8
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.10] ---
+À
+RETENIR
+En vertu du Code criminel , il vous est interdit, dans 
+ cer tains cas, d’agir seul pour une partie des procédures.  
+Si tel est le cas, le tribunal vous en informera et un  avocat 
+devra alors vous représenter pour cette étape du 
+dossier.
+SI VOUS PENSEZ ÊTRE EN MESURE D’AGIR SEUL EN JUSTICE,  
+DEMANDEZ-VOUS : 
+• Suis-je capable de comprendre l’ensemble de la preuve?
+• Suis-je en mesure de comprendre des textes comportant des termes juridiques?
+• Puis-je rester calme en salle de cour, même lors des interrogatoires ou à la suite de 
+ propos contrariants à mon endroit?
+• Ai-je suffisamment de temps à ma disposition pour assurer le suivi de mon dossier?
+• Suis-je à l’aise pour parler avec l’avocat de la poursuite et pour m’adresser au juge?
+• Est-ce que je connais toutes les conséquences possibles si je suis trouvé coupable?
+ÉTAPE
+1
+ÊTRE OU NON REPRÉSENTÉ 
+ 
+PAR UN AVOCAT
+9
+Vous avez le choix d’agir seul ou d’être représenté par 
+ avocat;
+Si vous envisagez d’agir seul, vous avez la responsabilité de 
+vous informer;
+Si vous décidez d’agir seul, vous pouvez consulter un avocat, 
+ne serait-ce que pour quelques heures, au début des pro -
+cédures ou à tout autre moment lorsque vous le jugez 
+ nécessaire;
+Sachez que les règles de procédure sont applicables à tous 
+et que le juge ne peut vous accorder un traitement spécial si 
+vous agissez seul. Il est donc important de comprendre ces 
+règles et de vous y conformer.
+À
+SAVOIR
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.11] ---
+
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.12] ---
+L’ORGANISATION 
+ DES TRIBUNAUX
+11
+L’organisation des tribunaux se compare à une pyramide. À la pointe, on retrouve la Cour 
+suprême du Canada suivie de la Cour d’appel du Québec, de la Cour supérieure du Québec, de 
+la Cour du Québec et finalement des cours municipales. 
+2.1 LA COUR SUPRÊME DU CANADA
+La Cour suprême est au sommet du système judiciaire canadien. Elle est la juridiction d’appel 
+finale du pays, le dernier tribunal auquel vous pouvez vous adresser. Sa compétence s’étend 
+à toutes les matières en droit, y inclut les matières criminelle et pénale. La Cour suprême 
+est constituée de neuf juges et tient ses audiences uniquement à Ottawa.
+ÉTAPE 
+2
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.13] ---
+ÉTAPE 2          L’ORGANISATION DES TRIBUNAUX
+12
+2.2 LA COUR D’APPEL
+La plus haute cour au Québec est la Cour d’appel du Québec. Les appels en matière criminelle 
+sont entendus par cette cour qui siège habituellement en banc de trois juges. Ce n’est 
+qu’excep tionnellement que des témoins peuvent être entendus avec la permission de la Cour. 
+Les audiences se déroulent à Québec et à Montréal uniquement. 
+2.3 LA COUR SUPÉRIEURE
+Cette cour est présente dans tous les palais de justice du Québec. La Cour supérieure entend 
+les procès devant jury  et les appels de certains types d’accusations. Elle entend également 
+les appels des poursuites sommaires. (  Voir 4.1) C’est également cette cour qui se prononcera 
+sur la remise en liberté de l’accusé dans le cas des actes criminels les plus graves, comme  
+le meurtre.
+2.4 LA COUR DU QUÉBEC
+C’est devant la Cour du Québec que se tiendront la plupart des étapes en matière criminelle, 
+notamment la comparution, l’enquête pour mise en liberté, l’enquête préliminaire, le procès 
+et les représentations sur la peine. Cependant, l’enquête pour mise en liberté se tiendra 
+devant la Cour supérieure pour les actes criminels les plus graves.
+Cette cour est constituée de juges qui exercent dans différentes matières, notamment en 
+matières criminelle et pénale. Les juges de cette cour siègent également dans tous les palais 
+de justice de la province de Québec.
+2.5 LES COURS MUNICIPALES
+Les cours municipales sont réparties sur la majeure partie du territoire de la province.  
+Elles sont présidées par des juges municipaux. En matière pénale, elles ont compétence en ce 
+qui concerne les infractions aux règlements municipaux et les infractions à certaines lois 
+ québécoises, telles que le Code de la sécurité routière. Certaines cours parmi elles peuvent 
+entendre des causes concernant des infractions criminelles poursuivies par voie sommaire.  
+À
+RETENIR
+Tous les tribunaux ont le pouvoir de vous priver de votre 
+liberté quand la loi prévoit l’arrestation ou l’incarcération;
+Pour obtenir de plus amples informations, consultez le 
+site Web de ces tribunaux.
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.14] ---
+LE RÔLE  
+ DE CHACUN 
+3.1 LE JUGE
+Le juge entend les parties et est responsable du bon déroulement du procès. Il tranche les 
+ différends portant sur le droit et prend en considération les faits de la cause.
+Le juge doit être impartial et faire preuve d’indépendance en tout temps. Il applique le droit 
+et les règles de procédure de la même manière pour toutes les parties. Il doit traiter les 
+ parties équitablement en évitant de favoriser l’une ou l’autre.
+Si vous êtes seul devant la cour, le juge vous expliquera le déroulement du procès et le rôle 
+de chacun. Le juge n’est pas le conseiller ou le guide personnel de l’une ou l’autre des parties. 
+Si vous agissez seul, vous ne devez pas compter sur les conseils du juge pour vous aider lors 
+du procès. 
+13
+ÉTAPE 
+3
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.15] ---
+Sachez que vous ne devez en aucun temps com mu niquer avec 
+un juge en dehors des audiences du tribu nal pour discuter de 
+votre dossier.
+3.2 L’AVOCAT DE LA POURSUITE
+L’avocat de la poursuite, communément appelé « procureur de la Couronne », est un profession-
+nel du droit, membre du Barreau du Québec, formé pour intervenir devant les tribunaux.
+C’est généralement l’État qui vous poursuit en matières criminelle ou pénale. 
+Au Québec, le directeur des poursuites criminelles et pénales (DPCP) est nommé par le gouver-
+ne ment comme poursuivant en matières criminelle et pénale. Il nomme des procureurs pour 
+le représenter à travers toute la province. Aussi, certaines municipalités, agissant en matières 
+criminelle et pénale, ont leurs propres procureurs de la poursuite. Au fédéral, c’est le Service 
+des poursuites pénales du Canada (SPPC) qui est nommé par le gouvernement fédéral comme 
+poursuivant pour certaines lois criminelles et pénales.
+L’avocat de la poursuite est tenu de respecter des règles strictes et est soumis à l’autorité du 
+syndic de son ordre professionnel qui a sur lui un pouvoir d’enquête et de surveillance.
+L’avocat a le devoir de s’acquitter de ses fonctions en toute civilité et en toute courtoisie à 
+l’endroit du tribunal, des parties, des témoins et du personnel judiciaire, en conformité avec 
+son code de déontologie, la loi et la jurisprudence.
+Le procureur de la poursuite est le représentant de l’État. Il doit principalement :
+• Étudier les dossiers soumis par les policiers;
+• Agir comme poursuivant pour toute infraction relevant du Code criminel et de toutes lois 
+pénales, fédérale et provinciale, telles que la Loi sur les pêches ou le Code de la sécurité 
+ routière;
+• Porter les accusations appropriées au dossier et, dans certains cas, décider de ne porter 
+aucune accusation. Il peut aussi mettre un terme aux accusations portées;
+• Évaluer toute la preuve au dossier et la présenter objectivement au tribunal lors d’un 
+ procès;
+• Plaider les dossiers devant toutes les instances judiciaires.
+Dans notre système de droit, l’avocat de la poursuite est votre adversaire. Vous devez 
+ comprendre que vous ne pouvez pas compter sur lui pour vous assister dans votre cause. 
+Il a tout de même certaines obligations à votre égard. À titre d’exemple, il doit vous commu-
+niquer toute l’information en sa possession même si cette information vous est favorable.  
+Il s’agit ici de l’obligation de la divulgation de la preuve.  Voir 9.6
+ÉTAPE 3          LE RÔLE DE CHACUN
+14
+À
+SAVOIR
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.16] ---
+3.3 L’AVOCAT DE LA DÉFENSE
+L’avocat de la défense est un professionnel du droit qui se sert de ses qualités et de ses 
+connaissances pour bien représenter et conseiller son client. Si les règles de droit 
+ peuvent vous paraître complexes et souvent incompréhensibles, elles sont pour lui un 
+outil de travail. Devant les tribunaux, l’avocat de la défense accomplit pour l’accusé 
+toutes les tâches requises pour mener à bien votre cause.
+L’avocat de la défense peut, par exemple :
+• Analyser le droit applicable et le bien-fondé de l’accusation;
+• Aider l’accusé à bien évaluer périodiquement les enjeux, ses chances de succès et les 
+risques qu’il encourt;
+• Rédiger les procédures et remplir les formulaires appropriés;
+• Discuter et négocier avec l’avocat de la poursuite;
+• Représenter l’accusé devant le tribunal;
+• Contredire la preuve de la poursuite;
+• Contre-interroger les témoins de la poursuite;
+• Présenter la défense de l’accusé s’il y a lieu et interroger les témoins de la défense;
+• Tenter par tous les moyens légaux d’obtenir l’acquittement de l’accusé;
+• Tenter d’obtenir pour l’accusé la peine (sentence) la moins sévère possible;
+• Conseiller l’accusé sur les étapes à suivre ou sur la stratégie à adopter;
+• Dissuader l’accusé de dire ou de faire des choses qui peuvent nuire à sa défense.
+L’avocat de la défense est membre d’un ordre professionnel, le Barreau du Québec, qui a pour 
+mission de protéger le public. Le Barreau du Québec impose à l’avocat de respecter des règles 
+strictes, notamment celles d’agir avec compétence et dans le meilleur intérêt de son client.
+Tout comme l’avocat de la poursuite, l’avocat de la défense doit suivre périodiquement une 
+formation professionnelle et se conformer à un code de déontologie. Il est lui aussi soumis à 
+l’autorité du syndic du Barreau du Québec auquel sont adressées les demandes d’enquête, 
+notamment celles provenant de clients insatisfaits ou qui croient avoir été mal représentés 
+par un avocat. Le syndic détient des pouvoirs d’enquête et de surveillance qui lui permettent 
+d’évaluer le bien-fondé des reproches formulés contre l’avocat et de sévir, le cas échéant.
+3.4 LE PERSONNEL DU GREFFE
+Le greffe est le lieu où sont conservés les dossiers relatifs aux affaires portées devant les 
+tribu naux. Le personnel qui y travaille coordonne divers services administratifs concernant 
+ces  dossiers.
+Le rôle du personnel du greffe est limité à vous donner des renseignements généraux et à 
+ recevoir certaines procédures.
+Le personnel du greffe peut, par exemple :
+• Vous renseigner sur les types de formulaires dont vous avez besoin, sur la façon de les 
+ remplir ainsi que sur les coûts qui y sont reliés;
+• Vous indiquer où se trouvent les divers services et ressources en cas de besoin;
+15
+ÉTAPE
+3
+LE RÔLE DE CHACUN
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.17] ---
+• Vous expliquer, de manière générale, certains éléments de procédure de base telle que la 
+façon d’assigner un témoin.
+Cependant, le personnel du greffe ne peut en aucun cas :
+• Vous donner un avis juridique concernant votre dossier;
+• Vous conseiller sur les demandes que vous pouvez présenter au tribunal;
+• Vous conseiller sur les moyens de défense que vous pouvez soulever;
+• Vous recommander le nom d’un avocat;
+• Vous donner des avis quant à la preuve que vous devez présenter ou quant aux témoins 
+que vous devez faire entendre;
+• Vous donner un avis juridique relativement à vos droits à la suite d’une décision rendue 
+par le tribunal.
+3.5 LE CONSTABLE SPÉCIAL
+Le constable spécial dans les palais de justice du Québec agit comme agent de la paix. Il a pour 
+ fonction d’assurer le maintien de l’ordre et la sécurité à l’intérieur des salles d’audience et 
+dans le palais de justice.
+Le constable spécial a un pouvoir d’arrestation, tout comme un policier, mais dans les limites 
+du palais de justice.
+3.6 LE GREFFIER
+Le greffier est cette personne qui est assise devant le juge et qui prend des notes. Le greffier 
+consigne sur un document, communément appelé « procès-verbal », toutes les étapes impor -
+tantes des procédures.
+Selon les palais de justice, le greffier est responsable de l’informatique et de l’enregis trement 
+numérique durant l’audience. Son travail est essentiel à la bonne marche des procédures 
+devant la cour.
+3.7 L’HUISSIER AUDIENCIER
+L’huissier audiencier est la personne chargée d’ouvrir la séance et d’effectuer certaines tâches 
+au service de la cour.
+16
+ÉTAPE 3          LE RÔLE DE CHACUN
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.18] ---
+3.8 L’INTERPRÈTE
+Un procès en matière criminelle se tient en français ou en anglais, selon la langue de 
+votre choix. Pour l’accusé qui ne parle pas la langue du procès, un interprète sera  fourni. 
+Un interprète traduit pour la cour les paroles de tout témoin qui ne parle pas la langue 
+du procès.
+Dans tous les cas, les frais sont assumés par l’État.
+3.9  LES RÈGLES DE CONDUITE DEVANT LA COUR
+Lorsque vous vous présentez devant la cour, faites preuve de respect, de courtoisie et  
+de  retenue, que ce soit envers le juge, la partie adverse, les témoins ou le personnel de 
+la cour.
+Certaines règles de comportement doivent être respectées dans la salle d’audience, en 
+voici quelques-unes :
+• Soyez toujours poli et respectueux;
+• Soyez toujours convenablement vêtu; dans le cas contraire, le juge peut refuser de vous 
+entendre et vous demander d’aller changer votre tenue vestimentaire (le port du bermuda, 
+de la mini-jupe, de la camisole ou du chandail trop court n’est pas acceptable devant le 
+tribunal, non plus que la casquette, le chapeau ou les lunettes de soleil sur la tête);
+• Éteignez votre cellulaire avant d’entrer dans la salle d’audience (pas de mode vibration qui 
+pourrait interférer avec l’enregistrement numérique);
+• N’utilisez ni appareil photo, ni caméra, ni magnétophone;
+• N’apportez pas de nourriture ou de boisson dans la salle d’audience;
+• Ne mâchez pas de gomme;
+• Levez-vous quand le juge entre ou sort de la salle d’audience et demeurez debout jusqu’à 
+ce qu’il se soit assis ou ait quitté son siège;
+• Quand vous parlez au juge, dites « Madame la juge » ou « Monsieur le juge »;
+• Vouvoyez le juge, l’avocat de la poursuite, le greffier et les témoins;
+• Pendant l’audience, écoutez attentivement et ne coupez pas la parole aux autres, sauf pour 
+vous objecter;
+• Demandez la permission au juge pour parler;
+• Adressez-vous directement au juge et non à la partie adverse, sauf quand vous interrogez 
+un témoin;
+• Évitez d’argumenter avec l’autre partie. Restez calme et contrôlez vos émotions.
+Assurez-vous d’être présent à l’heure à laquelle commence l’audience à la cour. En général, la 
+cour débute par l’« appel du rôle » qui passe en revue les dossiers inscrits pour la journée,  
+à moins que le juge n’en décide autrement. Sachez que même si vous êtes convoqué à une 
+heure précise, cela ne veut pas dire que vous serez entendu à cette heure. Par conséquent, 
+lorsque vous venez à la cour, prévoyez toute une journée car plusieurs causes sont fixées 
+cette même journée.
+Les audiences du tribunal sont publiques, c’est-à-dire que toute personne a droit d’y assister 
+à moins que le juge n’en décide autrement.  Voir 6.2 
+17
+ÉTAPE
+3
+LE RÔLE DE CHACUN
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.19] ---
+Tous les témoignages rendus lors d’une audience à la cour 
+sont enregistrés et conservés. Ceci inclut les commentaires 
+durant et après la décision.
+À
+RETENIR
+Tenez compte des limites imposées à chacun des inter -
+venants quant au rôle qu’ils sont appelés à jouer dans le 
+processus judiciaire;
+Agissez en toute courtoisie envers ces intervenants qui 
+doivent se comporter de la même façon à votre égard;
+Soyez toujours convenablement vêtu devant la cour;
+Assurez-vous d’être disponible pour toute la journée.
+18
+À
+SAVOIR
+ÉTAPE 3          LE RÔLE DE CHACUN
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.20] ---
+LES ÉTAPES 
+ AVANT LE PROCÈS
+19
+4.1 LES TYPES D’INFRACTIONS
+L’accusation portée contre vous peut être soit un acte criminel, une infraction sommaire  
+ou une infraction pénale. En droit criminel, il y a deux types d’infractions.
+Les actes criminels sont les infractions les plus graves qui impliquent des procédures com-
+plexes. Dans certains cas, vous aurez droit à une enquête préliminaire avant votre procès  
+alors que pour certaines infractions, vous aurez droit à un procès devant jury. Les peines 
+prévues sont plus sévères pour les actes criminels que pour les infractions sommaires. L’État 
+peut vous accuser d’un acte criminel en tout temps, peu importe le délai qui s’est écoulé 
+depuis les événements. Le  meurtre ou le vol qualifié sont des exemples d’actes criminels.
+Les infractions sommaires sont des infractions où la procédure judiciaire est moins élaborée 
+et les peines moins lourdes que pour les actes criminels. Il peut quand même être question 
+d’incarcération. Ce type d’infractions se prescrit en général après une période de six mois  
+à trois ans. Après ces délais, l’État ne peut plus vous poursuivre. Troubler la paix est un 
+exemple d’infraction sommaire.
+ÉTAPE 
+4
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.21] ---
+Toutes les condamnations pour une infraction criminelle, qu’elles soient poursuivies par acte 
+criminel ou par procédure sommaire, peuvent donner lieu à un casier judiciaire criminel.
+Quant aux infractions pénales, elles visent aussi à punir un comportement nuisible mais 
+elles ne constituent pas une infraction criminelle. On les appelle également infractions régle-
+mentaires ou infractions statutaires. Le Code de la sécurité routière qui réglemente la vitesse 
+sur les routes, un règlement municipal interdisant l’accès à un parc après 22 heures ou 
+ l’interdiction de chasser sans permis sont des exemples d’infractions pénales. Une condam-
+nation pour ce type d’infraction ne crée pas de casier judiciaire criminel mais le poursuivant 
+aura accès à vos condamnations antérieures pour des infractions semblables.
+Lorsque vous êtes poursuivi pour une infraction criminelle ou encore pour une infraction 
+pénale, des règles de preuve et de procédure s’appliquent. Les connaître peut faire la diffé-
+rence entre un acquittement ou une condamnation qui peut entraîner une incarcération.
+4.2 LES TYPES DE CONVOCATION À LA COUR 
+4.2.1 LE CONSTAT D’INFRACTION
+En matière pénale, le processus judiciaire débute par la délivrance d’un constat d’infraction 
+qui sera laissé sur place (ex. : contravention pour stationnement illégal) ou remis en personne 
+par un agent de la paix. Il est aussi possible qu’il vous soit délivré par la poste. Ce document 
+comporte les notes de l’agent qui a constaté l’infraction ainsi que l’amende réclamée.  
+Un  formulaire de réponse y est attaché afin d’indiquer si vous désirez plaider coupable ou non 
+ coupable à cette infraction.
+Si vous plaidez coupable, vous n’avez pas à vous rendre à la cour et vous devez payer l’amende 
+réclamée. Si vous plaidez non coupable ou contestez la peine, vous devez poster le coupon- 
+réponse dans le délai requis. Vous recevrez plus tard un avis d’audition vous indiquant la 
+date et le lieu de votre procès. Vous devez être prêt à procéder à compter de cette date et 
+vous devez en informer vos témoins. Si vous omettez de répondre au constat d’infraction, un 
+ procès sera tenu en votre absence. Dans un tel cas, si vous êtes trouvé coupable, les frais 
+augmenteront considérablement. 
+4.2.2 LA SOMMATION, LA PROMESSE, LA CITATION OU  
+L’ENGAGEMENT À COMPARAÎTRE
+En matière criminelle, vous serez convoqué à comparaître personnellement devant le 
+ tri bunal pour répondre de l’accusation portée contre vous. La comparution est la première 
+étape du processus judiciaire. (  Voir 4.3) Vous serez soit en liberté soit détenu lors de votre 
+ com pa  ru tion.
+Une convocation vous demandant de vous présenter à la cour vous a peut-être été remise, en 
+main propre, par un agent de la paix au moment de l’intervention policière. Vous devez vous 
+présenter à la cour sinon un mandat d’arrestation pourra être délivré contre vous et vous 
+pourriez demeurer détenu. Ce document peut même inclure des conditions de mise en liberté 
+à respecter. Elles peuvent inclure l’obligation de fournir vos empreintes et de vous faire 
+ photographier en application de la Loi sur l’identification des criminels. Ces conditions sont 
+rédigées par le policier.
+ÉTAPE 4          LES ÉTAPES AVANT LE PROCÈS
+20
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.22] ---
+Sachez que ces conditions de mise en liberté imposées 
+par le policier demeurent en vigueur jusqu’à la fin des 
+procédures à moins que la cour ne les modifie.
+Il est également possible que vous receviez par huissier, agent de la paix ou par la poste 
+un document appelé « sommation ». Dans tous ces cas, il s’agit d’une obligation de vous 
+présenter à la cour, à la date indiquée. Étant donné qu’il ne s’agit pas là de la date de 
+votre procès, vous n’aurez donc pas besoin de vos témoins à cette occasion. Ce type de 
+document peut également inclure une autre date vous obligeant à vous soumettre à la 
+prise d’empreintes digitales et de photographies. Il est important de noter que des condi-
+tions détaillées peuvent également être imposées dans la promesse ou la sommation.
+4.2.3 L’ARRESTATION
+Si un agent de la paix vous arrête et qu’il ne vous met pas en liberté, vous comparaîtrez 
+détenu devant la cour. Lors de cette comparution, les accusations portées contre vous 
+seront inscrites sur un document. Il peut s’agir d’une « dénonciation » ou d’un « mandat 
+d’arrestation ».
+4.3 LA COMPARUTION
+La comparution est la première étape d’un dossier devant la cour. C’est à ce moment que vous 
+pourrez plaider coupable ou non coupable. Dans certains cas, vous aurez le choix quant au 
+type de procès : devant juge siégeant sans jury ou devant un tribunal composé d’un juge et 
+d’un jury.
+C’est également à cette étape que la poursuite vous remettra la divulgation de la preuve .  
+(  Voir 9.6) Ces éléments de preuve proviennent de l’enquête policière, et c’est en fonction 
+du contenu de cette preuve que le procureur de la poursuite aura déterminé les accusations 
+ portées contre vous.
+Si vous plaidez non coupable, la cour reportera le dossier à une date ultérieure, dite « d’orien-
+tation » ou «  pour la forme » (pro forma ). Ainsi, vous aurez le temps d’étudier la preuve, 
+ d’évaluer les enjeux que comporte votre dossier et de reconsidérer l’opportunité d’agir seul à 
+votre procès.
+Si vous plaidez coupable à l’ensemble des accusations, le juge entendra alors les représen-
+tations sur la peine.  Voir Étape 7
+21
+ÉTAPE
+4
+LES ÉTAPES AVANT LE PROCÈSÀ
+SAVOIR
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.23] ---
+	Même si vous plaidez non coupable à la comparution,  
+sachez que vous avez toujours le droit de modifier votre plai-
+doyer à toute étape des procédures. L’in verse n’est pas vrai. 
+Il peut s’avérer difficile de retirer un plaidoyer de culpabilité;
+	Vous avez intérêt à prendre connaissance de toute la preuve au dossier 
+avant d’enregistrer un plaidoyer de culpabilité et d’en connaître toutes les 
+conséquences;
+	Il faut savoir que le simple fait d’enregistrer un plaidoyer de  culpa bilité 
+peut avoir des conséquences sur votre vie de tous les jours, notamment 
+sur votre statut d’immigrant, sur la possi bilité d’acquérir ou de porter une 
+arme à feu ou sur vos coûts d’assurance, sur votre emploi, sur votre 
+possibilité de voyager à l’étranger ou sur votre conduite automobile.
+4.3.1 L’ACCUSÉ EN LIBERTÉ
+La comparution sera relativement courte si vous êtes en liberté. Une fois que votre plaidoyer 
+de non-culpabilité sera enregistré, vous pourrez quitter la cour. Si vous choisissez de plaider 
+coupable, le juge peut imposer la peine immédiatement ou remettre le tout à une date ulté-
+rieure. Vous avez l’obligation légale de vous informer de la date à laquelle votre dossier revient 
+à la cour. Le tribunal peut vous donner cette information. Cette date est fixée par le juge.
+4.3.2 L’ACCUSÉ DÉTENU
+Si vous êtes arrêté et que les policiers ne vous ont pas libéré, on devra vous amener devant 
+un juge le plus rapidement possible. Ceci pourra être fait par vidéoconférence ou par confé-
+rence téléphonique dans certaines régions. Sauf dans des circonstances exceptionnelles, le 
+Code criminel exige que votre comparution ait lieu dans les 24 heures de votre arrestation.
+Dans l’éventualité où la poursuite s’oppose à votre mise en liberté, le tribunal devra procéder 
+à l’étape de l’enquête pour mise en liberté provisoire, aussi connue sous le nom d’« enquête 
+sur cautionnement ».
+4.3.3 LA MISE EN LIBERTÉ PROVISOIRE OU  
+« ENQUÊTE SUR CAUTIONNEMENT »
+ Les objectifs et principes de la mise en liberté
+C’est à ce moment que le juge déterminera si vous serez libéré ou détenu pour le reste 
+des procédures. Cette étape est cruciale pour tout le déroulement de votre dossier.
+Il est important de savoir que l’objectif à cette étape est différent de celui du procès. 
+On ne cherche pas à savoir si la culpabilité a été démontrée hors de tout doute 
+ raisonnable, mais plutôt si vous pouvez demeurer en liberté durant les procédures. 
+Le principe fondamental à cette étape veut que vous soyez mis en liberté, à moins 
+que la poursuite prouve que votre détention est justifiée. Attention, il peut y avoir 
+des renversements de fardeau de preuve à ce niveau, par exemple, lorsque vous avez 
+déjà eu des engagements et que vous les avez violés.
+22
+À
+SAVOIR
+ÉTAPE 4          LES ÉTAPES AVANT LE PROCÈS
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.24] ---
+	Les critères de la mise en liberté
+Sachez que le juge va considérer les trois éléments suivants pour décider ou 
+non de vous mettre en liberté :
+• Allez-vous vous présenter au tribunal lorsqu’on vous ordonnera de le faire?
+• Y a-t-il une probabilité que vous commettiez des infractions ou entraviez le 
+déroulement de la justice?
+• La confiance du public envers le système judiciaire sera-t-elle minée par votre 
+mise en liberté?
+ Les règles de preuve lors de l’enquête pour mise en liberté
+Il sera possible pour la poursuite de faire état de vos antécédents judiciaires, de 
+votre caractère ainsi que de votre mode de vie. Le juge et le procureur de la pour-
+suite pourront vous poser certaines questions, sauf celles liées à l’infrac tion. 
+Ainsi, on pourra vous demander à quelle adresse vous allez demeurer pendant 
+votre mise en liberté mais on ne pourra pas vous demander si vous étiez présent 
+sur les lieux du crime. Si vous décidez d’en parler, il y aura une possibilité que 
+vous soyez questionné et contre-interrogé sur ces faits par le procureur de la 
+poursuite. Ce témoignage pourrait être utilisé dans certaines circonstances.
+Vous pourrez également témoigner ou faire entendre des témoins, afin de convaincre 
+le juge qu’il peut vous mettre en liberté et que vous respecterez toutes les conditions 
+imposées.
+La preuve par ouï-dire  est acceptée lors de l’enquête pour 
+mise en liberté.
+ 
+ Les conditions de mise en liberté
+ 
+Le juge peut décider de vous mettre en liberté en imposant certaines conditions, 
+notamment :
+• de garder la paix et d’avoir une bonne conduite;
+• de demeurer à une adresse déterminée;
+• d’être à cette adresse à des heures précises (couvre-feu);
+• de ne pas conduire un véhicule;
+• d’aviser la cour de tout changement d’adresse;
+• d’être présent à la cour lorsque votre présence est requise;
+• de ne pas avoir en votre possession des armes;
+• de ne pas communiquer avec les plaignants et les témoins;
+• de ne pas vous trouver dans un quadrilatère défini;
+• de ne pas vous présenter à certaines adresses;
+• de ne pas consommer de l’alcool et de la drogue;
+• de suivre toute thérapie jugée pertinente à votre problématique;
+23
+ÉTAPE
+4
+LES ÉTAPES AVANT LE PROCÈS
+À
+SAVOIR
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.25] ---
+• de ne pas quitter le Québec;
+• de déposer votre passeport auprès de la police ou de la cour;
+• de fournir une somme d’argent ou un immeuble en garantie.
+Si vous ne respectez pas les conditions imposées par la cour, vous pourriez être accusé 
+d’une nouvelle infraction criminelle et être détenu pour le reste des procédures.
+Votre mise en liberté ou votre détention aura des consé -
+quences très importantes sur la suite et l’orien tation de votre 
+dossier.
+4.4 L’ENQUÊTE PRÉLIMINAIRE
+4.4.1 SON OBJECTIF ET SES EFFETS
+Pour certains types d’accusations, vous avez droit à une enquête préliminaire.
+L’enquête préliminaire se tient à la demande de l’une ou l’autre des parties et le juge ne peut 
+refuser la demande. Elle se déroule habituellement devant un juge de la Cour du Québec qui 
+doit déterminer si la preuve contre vous est suffisante pour justifier la tenue d’un procès.
+L’enquête préliminaire n’a pas pour but de déterminer votre culpabilité mais d’évaluer la 
+preuve soumise contre vous. Dès votre comparution, vous aurez droit de consulter cette 
+preuve et l’enquête préliminaire vous donnera l’opportunité de l’explorer davantage. Vous 
+pourrez choisir de contre-interroger des témoins pour ce faire.
+Ce n’est pas à l’étape de l’enquête préliminaire mais à celle du 
+procès que le juge décidera de votre innocence ou de votre 
+culpabilité.
+Il est rarement dans votre intérêt de témoigner ou de présenter votre défense lors de  l’enquête 
+préliminaire puisque tous les témoignages rendus lors de l’enquête sont consignés par écrit 
+et pourront être utilisés contre vous au procès.
+4.4.2 SON DÉROULEMENT
+À l’enquête préliminaire, le juge a le pouvoir de :
+• Vous libérer des chefs d’accusation qui pèsent contre vous s’il y a absence totale de preuve 
+sur l’un des éléments essentiels de l’infraction;
+• Vous citer à votre procès;
+• Ajouter d’autres chefs d’accusation découlant des mêmes faits.
+24
+À
+RETENIR
+À
+SAVOIR
+À
+SAVOIR
+ÉTAPE 4          LES ÉTAPES AVANT LE PROCÈS
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.26] ---
+Lorsque la poursuite reçoit de nouveaux éléments de 
+preuve en cours de route, elle doit vous les divulguer 
+ aussitôt que possible.
+4.4.3 LA RÉVISION DE L’ORDONNANCE DE MISE EN LIBERTÉ  
+OU DE DÉTENTION
+À l’enquête préliminaire, si vous êtes détenu, vous pouvez demander au juge de vous 
+ mettre en liberté ou de réviser vos conditions de mise en liberté. Sachez que la poursuite 
+peut  également demander votre emprisonnement ou encore de réviser vos conditions de 
+mise en liberté. Cette audition se tient devant le juge qui a entendu la preuve à l’enquête 
+préliminaire.
+4.5 LA NÉGOCIATION 
+Il est possible de discuter avec la poursuite afin de négocier les chefs d’accusation ou une 
+peine spécifique en échange d’un plaidoyer de culpabilité de votre part. Ces discussions 
+peuvent avoir lieu tout au long du processus judiciaire. La négociation n’est sujette à aucune 
+formalité particulière et s’effectue indistinctement de toute étape des procédures. Il s’agit d’un 
+processus volontaire auquel vous êtes libre d’adhérer ou non.
+Si une entente est conclue, vous plaiderez coupable et vous présenterez des recommandations 
+conjointes au juge quant à votre peine. Lorsque vous plaidez coupable, vous renoncez à  
+votre droit de subir un procès en bonne et due forme. Il faut donc prendre cette décision  
+de manière réfléchie.
+Il est important de savoir qu’un juge n’est jamais lié par les recommandations communes que 
+peuvent lui soumettre les parties. Par contre, cela ne signifie pas que de telles recommandations 
+n’ont pas d’importance. Au contraire, il est reconnu que les recommandations communes sont  
+un guide important pour le tribunal et qu’elles doivent être prises au sérieux à moins d’être 
+clairement inappropriées dans les circonstances, d’être contraires à l’intérêt public ou de décon-
+sidérer l’administration de la justice.
+25
+Avant de demander la tenue d’une enquête préliminaire, 
+ évaluez cette décision avec justesse. Dans certains cas,  
+la poursuite pourrait demander que des accusations addi-
+tionnelles soient portées contre vous si la preuve à l’enquête 
+ préliminaire le justifie.
+À
+RETENIR
+ÉTAPE
+4
+LES ÉTAPES AVANT LE PROCÈSÀ
+SAVOIR
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.27] ---
+Procédures criminelles après l’arrestation
+Policier
+Audition sur la détermination de la peine
+VOUS ÊTES ARRÊTÉ
+Détention Mise en liberté 
+• Citation
+• Promesse
+• Engagement
+• Sommation
+Enquête préliminaire (pour certains types d’infractions)
+Procès
+Mise en liberté 
+• Engagement ou promesse
+• Conditions
+Détentionou
+Mise en liberté 
+• Engagement ou promesse
+• Conditions
+Détentionou
+Comparution
+et
+Enquête sur mise en liberté devant un juge
+26
+Le cheminement type d'une cause en droit criminel
+La comparution L’enquête sur mise en liberté 
+   (si v
+ous compar
+aissez déten
+u)
+La date 
+pro forma
+ 
+   (le temps d’év
+aluer la pr
+euv
+e reçue de la pour
+suite 
+      et de décider si v
+ous souhaitez un pr
+ocès) 
+L’enquête préliminai
+re 
+   (ten
+ue uniquemen
+t sur deman
+de pour
+ 
+      certain
+s types de dossier
+s) 
+Le pr
+ocès 
+Le jugement ou 
+verdic
+t
+   (l’acquittemen
+t ou la déclar
+ation de culpabilité) 
+Les r
+eprésentations sur la pein
+e
+   (da
+ns le cas d’un
+e déclar
+ation de culpabilité) 
+ 
+L’imposition de la peine 
+Vous pouvez plaider coupable en tout temps avant jugement.À
+SAVOIR
+
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.28] ---
+27
+Si votre dossier se rend jusqu’au procès, vous devrez investir du temps et de l’énergie afin  
+de préparer la journée prévue pour l’audition de votre cause. La préparation du procès est 
+un processus continu qui commence à compter du moment où vous êtes informé qu’une 
+infrac tion vous est reprochée.
+Dès que vous êtes informé de la date de votre procès, vous devez vous assurer que votre 
+ dossier est prêt. Voici quelques démarches importantes à considérer avant de vous présenter 
+devant le tribunal.
+5.1 LA RÉVISION DE VOTRE DOSSIER
+Vous devez vous assurer que votre dossier contient tous les éléments nécessaires et  pertinents 
+pour vous permettre de contester la théorie de la poursuite et établir votre défense.
+Pour ce faire, la révision de votre dossier est importante. En voici les principales étapes :
+• Relisez minutieusement la preuve remise par la poursuite;
+LA PRÉPARATION 
+ DU PROCÈS
+ÉTAPE 
+5
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.29] ---
+• Assurez-vous de connaître et de comprendre les règles de preuve qui seront applicables 
+lors du procès;
+• Assurez-vous que votre dossier est bien ordonné pour que vous n’ayez pas à fouiller et à 
+chercher des documents lors de vos représentations devant le tribunal;
+• Si vous comptez déposer des documents en preuve, prévoyez des copies supplémentaires 
+pour le juge et pour la poursuite;
+• Conservez précieusement tous les documents et les éléments de preuve qui peuvent se 
+ rapporter à l’accusation. Vous devrez peut-être les utiliser au procès. Lors du procès, 
+ apportez-les avec vous au tribunal.
+Puisqu’il s’agit de la dernière étape avant de vous présenter devant le tribunal, vous pouvez 
+consulter un avocat en vue du procès afin qu’il analyse et détermine avec vous :
+• Les points de droit que vous devez faire valoir pour soutenir votre position;
+• La façon de déposer et de présenter votre preuve et vos arguments;
+• Les règles de preuve auxquelles vous devez vous conformer;
+• La préparation du contre-interrogatoire des témoins de la poursuite.
+Vous n’avez pas à dévoiler votre défense à la poursuite ou au 
+juge avant l’audition du procès. Vous serez la seule personne 
+à connaître votre stratégie. Sachez que certaines exceptions 
+existent en ce qui concerne la défense d’alibi ou le témoin 
+expert.
+5.2 LES TÉMOINS DE LA POURSUITE
+Vous devez préparer minutieusement le contre-interrogatoire des témoins de la poursuite à 
+l’aide des déclarations écrites reçues lors de la divulgation de la preuve. Ce sera l’occasion 
+de poser des questions à ces témoins dans le but d’affaiblir leur fiabilité ou leur crédibilité, 
+de faire ressortir des contradictions avec des déclarations antérieures ou avec leur témoi-
+gnage déjà rendu. (  Voir 6.4.3) Le juge peut, dans certains cas, nommer un avocat pour 
+effectuer le contre-interrogatoire.  Voir 6.4.2
+5.3 L’IDENTIFICATION ET L’ASSIGNATION  
+DE VOS TÉMOINS
+Au procès, vous devez répondre aux arguments de la poursuite et établir les faits de votre 
+défense. En plus des documents que vous comptez utiliser, il est possible que vous ayez à 
+témoigner et à faire entendre d’autres témoins.
+Afin d’identifier les témoins dont vous aurez peut-être besoin, posez-vous les questions 
+suivantes :
+• Quels témoins pourraient contredire en partie ou en totalité ceux de la poursuite?
+• Quels sont les faits essentiels de votre défense que vous voulez prouver devant le tribunal?
+• Quelles sont les personnes ayant eu personnellement connaissance de ces faits et qui 
+peuvent venir les expliquer?
+ÉTAPE 5          LA PRÉPARATION DU PROCÈS
+28
+À
+SAVOIR
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.30] ---
+• Qui est l’auteur ou le signataire des documents que vous entendez produire afin de 
+ soutenir vos prétentions?
+Lorsque vous avez identifié les personnes dont la présence est nécessaire au procès, 
+vous devez les assigner conformément aux règles et aux délais applicables. Il est p réfé-
+rable  d’aviser et d’assigner vos témoins suffisamment à l’avance afin de vous  assurer de 
+leur présence.
+De plus, vous devez payer une indemnité à vos témoins pour compenser leurs frais de 
+déplacement, de repas, d’hébergement, ainsi que pour la perte de temps qui leur est 
+ causée. Informez-vous auprès du greffe criminel et pénal pour connaître les montants 
+des indemnités que vous devrez verser.
+5.4 LA PRÉPARATION DE VOS TÉMOINS
+Lors du procès, vous devez poser des questions à vos témoins pour qu’ils expliquent claire-
+ment leur version des faits au tribunal. Une préparation adéquate avant le procès est donc 
+primordiale.
+Vous devez rencontrer vos témoins à l’avance afin de bien les préparer à témoigner. Cette 
+préparation permet d’éviter des surprises désagréables au procès. En effet, un témoin pour-
+rait vous donner une version moins favorable que vous ne l’auriez cru ou encore contredire 
+un autre de vos témoins. Dans un tel cas, rappelez-vous que l’obligation du témoin est de dire 
+la vérité. Vous ne devez pas tenter d’influencer son témoignage de quelque façon que ce soit.
+Cette préparation peut servir de répétition pour vos témoins et pour vous. C’est également 
+l’occasion de vous assurer que tous les éléments que vous voulez présenter soient abordés par 
+vos témoins.
+Rédiger vos questions est une bonne façon de vous assurer 
+que vous n’oubliez aucun élément important lors du procès.
+5.5 LA RECHERCHE SUR LES PRINCIPES DE DROIT 
+APPLICABLES
+À la fin du procès, le juge doit évaluer tous les faits présentés en preuve par les parties et 
+prendre une décision conforme aux règles de droit.
+Gardez à l’esprit qu’il est possible que vous soyez convaincu du bien-fondé de votre défense 
+mais que les règles de droit ne vous donnent pas raison.
+Ainsi, vous avez la responsabilité de vous renseigner et de lire sur les principes applicables  
+à votre cause. Vous devez prendre connaissance des lois qui s’appliquent à votre situation. 
+De plus, vous pouvez consulter différents textes de doctrine juridique qui peuvent vous aider 
+à comprendre les règles de droit. Il est aussi utile de prendre connaissance des décisions  
+déjà rendues par les tribunaux traitant de situations similaires à la vôtre. Dans le langage 
+juridique, ces décisions sont appelées la « jurisprudence ».
+29
+ÉTAPE
+5
+LA PRÉPARATION DU PROCÈS
+À
+SAVOIR
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.31] ---
+	Les textes de doctrine peuvent être trouvés dans des 
+ maisons d’édition spécialisées en droit et sur le Web tel que : 
+www.caij.qc.ca.
+	Les décisions des tribunaux, quant à elles, peuvent être 
+trouvées sur certains sites gratuits tels que :
+citoyens.soquij.qc.ca ou www.canlii.org.
+30
+À
+RETENIR
+Assurez-vous d’être en mesure de déterminer les points 
+de droit en litige;
+Prenez soin de bien préparer vos contre- interrogatoires, 
+votre témoignage et ceux de vos témoins;
+Recherchez dans les banques de données et sélectionnez 
+les décisions qui vous sont favorables.
+ Procédures criminelles selon le type d’infractions
+• Infraction sommaire en vertu du Code criminel
+• Infraction pénale provinciale ou fédérale
+• Règlement municipal
+Acte criminel
+Choix du mode 
+de procès
+Directement 
+à procès
+ou
+Enquête préliminaire
+pour certains types 
+d’accusations
+Procès devant
+juge et jury
+Procès devant
+un juge
+Procès devant
+un juge
+Infraction sommaire ou pénale
+À
+SAVOIR
+ÉTAPE 5          LA PRÉPARATION DU PROCÈS
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.32] ---
+6.1 DEVANT JUGE SEUL OU DEVANT JUGE ET JURY?
+La plupart des accusations portées devant les cours criminelles sont entendues par un juge 
+qui siège seul. Cependant, pour certaines accusations, une personne peut également choisir 
+d’être jugée par un juge et un jury. Lors de votre comparution, la cour vous indiquera si vous 
+avez ce choix.
+Vous n’êtes pas obligé de faire ce choix au moment de la comparution et il est recommandé 
+de prendre cette décision seulement après avoir pris connaissance de toute la preuve.
+31
+LE PROCÈS 
+     EN MATIÈRE CRIMINELLE
+ÉTAPE 
+6
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.33] ---
+6.2 UN PROCÈS PUBLIC
+La Charte canadienne des droits et libertés garantit à toute personne le droit d’avoir un procès 
+public.
+Lors des auditions se déroulant avant le procès, il est possible de demander une ordonnance 
+de non-publication. C’est le cas lors de l’audition sur l’enquête de mise en liberté provisoire  
+(  Voir 4.3.3) et lors de l’enquête préliminaire. (  Voir 4.4) Dans ces circonstances, le juge 
+est obligé d’ordonner la non-publication de ces procédures. Sachez que même si une ordon-
+nance de non-publication a été accordée, les médias ont quand même le droit de mentionner 
+votre nom et la nature des accusations. Ils n’ont pas le droit de publier les détails de la preuve 
+présentée devant la cour.
+Dans certains cas, même si le procès est public, le juge peut rendre une ordonnance  inter disant 
+aux médias de publier toute information qui pourrait permettre d’identifier la victime. À titre 
+d’exemple, lorsque le nom de l’accusé dévoilerait l’identité de la victime, le juge peut ordonner 
+que l’accusé ne soit identifié que par ses initiales.
+6.3 LA PRÉSENCE DE L’ACCUSÉ
+Vous devez être présent à toutes les étapes des procédures en matière criminelle. Si vous 
+êtes absent, le juge peut lancer un mandat d’arrestation ordonnant aux autorités policières 
+de vous amener devant la cour. Pour certaines infractions, la cour peut vous trouver coupable 
+même en votre absence.
+6.4 LA PRÉSENTATION DE LA PREUVE 
+6.4.1 LE FARDEAU DE LA PREUVE
+La poursuite a toujours l’obligation de prouver votre culpabilité hors de tout doute raison-
+nable. Ce fardeau repose sur la poursuite parce que vous êtes présumé innocent. Dans 
+ certaines circonstances, le fardeau de la preuve se déplace sur l’accusé afin de prouver un 
+point spécifique. À titre d’exemple, si vous alléguez que la police a violé vos droits  garantis 
+par la Charte au moment de votre arrestation, vous devrez le prouver. C’est également le cas 
+lorsqu’il existe des présomptions comme la garde et le contrôle d’un véhicule ou la présomp-
+tion d’avoir effectué une entrée par effraction. Même si ce fardeau de la preuve n’est pas aussi 
+lourd que le fardeau de prouver hors de tout doute raisonnable, vous devez quand même 
+ produire une preuve suffisante pour soutenir vos prétentions.  Voir Étape 9
+6.4.2 LE DÉROULEMENT DE LA PREUVE
+ La preuve de la poursuite
+Dès le début de l’audition, la poursuite ou la défense peut demander que les témoins 
+à être entendus par le tribunal sortent de la salle d’audience. Cette procédure a pour 
+but d’éviter que leur témoignage ne soit influencé par le témoignage des autres 
+ÉTAPE 6          LE PROCÈS EN MATIÈRE CRIMINELLE
+32
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.34] ---
+témoins. Cette procédure ne s’applique pas à l’accusé qui demeure dans la salle 
+d’audience. Les témoins experts peuvent également assister au procès. 
+ Voir 6.4.5
+Il revient à la poursuite de prouver votre culpabilité, et ce, hors de tout doute 
+raisonnable. Les témoins de la poursuite sont les premiers à être entendus. 
+Lorsque ses témoins sont appelés, le procureur de la poursuite leur pose des 
+questions portant sur les faits de la cause. Ces questions ne peuvent être 
+ suggestives. Une partie ne peut jamais poser des questions suggestives à ses 
+ propres témoins.  Voir 6.4.3
+Une fois que le procureur de la poursuite a terminé de poser des questions à son 
+témoin, vous avez le droit de le contre-interroger. Lors du contre- interrogatoire, 
+vous pouvez poser des questions suggestives aux témoins de la poursuite. 
+Dans certaines circonstances, le juge pourrait vous interdire de contre-interroger 
+vous-même certains témoins, par exemple, la victime d’une infraction à caractère 
+sexuel, un témoin mineur, ou handicapé. Ce contre-interrogatoire devra être mené 
+par un avocat. 
+Dans ce cas, le tribunal doit vous donner la possibilité de choisir un avocat pour 
+procéder au contre-interrogatoire. Si vous ne trouvez pas d’avocat à cette fin, le 
+Tribunal en désignera un qui procèdera au contre-interrogatoire. 
+L’avocat désigné ne vous représente pas et son mandat est limité; cependant, il est 
+lié par le secret professionnel. 
+ La preuve de la défense
+Une fois la preuve de la poursuite terminée, vous devez d’abord décider si vous 
+ présentez une preuve et, dans l’affirmative, si vous souhaitez témoigner. Lors de 
+votre procès, vous pouvez décider de ne pas témoigner.
+Pour prendre la décision de présenter ou non une défense, il vous faut analyser la 
+preuve présentée devant la cour. Constitue-t-elle une preuve hors de tout doute 
+ raisonnable de tous les éléments de l’infraction? Si vous avez besoin de temps pour 
+faire cette évaluation, vous pouvez en faire part au juge.
+Tout témoin assigné par la défense sera d’abord interrogé par vous et ensuite 
+contre-interrogé par la poursuite. Les mêmes règles que celles mentionnées précé-
+demment s’appliquent relativement à l’interrogatoire et au contre-interrogatoire de 
+vos té  moins. À cette étape, les questions suggestives peuvent donc être posées 
+ uniquement par la poursuite en contre-interrogatoire. (  Voir 6.4.3) Dans certains 
+cas, la poursuite pourra être autorisée à présenter une preuve afin de réfuter des 
+ éléments nouveaux qui ont été soulevés par la défense.
+Un aveu de votre part devant la cour, même par inadvertance, 
+peut servir de preuve.
+33
+ÉTAPE
+6
+LE PROCÈS EN MATIÈRE CRIMINELLE
+À
+SAVOIR
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.35] ---
+6.4.3 LE TÉMOIGNAGE
+Un témoignage se divise en deux étapes : l’interrogatoire et le contre-interrogatoire. La  partie 
+qui assigne un témoin l’interroge en premier. Ensuite, l’autre partie peut le contre- interroger. 
+Il peut également y avoir un nouvel interrogatoire lorsque des sujets nouveaux ont été 
+ abordés lors du contre-interrogatoire.
+Le témoignage occupe une place de premier plan au sein du procès. Avant d’entendre  
+les témoins, le juge ne connaît pas les faits de votre cause. Il n’a pas en sa possession la 
+ divulgation de la preuve ou les témoignages rendus antérieurement. Le juge doit analyser 
+ soigneusement chaque témoignage qu’il entend. Il doit évaluer la crédibilité, la cohérence et 
+la pertinence des faits. Les témoignages sont déterminants dans la décision que devra rendre 
+le juge.
+	Les règles de l’interrogatoire
+Lorsque vous interrogez l’un de vos témoins, vous devez poser des questions 
+« ou vertes », c’est-à-dire des questions qui comprennent habituellement des termes 
+comme où, quand, quoi, comment et pourquoi. En voici trois exemples :
+• Comment étiez-vous habillé?
+• Pourquoi portiez-vous un veston?
+• De quelle couleur était-il?
+ Les règles du contre-interrogatoire
+Lorsque la poursuite a terminé d’interroger l’un de ses témoins, c’est à votre tour de 
+le contre-interroger. À ce moment, vous pouvez poser des questions suggestives;  
+en bref, votre question peut suggérer une réponse. Généralement, une question 
+ suggestive est courte et vise un point bien précis. En voici trois exemples  :
+• Vous portiez un veston, n’est-ce pas?
+• Vous avez mis votre veston pour vous rendre à un mariage?
+• N’est-il pas exact que votre veston était noir?
+Lors du contre-interrogatoire, vous devez poser des  questions 
+et non pas argumenter avec le témoin. Il est important d’être 
+calme et en contrôle.
+34
+À
+SAVOIR
+ÉTAPE 6          LE PROCÈS EN MATIÈRE CRIMINELLE
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.36] ---
+6.4.4 L’ADMISSIBILITÉ DE LA PREUVE
+Les règles qui déterminent l’admissibilité de la preuve sont variées et complexes. À titre 
+d’exemple, la preuve par ouï-dire est rarement acceptée par la cour. Certaines règles spéci-
+fiques s’appliquent notamment aux preuves de comportement des plaignants et de la bonne 
+réputation.
+ La règle de la pertinence
+ 
+La preuve présentée devant le tribunal doit être pertinente aux accusations  portées 
+contre vous. Elle doit être utile au tribunal pour lui permettre de déterminer si vous 
+êtes coupable ou non coupable de l’infraction. En cour criminelle, une personne est 
+accusée d’une infraction précise, à une date précise. La preuve présentée de part et 
+d’autre doit être en lien direct avec l’infraction reprochée tout en étant admissible.
+ 
+Le procureur de la poursuite doit assigner des témoins ou produire des documents 
+pertinents. Vous pouvez vous objecter, si vous considérez que le procureur de la 
+poursuite assigne un témoin qui n’a rien à dire au sujet de l’infraction ou un témoin 
+qui présente un document qui n’est pas pertinent.
+ 
+Cette règle s’applique également à toute preuve que vous désirez présenter au tribu-
+nal. La poursuite pourrait ainsi s’opposer à ce que vous présentiez une preuve qu’elle 
+considère non pertinente.
+35
+Type de questions
+Aide-mémoire
+Objectif
+Exemples
+Interrogatoire
+Ouvertes 
+Qui? Quoi? Quand? Où?  
+Comment? Pourquoi?
+Établir les faits de  
+votre défense. 
+De quelle couleur était 
+votre  veston?
+Contre-interrogatoire
+Suggestives
+ 
+Question courte et  
+bien ciblée.
+Attaquer la crédibilité ou  
+la  fiabilité d’un témoin.  
+Démontrer qu’il se trompe 
+sur  certains faits. 
+Faire  ressortir  certains 
+ éléments  importants et 
+favorables à vos 
+ pré ten tions.  
+ 
+Votre veston était-il noir? 
+ÉTAPE
+6
+LE PROCÈS EN MATIÈRE CRIMINELLE
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.37] ---
+ La preuve obtenue à la suite d’une violation d’un droit garanti par la Charte
+Si vous croyez que vos droits constitutionnels garantis par la Charte canadienne des 
+droits et libertés n’ont pas été respectés, il vous revient de présenter une preuve de 
+cette violation. Si vous réussissez, la cour peut exclure la preuve que la poursuite 
+tente d’introduire.  Voir Étape 9
+6.4.5 LES TYPES DE PREUVE 
+ Le témoin
+Il y a deux sortes de témoins : le témoin ordinaire et le témoin expert.
+ 
+Le témoin ordinaire rapporte ce qu’il a vu ou entendu concernant un élément 
+ pertinent à l’accusation. Il ne peut généralement pas donner son opinion quant aux 
+événements dont il a été témoin. Sont des témoins ordinaires :
+• un policier;
+• le plaignant;
+• un citoyen qui a vu l’incident;
+• une personne qui en a entendu une autre admettre avoir commis un crime.
+Le témoin expert est appelé à témoigner parce qu’il possède une expertise particu-
+lière, notamment en médecine, en sciences, en finance, en mécanique, en physique, 
+ou en tout autre domaine. Son rôle consiste à aider la cour en clarifiant certaines 
+questions techniques qui lui sont soumises. Contrairement au témoin ordinaire, 
+   l’ex pert peut donner son opinion. Sont des témoins experts, notamment :
+• un pathologiste judiciaire qui explique la cause du décès;
+• un expert en reconstitution d’accidents qui explique les causes d’un accident.
+ La preuve matérielle ou documentaire
+Des documents ou des objets très variés peuvent être importants lors d’un procès.  
+La preuve matérielle ou documentaire peut inclure :
+• des documents bancaires;
+• des contrats;
+• des bulletins scolaires;
+• des rapports médicaux;
+• l’arme du crime;
+• un vêtement;
+• une empreinte digitale ou un échantillon d’ADN;
+• des photographies, vidéos ou DVD.
+Si vous voulez présenter des documents officiels à l’appui de votre défense, tels que 
+des documents bancaires ou des rapports d’experts, sachez que la loi exige que vous 
+avisiez la poursuite de votre intention de les produire avant le début du procès. 
+Renseignez-vous sur les exigences procédurales lors du dépôt de tels documents.
+36
+ÉTAPE 6          LE PROCÈS EN MATIÈRE CRIMINELLE
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.38] ---
+6.5 LA FIN DU PROCÈS 
+6.5.1 LES PLAIDOIRIES
+Une fois l’audition de la preuve terminée, le juge va inviter les parties à lui faire part 
+de leurs arguments. En fait, le juge voudra avoir votre point de vue sur la cause.  
+C’est ce qu’on appelle les plaidoiries.
+Si vous avez présenté une défense, c’est à vous de plaider en premier. Si vous n’avez pas 
+présenté de défense, ce sera à la poursuite de présenter ses arguments en premier.  
+La partie qui plaide la première peut demander au juge la permission de répliquer aux 
+arguments de la  partie adverse.
+Il est inutile, à cette étape, de répéter tout le procès. N’oubliez pas que le juge a déjà 
+entendu toute la preuve et a pris des notes. Vous devez toutefois insister sur les faits  
+qui appuient votre cause. Vous pouvez souligner les contradictions dans les témoignages 
+ rendus. Vous devez soulever les faiblesses dans la preuve de la poursuite.
+Lors de votre plaidoirie, vous pouvez également faire des liens entre la preuve et les règles 
+de droit que vous croyez pertinents. C’est à ce moment que vous pouvez déposer de la 
+jurisprudence et des textes juridiques au soutien de vos prétentions.  Voir 5.5
+Le juge peut également vous poser certaines questions concernant vos prétentions. Prenez  
+le temps de bien les écouter, et répondez-y le plus calmement et honnêtement possible.
+6.5.2 LES DIRECTIVES DU JUGE AU JURY
+En matière criminelle, lorsqu’un procès est entendu par un juge siégeant avec un jury,  
+le juge s’adresse aux jurés après les plaidoiries de chaque partie et avant que l’on demande 
+au jury de se retirer pour en arriver à un verdict. Cette procédure permet au juge d’expliquer 
+le droit aux jurés, afin qu’ils puissent évaluer si les faits de la cause soutiennent un verdict 
+d’acquittement ou de culpabilité.
+6.5.3 LE DÉLIBÉRÉ
+Dans un procès devant juge et jury, les jurés se retirent dans un endroit privé afin de  discuter 
+entre eux de la décision à rendre. À compter de ce moment, ils sont « séquestrés »,  c’est-à-dire 
+qu’ils n’ont plus de contact avec l’extérieur et qu’ils ne peuvent consulter aucun média.  
+On appelle cette étape le délibéré. Les jurés peuvent prendre tout le temps nécessaire afin 
+d’en arriver à une décision qui doit être unanime. Si les jurés ne s’entendent pas sur un 
+ verdict unanime, on devra recommencer le procès devant un nouveau jury.
+Au Canada, les discussions et les motifs justifiant la décision 
+des jurés demeurent confidentiels.
+37
+ÉTAPE
+6
+LE PROCÈS EN MATIÈRE CRIMINELLE
+À
+SAVOIR
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.39] ---
+ÉTAPE 6          LE PROCÈS EN MATIÈRE CRIMINELLE
+Dans un procès devant un juge seul, le juge peut décider de rendre sa décision immédiate-
+ment après les plaidoiries des deux parties. Le juge peut aussi décider de prendre la cause en 
+délibéré et fixer une date ultérieure pour rendre sa décision. L’accusé doit être présent à cette 
+date.
+Lorsqu’une personne est accusée en vertu d’une loi provinciale ou d’un règlement municipal, 
+par exemple en matière d’infraction au Code de la sécurité routière, le juge peut entendre les 
+plaidoiries des parties et envoyer sa décision par télécopieur ou par la poste.
+6.5.4 LE VERDICT
+Le juge siégeant seul ou les jurés dans un procès devant juge et jury peuvent rendre l’un des 
+verdicts suivants :
+• Vous trouver non coupable;
+• Vous trouver coupable;
+• Vous déclarer non coupable de l’accusation portée contre vous, mais coupable d’une infrac-
+tion moins grave qui y est incluse;
+• Arrêter les procédures contre vous lorsque vos droits constitutionnels ont été violés.
+Dans les cas où un accusé est atteint de troubles mentaux lors de l’infraction, il peut être 
+déclaré non responsable pour cause de troubles mentaux.
+À
+RETENIR
+Le juge ne connaît pas les faits de la cause avant le 
+procès;
+Il est important d’être calme et en contrôle tout au long du 
+procès;
+Vous ne devez pas argumenter avec un témoin. Contentez-
+vous de lui poser des questions;
+Sachez qu’il n’est pas suffisant de bien connaître les faits 
+de votre cause. Vous devez aussi maîtriser les règles de 
+preuve et de procédure vous per mettant de présenter 
+adéquatement votre cause devant le tribunal.
+38
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.40] ---
+Si un juge vous a trouvé coupable aux termes d’un procès ou si vous avez plaidé coupable à 
+l’une des accusations, le juge vous imposera une peine communément appelée une 
+sentence. 
+Le juge tient compte de différents principes lorsqu’il prononce une peine. Il doit, entre autres 
+choses, prendre en considération la nécessité de :
+• dénoncer le comportement illégal;
+• dissuader les délinquants et les autres membres de la société de commettre des infractions;
+• isoler, au besoin, les délinquants du reste de la société;
+• favoriser la réinsertion sociale des délinquants;
+• assurer la réparation des torts causés aux victimes ou à la collectivité;
+• susciter chez les délinquants la conscience de leurs responsabilités, notamment par la 
+reconnaissance du tort qu’ils ont causé aux victimes et à la collectivité.
+39
+LA DÉTERMINATION 
+ DE LA PEINE
+ÉTAPE 
+7
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.41] ---
+Le juge s’inspire de peines rendues dans des cas similaires, tout en tenant compte des faits 
+particuliers de votre dossier. Il faut savoir que pour certaines infractions, le Code criminel  
+oblige le juge à vous condamner à une peine minimale d’emprisonnement ferme. Dans ces 
+ derniers cas, le juge ne peut réduire votre peine même s’il est sensible aux faits particuliers 
+de votre situation. En règle générale, il ne peut que soustraire le temps d’emprisonnement 
+préventif purgé depuis le début de votre dossier.
+Avant de vous imposer une peine, le juge tient une audition au cours de laquelle le procu-
+reur de la poursuite et vous-même ferez valoir les facteurs atténuants ou aggravants de la 
+cause.
+Voici quelques exemples de facteurs aggravants :
+• des préjugés qui ont motivé l’infraction;
+• un mauvais traitement infligé à un enfant mineur, un époux ou conjoint;
+• l’usage d’abus de confiance;
+• le fait que vous ayez un casier judiciaire.
+Voici quelques exemples de facteurs atténuants :
+• un travail régulier;
+• un changement dans votre comportement;
+• votre faible niveau d’implication dans le crime;
+• votre réhabilitation;
+• votre collaboration avec les autorités policières.
+À cette étape, vous avez même la possibilité de témoigner ou de faire entendre des témoins 
+pour tenter de convaincre le juge de vous imposer la peine la plus clémente compte tenu des 
+circonstances. La poursuite peut également faire entendre des témoins. Le juge va alors 
+prendre connaissance des déclarations des victimes qui énoncent les conséquences du crime 
+sur elle. Ces déclarations sont remises après la déclaration de culpabilité.
+Tout un éventail de peines s’offrent au juge, à savoir l’absolution, l’amende, le sursis de 
+ sentence (sentence suspendue) avec probation, l’emprisonnement avec sursis et, enfin, 
+l’emprison nement ferme.
+7.1 L’ABSOLUTION
+Le juge peut, dans certains cas, choisir de ne pas vous condamner s’il considère que c’est dans 
+votre meilleur intérêt et non contraire à l’intérêt public, peu importe si vous avez plaidé 
+ coupable ou si vous avez été déclaré coupable. Dans ces circonstances, le juge vous accordera 
+une absolution.
+L’absolution est la mesure la plus clémente qui existe en matière criminelle. Elle peut être 
+inconditionnelle ou assortie de conditions.
+ÉTAPE 7          LA DÉTERMINATION DE LA PEINE
+40
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.42] ---
+7.2 L’AMENDE
+Le juge peut choisir de vous imposer une amende. Cette sanction doit être proportion-
+nelle à la gravité de l’infraction et à votre capacité de payer, sauf dans les cas où une 
+amende minimale est prévue. Dans tous les cas, il vous sera possible de demander un 
+délai afin de payer l’amende.
+7.3 L’ORDONNANCE DE PROBATION
+Le juge peut aussi suspendre le prononcé de la sentence et vous ordonner, dans le cadre 
+d’une probation, de respecter des conditions pendant une certaine période de temps qui 
+ne doit pas dépasser trois ans. Durant cette période, si vous ne respectez pas vos condi-
+tions, le juge peut vous faire revenir en cour et vous imposer la peine qui, normalement, 
+aurait dû vous être imposée. Les ordonnances de probation peuvent être assorties d’un 
+sursis de sentence ou s’appliquer après que la peine d’emprisonnement a été purgée.
+Certaines conditions d’une ordonnance de probation sont obligatoires, notamment :
+• ne pas troubler l’ordre public et avoir une bonne conduite;
+• ne pas communiquer avec certaines personnes;
+• ne pas aller dans un lieu spécifique;
+• répondre aux convocations du tribunal;
+• prévenir le tribunal ou l’agent de probation d’un changement d’adresse ou de nom et les 
+aviser des changements d’emploi ou d’occupation.
+Certaines conditions peuvent être facultatives, notamment :
+• rester dans le ressort du tribunal;
+• s’abstenir de consommer des drogues ou de l’alcool;
+• fournir un échantillon d’ADN;
+• s’abstenir de posséder ou d’acheter une arme;
+• prendre soin des personnes à votre charge et subvenir à leurs besoins;
+• participer à un programme de traitement approuvé;
+• participer à un programme visant l’utilisation d’un anti-démarreur avec éthylomètre;
+• toutes autres conditions raisonnables que le tribunal considère souhaitables;
+• se rapporter à un agent de probation et le rencontrer aussi souvent qu’il le demande;
+• effectuer un certain nombre d’heures de travaux communautaires.
+L’énumération de ces conditions n’est pas limitative. Le juge peut, à sa discrétion, vous en 
+imposer d’autres.
+Il ne faut pas confondre le « sursis » de sentence avec l’emprison-
+nement avec « sursis ».
+41
+ÉTAPE
+7
+LA DÉTERMINATION DE LA PEINE
+À
+SAVOIR
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.43] ---
+À
+RETENIR
+7.4 L’EMPRISONNEMENT AVEC SURSIS
+Le juge pourrait aussi vous imposer une peine d’emprisonnement avec sursis, dite « à purger 
+dans la collectivité », s’il est convaincu que cette mesure ne met pas en danger la sécurité du 
+public et est conforme aux principes et objectifs de la peine. Toutefois, l’emprisonnement 
+avec sursis n’est pas possible pour tous les crimes et est limité aux peines d’emprisonnement 
+de deux ans moins un jour.
+L’emprisonnement avec sursis est une punition assortie de conditions exigeantes. Une sen-
+tence dans la collectivité assortie de conditions peut être aussi astreignante et exigeante 
+qu’une peine d’emprisonnement ferme.
+L’emprisonnement avec sursis vous impose des restrictions à votre liberté, comme par exemple 
+être assigné 24 heures sur 24 à votre domicile, sauf pour les fins d’un travail ou autres 
+ occupations essentielles à votre subsistance.
+Tout au cours de votre sursis, vous serez soumis à des vérifications étroites et serrées faites 
+par des agents de surveillance qui s’assurent que vous respectez toutes et chacune des condi-
+tions qui vous auront été imposées par le juge.
+Le non-respect de vos conditions peut avoir des conséquences très sérieuses. Ainsi, le juge 
+qui vous impose un emprisonnement avec sursis peut en modifier les conditions ou révoquer 
+le sursis, auquel cas vous devrez purger une peine d’emprisonnement ferme.
+7.5 L’EMPRISONNEMENT
+La peine d’emprisonnement ferme peut être purgée, soit dans une prison ou un pénitencier, 
+dépendant de sa durée. Si le juge vous impose un emprisonnement de moins de deux ans, 
+vous purgerez votre peine dans une prison provinciale. Si, par ailleurs, cette sentence est de 
+deux ans et plus, elle sera purgée dans un pénitencier fédéral.
+Votre admissibilité à une libération conditionnelle est assujettie à des règlements distincts, 
+selon que vous purgez votre peine dans une institution provinciale ou fédérale.
+Sachez qu’une période d’emprisonnement n’excédant pas 90 jours peut être purgée, dans 
+ certains cas, de façon discontinue se traduisant bien souvent par des fins de semaine.
+7.6 LE DÉDOMMAGEMENT DES VICTIMES 
+Il est possible que le tribunal vous condamne au paiement d’un dédommagement destiné aux 
+victimes. Il est pertinent de savoir que vos moyens financiers ou votre incapacité de payer 
+n’empêchera pas le tribunal de rendre une telle ordonnance.
+ÉTAPE 7          LA DÉTERMINATION DE LA PEINE
+42
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.44] ---
+En plus de la peine qu’il vous impose, le juge peut ou doit, 
+dans certains cas, rendre des ordonnances telles que 
+ l’interdiction de conduire ou celle de posséder des armes 
+à feu, une obligation de donner des échantillons d’ADN ou 
+d’être enregistré à titre de délinquant sexuel. De plus, 
+vous devrez payer une amende compensatoire et  certains 
+frais. Il est également possible que vous deviez donner un 
+dédommagement aux victimes. 
+À
+RETENIR
+Le juge impose une peine en tenant compte de  plusieurs 
+facteurs. Il considère les critères de la loi, les causes déci-
+dées antérieurement et les  circonstances particulières à 
+chaque cas;
+Sachez toutefois que plusieurs infractions comportent des 
+peines minimales d’emprisonnement que le juge n’a pas le 
+choix de vous imposer, peu importe ce que vous lui faites 
+valoir.
+43
+ÉTAPE
+7
+LA DÉTERMINATION DE LA PEINE
+À
+SAVOIR
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.45] ---
+Absolution
+(inconditionnelle ou avec conditions)
+Amende
+ou
+ou
+Sursis de sentence
+(ordonnance de probation et conditions)
+La peine
+Emprisonnement
+Emprisonnement 
+avec sursis
+Emprisonnement 
+à purger 
+dans la collectivité 
+et conditions
+Emprisonnement 
+ferme
+Prison provinciale
+(2 ans moins 1 jour)
+ou
+Pénitencier
+(2 ans et plus)
+Si 90 jours 
+et moins :
+possibilité de 
+peine de prison 
+discontinue
+Dans ce cas, 
+l’ordonnance de 
+probation est 
+obligatoire.
+Admissibilité 
+à la libération 
+conditionnelle
+ou
+Probation
+44
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.46] ---
+     L’APPEL
+Dans certaines circonstances, vous avez le droit de porter en appel le verdict de culpabilité 
+ou la peine imposée.
+Il est aussi important de mentionner que les tribunaux d’appel n’ont pas pour fonction de 
+refaire le procès ou de réentendre les témoins. 
+Si vous décidez d’en appeler d’une décision, vous devrez voir 
+à obtenir la transcription de tout ce qui s’est déroulé lors  
+du procès. Vous devrez payer les frais pour les obtenir.  
+Si vous avez gain de cause, la Cour d’appel peut condamner 
+la  poursuite à vous en rembourser le coût. 
+45
+ÉTAPE 
+8
+À
+SAVOIR
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.47] ---
+À
+RETENIR
+8.1 LE DÉLAI D’APPEL
+Le délai d’appel en matière criminelle est de 30 jours autant pour le verdict que pour la 
+peine. À défaut de vous conformer à ce délai, vous devrez demander la permission à la cour 
+ d’entendre votre appel et donner les raisons concernant votre retard.
+N’attendez pas de recevoir la peine avant de porter le  jugement 
+de culpabilité en appel car vous risqueriez de dépasser le 
+délai de 30 jours.
+8.2 QUI PEUT ALLER EN APPEL?
+Vous avez le droit d’aller en appel; cependant, dans certains cas, vous devrez d’abord obtenir 
+la permission de la cour.
+La poursuite a parfois le droit d’en appeler, autant sur le  verdict 
+d’acquittement que sur la peine.
+8.3 OÙ ALLER EN APPEL?
+Selon le type d’accusation portée contre vous, l’appel devra être entendu par :
+• la Cour supérieure pour les infractions poursuivies par procédure sommaire ou les infrac-
+tions pénales;
+• la Cour d’appel du Québec pour les actes criminels et pour les appels des décisions de la 
+Cour supérieure en matière d’infractions poursuivies par procédure sommaire.
+À la suite d’un premier appel entendu en Cour supérieure ou en Cour d’appel, il est possible 
+d’avoir d’autres recours selon la nature de l’infraction reprochée. Ces appels requièrent 
+habituel lement la permission de la cour.
+8.4 LA SUSPENSION DU JUGEMENT DE 1re INSTANCE
+Même si vous décidez d’en appeler du jugement, cela ne suspend pas l’exécution de la peine. 
+Par exemple, dans un dossier de conduite avec les facultés affaiblies où on vous a retiré le 
+droit de conduire un véhicule pour une période d’une année et que le juge vous a condamné 
+à une amende de 1 000 $, vous devrez payer l’amende et vous n’aurez pas le droit de conduire 
+un véhicule en attendant l’appel.
+ÉTAPE 8          L’APPEL
+46
+À
+SAVOIR
+À
+SAVOIR
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.48] ---
+L’appel doit être déposé dans un délai de 30 jours suivant 
+la condamnation ou la peine imposée;
+Il est habituellement souhaitable de demander à la Cour 
+d’appel de suspendre le jugement de première instance en 
+attendant l’audition de l’appel.
+À
+RETENIR
+Il est cependant possible de demander la suspension de cette peine pendant la durée 
+des procédures d’appel qui peuvent prendre plusieurs mois. Il en est de même pour un 
+accusé qui a reçu une peine d’emprisonnement. La loi prévoit que l’accusé peut  demander 
+d’être mis en liberté de façon provisoire pendant les procédures d’appel.
+47
+ÉTAPE
+8
+L’APPEL
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.49] ---
+
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.50] ---
+LA CHARTE CANADIENNE :
+ PROCÉDURE ET PRINCIPES DE BASE
+La Charte canadienne des droits et libertés vous protège en vous offrant des « garanties 
+ juridiques ». En effet, si vous estimez que l’un de vos droits constitutionnels  n’a pas été 
+ respecté, vous pouvez demander une réparation au juge qui présidera votre procès. À titre 
+d’exemple, vous pourriez demander la remise de votre procès à une date ultérieure, l’exclu-
+sion d’un élément de preuve ou encore l’arrêt des procédures. En règle générale, ce fardeau 
+reposera sur vos épaules. 
+Il n’y a pas de procédures strictes pour de telles requêtes. Toutefois, vous devez aviser la cour 
+et la partie adverse de votre intention de plaider que vos droits constitutionnels n’ont pas 
+été respectés. En principe, cet avis doit être écrit et transmis à la poursuite (par lettre, 
+ courriel ou télécopieur) avant le procès, mais le juge peut en décider autrement. Il serait 
+opportun de communiquer avec le Bureau des procureurs de la poursuite afin de savoir quel 
+avocat est  responsable de votre dossier.
+Lors de l’audience, vous pourrez questionner les policiers et faire entendre vos témoins, afin 
+de démontrer que vos droits constitutionnels n’ont pas été respectés. 
+49
+ÉTAPE 
+9
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.51] ---
+9.1 LA PROTECTION CONTRE LES FOUILLES,  
+LES SAISIES ET LES PERQUISITIONS ABUSIVES
+L’article 8 de la Charte offre une protection contre les fouilles, les saisies et les perquisitions 
+abusives. Si votre dossier comporte une fouille, une saisie ou une perquisition, vous avez 
+intérêt à vous informer des règles applicables.
+9.2 LA PROTECTION CONTRE L’ARRESTATION OU  
+LA DÉTENTION ARBITRAIRE
+L’article 9 de la Charte offre une protection contre une arrestation ou une détention  arbitraire. 
+Votre arrestation ou votre détention peut être faite avec ou sans mandat. Toutefois, elle doit 
+habituellement s’appuyer sur des motifs qui permettent de croire que vous avez commis une 
+infraction criminelle. Vous avez également intérêt à vous informer des règles applicables.
+9.3 LE DROIT AU SILENCE
+Ce droit vous permet de choisir librement si vous souhaitez ou non parler aux policiers.  
+Les articles 7 et 11 c) de la Charte garantissent votre droit de garder le silence. Les policiers 
+ doivent respecter ce choix; toutefois, ils peuvent insister et continuer de vous interroger, 
+c’est à vous de demeurer silencieux. Le juge ne peut rien conclure de votre silence.
+9.4 LE DROIT À L’AVOCAT
+L’article 10 b) de la Charte assure que chaque personne arrêtée ou détenue peut bénéficier 
+sans délai de l’assistance d’un avocat. Ainsi, les policiers doivent : 
+• vous informer sans délai de ce droit; 
+• vous donner une opportunité raisonnable de communiquer en toute confidentialité avec 
+un avocat;
+• vous informer de l’existence des services d’un avocat de garde;
+• s’abstenir de vous questionner jusqu’à ce que vous ayez eu la possibilité de communiquer 
+avec un avocat.
+9.5 LA PRÉSOMPTION D’INNOCENCE
+Vous n’avez pas à prouver votre innocence. La présomption d’innocence est un principe 
+ fondamental du droit criminel et pénal qui a des effets sur toutes les étapes du processus 
+ judiciaire. En effet, elle exige notamment que le fardeau de prouver votre culpabilité repose 
+sur la poursuite. Cette preuve doit être faite conformément à la loi, devant un tribunal 
+ indépendant et impartial, dans le cadre d’un procès public, juste et équitable. La poursuite 
+doit prouver votre culpabilité hors de tout doute raisonnable.
+ÉTAPE 9          LA CHARTE CANADIENNE : PROCÉDURE ET PRINCIPES DE BASE
+50
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.52] ---
+9.6 LE DROIT À LA DIVULGATION DE LA PREUVE
+Ce droit est inclus à l’article 7 de la Charte. Il assure que les règles et procédures du 
+ procès vous permettent de répondre aux arguments de la poursuite et de vous défendre. 
+Le tribunal doit vous permettre de vous défendre contre tous les moyens légaux employés 
+par la poursuite.
+Pour être en mesure de répondre adéquatement aux accusations portées contre vous,  
+il faut évidemment que vous ayez en votre possession tous les renseignements  pertinents 
+que possède la poursuite. Ce principe est connu sous le nom du droit à la divulgation 
+de la preuve.
+Par conséquent, la poursuite doit vous remettre tous les éléments de preuve, peu importe 
+qu’ils nuisent ou aident votre défense. De plus, cette obligation est continuelle. En effet, 
+la poursuite doit vous remettre la preuve qu’elle obtient durant les procédures, et ce, 
+jusqu’à la fin du procès. Dans l’éventualité où vous vous rendez compte qu’elle a omis de 
+respecter cette obligation, vous devez en informer le juge du procès le plus rapidement 
+possible. Ce dernier prendra alors la décision qui s’impose. Certaines exceptions à la 
+ divulgation de la preuve s’appliquent, notamment les informations qui sont protégées par 
+le secret professionnel ou le privilège relatif au litige.
+9.7 LE DROIT À UN PROCÈS DANS UN DÉLAI 
+RAISONNABLE
+L’article 11 b) de la Charte prévoit que tout inculpé a le droit d’être jugé dans un délai 
+ raisonnable. Son objectif est d’accélérer le délai avant un procès et de réduire le préjudice 
+que vous pourriez subir. 
+La Cour suprême, dans l’arrêt Jordan, a établi des délais limites pour les différents types de 
+procès. Passé ces délais, il est présumé que le droit d’être jugé dans un délai raisonnable est 
+violé. On ne compte pas dans ces délais ceux causés par la défense.
+Cette présomption oblige alors la poursuite à tenter de démontrer que le dépassement des 
+délais a été occasionné par des circonstances exceptionnelles, indépendantes de la volonté 
+de la poursuite. Si elle ne peut le faire, un arrêt des procédures doit suivre.
+9.8 LE DROIT À LA PROTECTION CONTRE LES PEINES 
+CRUELLES ET INUSITÉES 
+Pour certaines infractions, le Code criminel oblige le juge à vous condamner à une peine  
+ minimale d’emprisonnement ferme. Dans ces derniers cas, le juge ne peut réduire votre peine 
+même s’il est sensible aux faits particuliers de votre situation.
+Cependant, une peine minimale obligatoire peut être contestée pour le motif qu’elle inflige 
+une peine totalement disproportionnée au délinquant. En effet, l’article 12 de la Charte  
+ protège les individus contre les peines cruelles et inusitées. Dans certains cas, certaines 
+peines minimales peuvent être considérées comme telles.
+51
+ÉTAPE
+9
+LA CHARTE CANADIENNE 
+:
+PROCÉDURE ET PRINCIPES DE BASE
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.53] ---
+ÉTAPE 9          
+52
+C’est à vous de prouver la violation de vos droits consti-
+tutionnels. La cour décidera ensuite de la réparation 
+appropriée.À
+RETENIR
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.54] ---
+RESSOURCES DISPONIBLES
+Il existe plusieurs ressources juridiques gratuites qui peuvent vous être utiles, si vous 
+agissez sans avocat. Vous pouvez les utiliser afin d’obtenir des informations générales 
+sur vos droits ainsi que sur les règles applicables devant les tribunaux. En voici 
+quelques-unes :
+ 
+ASSOCIATION DES AVOCATS DE LA DÉFENSE DE MONTRÉAL (AADM)
+ aadm.ca
+Site regroupant les avocats de la défense pratiquant dans la région de Montréal permettant 
+de retracer facilement leurs coordonnées.
+ASSOCIATION QUÉBÉCOISE DES AVOCATES ET AVOCATS DE LA DÉFENSE (AQAAD)
+ www.aqaad.com
+Site regroupant les avocats de la défense pratiquant sur tout le territoire québécois. Il permet 
+de trouver un avocat de la défense selon une région ciblée.
+BARREAU DU QUÉBEC
+ www.barreau.qc.ca
+Site de l’Ordre professionnel des avocats qui propose une information destinée tant au public 
+qu’aux avocats, en lien avec sa mission première de protection du public.
+CHAMBRE DES HUISSIERS DE JUSTICE DU QUÉBEC
+ www.chjq.ca
+Site donnant accès au Tableau des huissiers de justice du Québec.
+COMMISSION DES SERVICES JURIDIQUES
+ www.csj.qc.ca
+Organisme dont le mandat est de veiller à fournir de l’aide juridique aux personnes finan cière-
+ment admissibles.
+DIRECTEUR DES POURSUITES CRIMINELLES ET PÉNALES  
+ www.dpcp.gouv.qc.ca
+ÉDUCALOI
+ educaloi.qc.ca
+Site qui met à la disposition du public de l’information juridique vulgarisée et qui répertorie 
+d’autres ressources pouvant être consultées dans divers domaines de droit.
+JUGEMENTS
+ citoyens.soquij.qc.ca ou www.canlii.org
+Site où vous pouvez consulter gratuitement les décisions de différents tribunaux.
+MINISTÈRE DE LA JUSTICE DU QUÉBEC
+ www.justice.gouv.qc.ca
+Site qui permet d’obtenir des modèles d’actes de procédure, des dépliants et des brochures 
+visant à faciliter la compréhension des lois et des règlements.
+53
+RESSOURCES DISPONIBLES
+53
+SITES
+WEB
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.55] ---
+54
+MINISTÈRE DE LA JUSTICE DU CANADA
+ www.justice.gc.ca/fra
+Site où l’on retrouve notamment le Code criminel, la Loi réglementant les drogues et autres 
+substances ainsi que la Loi sur le casier judiciaire.
+PUBLICATIONS DU QUÉBEC
+ www.publicationsduquebec.gouv.qc.ca
+Site qui donne accès aux lois et aux règlements du Québec, dont le Code de procédure pénale 
+et le Code de la sécurité routière.
+RÉSEAU JURIDIQUE DU QUÉBEC
+ www.avocat.qc.ca
+Site qui publie notamment des textes juridiques vulgarisés, rédigés par des avocats, des juges 
+ou d’autres professionnels du droit. Vous y trouverez également une section « Foire aux 
+ questions » offrant des réponses aux questions les plus fréquemment posées.
+STÉNOGRAPHES DU QUÉBEC
+ www.barreau.qc.ca/fr/avocats/praticien/stenographes
+Site donnant accès au Tableau des sténographes.
+TRIBUNAUX JUDICIAIRES DU QUÉBEC 
+ www.tribunaux.qc.ca
+Les bureaux d’information juridique sont des organismes à but non lucratif habituellement 
+situés dans les diverses facultés de droit des universités de la province. Afin d’obtenir de 
+ l’information générale sur la loi et sur vos droits, vous pouvez y rencontrer des étudiants en 
+droit qui y travaillent bénévolement. Toutefois, veuillez noter que les étudiants peuvent vous 
+informer et non vous conseiller. Ils ne remplacent pas les services d’un avocat. Renseignez-
+vous auprès des universités afin de connaître les coordonnées du bureau d’information 
+ juridique le plus près de chez vous. Vous pouvez communiquer avec les bureaux suivants :
+CLINIQUE D’INFORMATION JURIDIQUE DE MCGILL
+ licm.mcgill.ca/?lang=fr&page=legalclinic ou 514 398-6792
+UNIVERSITÉ D’OTTAWA
+ commonlaw.uottawa.ca/clinique-juridique-communautaire/ ou 613 562-5600
+UNIVERSITÉ DE MONTRÉAL
+ droit.umontreal.ca/ressources-et-services/clinique-juridique/ ou 514 343-7851
+UNIVERSITÉ DE SHERBROOKE
+ www.usherbrooke.ca/etudiants/vie-etudiante/cles/cle-de-vos-droits/  
+ou 819 821-8000, poste 65221
+UNIVERSITÉ DU QUÉBEC À MONTRÉAL (UQAM)
+ www.cliniquejuridique.uqam.ca ou 514 987-6760
+UNIVERSITÉ LAVAL
+ bijlaval.ca ou 418 656-7211
+BUREAUX D’INFORMATION
+JURIDIQUE
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.56] ---
+GLOSSAIRE
+ACTE CRIMINEL  – L’acte criminel est une 
+infraction grave. Les peines imposées sont 
+généralement importantes, la procédure 
+ju di ciaire peut être complexe et une condam -
+nation entraîne la plupart du temps un 
+casier judiciaire. Le meurtre, les infractions 
+causant des lésions corporelles et la fraude 
+en sont quelques exemples.
+AGENT DE LA PAIX – Personne en autorité 
+chargée de maintenir l’ordre public.
+AGENT DE PROBATION – Personne qui inter-
+vient auprès des contrevenants afin de 
+contri buer à leur réinsertion sociale tout en 
+veillant à assurer la protection de la société. 
+Il voit aussi à la confection des rapports 
+« pré-sentenciels » qui aideront le juge à 
+ dé terminer une peine appropriée.
+AIDE JURIDIQUE – Service offert par l’État 
+aux personnes financièrement admissibles 
+qui en font la demande. Ces personnes peu-
+vent béné ficier des services d’un avocat gra-
+tuitement ou moyennant une contribution.
+AMENDE – Pénalité financière imposée par 
+la cour à une personne trouvée coupable 
+d’une infraction.
+APPEL – Révision d’un dossier par une ins-
+tance supérieure.
+AUDIENCE (AUDITION) – Séance au cours 
+de laquelle les parties font leurs représen -
+tations devant le juge et interrogent parfois 
+des témoins.
+CASIER JUDICIAIRE – Ensemble des condam  -
+nations d’un individu pour des infractions 
+criminelles. 
+CONSTAT D’INFRACTION – Document qui fait 
+état de l’infraction pénale reprochée.
+CONTRE-INTERROGATOIRE – Interrogatoire 
+d’un témoin par la partie adverse.
+DÉCLARATION DE CULPABILITÉ  – Décision 
+du tribunal selon laquelle l’accusé est cou-
+pable d’une infraction.
+DIVULGATION DE LA PREUVE – Le 
+pour suivant doit divulguer à l’accusé 
+tous les renseignements qu’il détient.  
+Il y a très peu d’exception à cette règle.
+DOCTRINE  – Ensemble des travaux 
+écrits qui exposent ou interprètent le 
+droit.
+DROITS CONSTITUTIONNELS  – Droits 
+fondamentaux d’un individu que l’État 
+est tenu de respecter.
+HORS DE TOUT DOUTE RAISONNABLE 
+(PREUVE) – Seuil de preuve requis pour 
+ justifier la condamnation d’un accusé. 
+C’est la poursuite qui a le fardeau de la 
+preuve. S’il subsiste un doute raisonnable 
+dans l’esprit du juge ou du jury, il doit 
+l’acquitter.
+HUISSIER – Officier de justice ayant notam-
+ment comme fonction de signifier les actes 
+de procédure et de procéder à l’exécution 
+forcée des jugements.
+INFRACTION SOMMAIRE – Une condamna-
+tion pour ce type d’infraction entraîne la 
+plupart du temps un casier judiciaire. Les 
+procédures judiciaires sont moins complexes 
+que pour l’acte criminel. 
+JURISPRUDENCE – Ensemble des jugements 
+qui traitent des principes de droit suivis par 
+les tribunaux.
+JURY – Un jury est composé de 12 personnes 
+(jurés) qui doivent décider de la culpabilité 
+ou non de l’accusé. Leur décision doit être 
+unanime. Dans un procès devant jury, les 
+questions de droit sont décidées par le juge 
+alors que les questions de fait le sont par les 
+jurés.
+LIBÉRATION CONDITIONNELLE – Libéra tion 
+qui survient avant que le terme d’une peine 
+d’emprisonnement soit complété. C’est la 
+Commission des libérations conditionnelles 
+qui l’ordonne si le dossier le permet.
+55
+GLOSSAIRE
+55
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.57] ---
+NOTE : Certains mots ont pu être ajoutés au  glossaire 
+même s’ils ne se retrouvent pas dans le texte du 
+guide, puisqu’ils sont  fréquemment  utilisés dans le 
+ langage et les documents juridiques.
+MANDAT D’ARRESTATION – Ordonnance du 
+tribunal qui enjoint aux policiers d’arrêter 
+un accusé ou un témoin pour le conduire 
+devant un juge. 
+MATIÈRE CRIMINELLE  – Le droit criminel 
+est issu principalement du Code criminel  
+mais se retrouve aussi dans d’autres lois 
+fédérales comme la Loi sur les douanes ou la 
+Loi réglementant certaines drogues et autres 
+substances. Il s’applique à tous qui sont âgés 
+de 12 ans et plus. On y retrouve des infrac-
+tions comme le meurtre, l’agression sexuelle, 
+le vol et la fraude. En matière criminelle, la 
+condamnation pour des infrac tions entraîne 
+habituellement un casier judiciaire.
+MATIÈRE PÉNALE – Le droit pénal traite des 
+comportements nuisibles pour l’ensemble  
+de la société et prévoit des peines. Il ne 
+crée pas de casier judiciaire criminel mais 
+les condamnations antérieures pour le 
+même type d’infraction peuvent entraîner 
+une peine plus lourde. En droit pénal, les 
+ poursuites sont menées par l’État contre la 
+ personne accusée. 
+OBJECTION – Intervention verbale auprès de 
+la cour qui vise à empêcher l’autre partie de 
+poser une question ou de faire une affirma-
+tion. 
+OUÏ-DIRE  – Le fait pour une personne de 
+rapporter un événement, des paroles ou des 
+actions dont elle n’a pas été témoin person-
+nellement mais qu’elle connaît pour les 
+avoir entendus dire par quelqu’un d’autre.
+PEINE (SENTENCE) – Sanction imposée à une 
+personne déclarée coupable d’avoir commis 
+une infraction.
+PLAIDOYER  – Lorsqu’un accusé déclare 
+devant le tribunal qu’il est coupable ou non 
+coupable de l’infraction qui lui est repro-
+chée. 
+PREUVE – Document, objet, image ou témoi-
+gnage qui démontre l’existence d’un fait.
+PROBATION (ORDONNANCE DE) – Ordre de la 
+cour qui impose des conditions pour une 
+période de temps donnée à une personne 
+déclarée coupable d’une infrac tion.
+RÈGLES DE PROCÉDURE (PROCÉDURE)  – 
+Ensemble des règles qui encadrent le dé rou-
+lement d’une poursuite devant le tribunal.
+SYNDIC – Organisme de con trôle de l’exer -
+cice de la profession d’avocat. Il voit à la 
+protection du public en traitant du dépôt 
+des plaintes disciplinaires à l’endroit des 
+avocats. 
+TÉMOIN – Personne qui relate sous serment 
+des faits qu’elle a personnellement vus, 
+entendus ou observés.
+TÉMOIN EXPERT – Personne qui, en raison 
+de ses compétences et de ses connaissances 
+particulières sur un sujet, donne son  opinion 
+sur ce sujet.
+
+--- [fondation_seul-devant-la-cour-criminelle-penale.pdf p.58] ---

@@ -1,0 +1,751 @@
+
+--- [barreau_procedure-penale.pdf p.1] ---
+page 1 de 16
+PROCÉDURE PÉNALE 
+INTRODUCTION
+But de cette liste et mise à jour. Cette liste de contrôle est à l’usage de l’avocat de la défense qui représente une per-
+sonne dont le procès se déroulera devant juge seul. Elle doit être complétée, le cas échéant, par les listes de contrôle 
+PROCÉDURE DE MISE EN LIBERTÉ PROVISOIRE PAR VOIE JUDICIAIRE, DÉTERMINATION DE LA PEINE, ET INTER-
+ROGATOIRE DES TÉMOINS DANS UN PROCÈS DE CONDUITE D’UN VÉHICULE À MOTEUR AVEC LA CAPACITÉ 
+AFFAIBLIE PAR L’EFFET DE L’ALCOOL OU D’UNE DROGUE. Elle ne comprend pas les procédures en appel. 
+À consulter aussi : 
+■ Leblond, Claude et al. Droit Pénal Procédure et preuve, Les Éditions Yvon Blais Inc., Cowansville, 2007-2008 
+(Collection de droit, volume 11, 352 p.).
+■ Béliveau, Pierre et Vauclair, Martin Traité général de preuve et de procédure pénale, 14e édition, 2007,  
+Les Éditions Thémis, 1654 p.
+TABLE DES MATIÈRES
+1. Les questions préliminaires
+2. La comparution
+3. L’enquête pour mise en liberté
+4. La communication de la preuve, transmise lors d’une des étapes ou lors d’une étape distincte « Pro forma »
+5. L’enquête préliminaire
+6. La préparation du procès
+7. Le procès
+8. La détermination de la peine
+9. Le suivi
+ÉTAPES À EXAMINER NOTES
+1. LES QUESTIONS PRÉLIMINAIRES
+1.1 Premier contact avec le client ou son représentant :
+.1 Recueillez des informations :
+a. La personne qui communique avec vous :
+i. Son nom, son adresse et son numéro de téléphone.
+ii. Sa relation avec le client.
+b. Le client :
+i. Son nom et ses noms d’emprunt.
+ii. L’endroit où il se trouve présentement, y compris ses numéros de télé-
+phone à la maison, au travail, son cellulaire et le numéro où on peut lui 
+laisser un message. 
+iii. Sa date de naissance (si le client avait entre 12 et de 17 ans au moment 
+de l’infraction, consultez la Loi sur le système de justice pénale pour les 
+adolescents.)
+iv. son courriel.
+c. Le ou les chefs d’accusation.
+(01/2019)
+
+--- [barreau_procedure-penale.pdf p.2] ---
+page 2 de 16
+d. Le numéro de la dénonciation, si connue, et celui du rapport de police.
+e. La date, l’heure et l’endroit du bertillonnage (Loi sur l’identification des cri-
+minels).
+f. La date, l’heure et l’endroit de la comparution à la cour.
+.2 Décidez si vous acceptez ou non le mandat en prenant en considération :
+a. La nature de l’accusation.
+b. Les conflits d’intérêts.
+c. Le devoir de fournir des services juridiques au public; évaluez, si vous n’ac-
+ceptez pas le mandat, s’il sera difficile à la personne d’obtenir de tels services.
+d. La complexité de la cause et votre expérience dans ce domaine.
+e. Le montant des honoraires et s’ils seront payés; l’admissibilité du client à 
+l’aide juridique.
+f. Si le client est admissible à l’aide juridique, évaluez si ce mandat peut faire 
+l’objet d’une demande en vertu de l’arrêt Rowbotham de la Cour suprême du 
+Canada (1993)4 R.C.S.834.
+.3 Si vous n’acceptez pas le mandat :
+a. Informez-en le client ou son représentant; le cas échéant, suggérez le nom 
+d’autres avocats, le recours à l’Aide juridique ou au Service de référence du 
+Barreau de votre section.
+b. Prenez note de l’avis donné et classez vos notes.
+.4 Si vous acceptez le mandat :
+a. Informez le client ou son représentant de vos honoraires, de l’avance deman-
+dée et de la date d’échéance pour verser l’avance. Confirmez par écrit (voir 
+l’article 1.9.2).
+b. À la première possibilité, prévenez la cour et d’autres intervenants impliqués 
+de l’étendue du mandat s’il est limité.
+c. Soyez attentif aux différences culturelles et aux réalités des personnes LGBTQ 
+avec qui vous interagissez. Par exemple, en rapport avec un client des pre-
+mières nations ou des communautés culturelles, l’avocat doit être conscient 
+des différences culturelles en matière de communication interpersonnelle 
+avec ces clients et de leur milieu socioculturel. Il doit aussi évaluer les res-
+sources disponibles dans ces milieux quand il prépare les représentations 
+relatives à la peine.
+1.2 Communiquez avec le client par téléphone si c’est possible : 
+.1 Si la personne qui a d’abord pris contact avec vous n’est pas le client :
+a. Informez le client de votre qualité d’avocat, indiquez-lui le nom de la per -
+sonne qui a communiqué avec vous et qui vous a demandé de le représenter.
+b. Confirmez votre mandat auprès du client.
+c. S’il s’agit d’une conversation téléphonique, convenez d’un rendez-vous avec 
+le client.
+d. Avisez le client de la nature confidentielle de toutes vos conversations.
+.2 Avisez le client de ne pas discuter de la cause avec qui que ce soit, y compris le 
+codétenu, s’il y a lieu, avant votre entrevue; informez-le que tout ce qu’il dira 
+pourra servir de preuve contre lui; ne discutez pas de la cause au téléphone. 
+Prévenez-le de ne pas se soumettre à une analyse de sang, de cheveux ou de 
+salive avant d’en avoir discuté avec vous.
+
+--- [barreau_procedure-penale.pdf p.3] ---
+page 3 de 16
+.3 Confirmez l’endroit où il se trouve.
+.4 Demandez-lui s’il est blessé ou s’il souffre d’une incapacité.
+.5 Épelez votre nom, donnez votre adresse, votre numéro de téléphone et votre 
+courriel.
+.6 Demandez-lui s’il vous relève du secret professionnel aux fins de discuter de 
+la cause avec un membre de sa famille ou son représentant.
+.7 S’il est en détention, avisez-le de ne disposer d’aucun objet qui pourrait faire 
+l’objet d’une analyse d’A.D.N. (tissu, peigne, pansement, mouchoir, produit 
+d’hygiène féminine, etc.).
+1.3 Si le client est en détention, évaluez l’opportunité de communiquer 
+avec le fonctionnaire responsable ou l’enquêteur. Dans ce cas :
+.1 Présentez-vous comme l’avocat du client.
+.2 Demandez-lui son nom, son grade et son numéro matricule.
+.3 Demandez l’endroit où se trouve le client et s’il doit être déplacé.
+.4 Demandez pourquoi le client n’a pas été remis en liberté sur-le-champ.
+.5 Demandez quels chefs d’accusation seront déposés ou lesquels on prévoit 
+déposer. 
+.6 Demandez-lui s’il y a d’autres accusations pendantes ou des mandats d’arres-
+tation en circulation.
+.7 Demandez si la comparution se fera par vidéo comparution. Considérez alors 
+vous rendre au poste de police pour représenter le client et demander qui sera 
+le procureur et quelles sont ses coordonnées.
+.8 Le cas échéant, demandez que des soins médicaux soient fournis au  client.
+.9 Informez-le que vous avez avisé le client de ne pas discuter de la cause ou de 
+toute autre cause avec qui que ce soit et demandez-lui de ne procéder à aucun 
+interrogatoire avant votre premier entretien avec votre client (À lire, l’arrêt de 
+la Cour suprême du Canada, R. c. Singh 2007CSC 48.). 
+.10 Notez l’heure de l’appel.
+1.4 Recueillez les informations suivantes, si possible :
+.1 De la Poursuite :
+a. Une copie de la dénonciation.
+b. Les faits entourant la commission de l’infraction telle qu’alléguée par la Pour-
+suite et les témoins.
+c. Le casier judiciaire du client.
+d. Ses déclarations extrajudiciaires. 
+e. Les dépositions des complices et des témoins à charge. Obtenez les noms et 
+adresses de tous les témoins, y compris de ceux que la Poursuite n’entend 
+pas assigner.
+f. La position au sujet de la mise en liberté.
+g. Déterminez la position initiale de la Poursuite au sujet d’une peine, s’il y avait 
+plaidoyer de culpabilité.
+h. Les informations relatives aux dossiers d’enquêtes criminelles ou dossiers dis-
+ciplinaires de policiers impliqués dans le dossier.
+
+--- [barreau_procedure-penale.pdf p.4] ---
+page 4 de 16
+.2 Si un mandat de perquisition ou un mandat relatif aux analyses génétiques a 
+été utilisé, obtenez :
+a. Une copie de chacun.
+b. Une copie de la dénonciation présentée pour sa délivrance (soit du procureur 
+de la Poursuite ou en présentant une demande au juge de paix si la dénoncia-
+tion n’est pas scellée ou à un juge de la cour provinciale si elle l’est, en vertu 
+de l’article 487.3 du Code criminel.).
+.3 L’autorisation d’intercepter une communication privée et les motifs qui la 
+justifient.
+.4 Demandez copie de toutes les photos, les bandes-vidéo ou les enregistrements 
+sonores faits par ou en possession de la police ou du procureur de la Pour -
+suite de même que toute transcription y reliée. Révisez ce matériel pour y 
+repérer quelques inexactitudes dans toute transcription.   Assurez-vous que le 
+matériel enregistré vous a été communiqué sous une forme qui vous permet 
+d’y avoir accès. (La Poursuite peut vous demander de signer un engagement 
+relativement à votre utilisation de matériel sensible et réclamant son retour 
+à la fin du dossier). 
+1.5 Discutez avec le client et obtenez des instructions de sa part quant à  
+la possibilité de le représenter lors de ses futures comparutions,  
+selon l’article 650.01 du Code criminel.
+.1 S’il accepte, préparez le document de désignation et faites-le-lui signer afin 
+de le déposer au dossier.
+1.6 Analysez soigneusement la dénonciation reçue et vérifiez si elle a été 
+assermentée. N’oubliez pas les prescriptions applicables (déclaration  
+de culpabilité par procédure sommaire : 6 mois, par voie de mise en 
+accusation : aucune prescription, infraction à une loi provinciale et  
+à un règlement : 12 mois, sauf exceptions prévues dans certaines lois.),
+1.7 Analysez la dénonciation reçue, recherchez ses faiblesses (par exemple 
+des défauts techniques).
+1.8 Procédez à une entrevue avec le client (exhibez votre carte de membre 
+du Barreau du Québec pour pénétrer dans le lieu de détention) :
+.1 Exigez un endroit qui préserve la confidentialité de l’entrevue.
+.2 Confirmez les informations suivantes :
+a. Le nom du client, ses noms d’emprunt s’il en a, son adresse, son numéro de 
+téléphone et sa date de naissance.
+b. Les chefs d’accusation.
+c. Les accusations pendantes dans d’autres districts.
+d. Les comparutions à la cour.
+.3 Expliquez la nature de la relation client/avocat, notamment :
+a. Le secret professionnel.
+b. Votre rôle.
+c. Le fait qu’il lui revient de décider de son plaidoyer, du mode de procès, du 
+moment où il plaidera coupable, le cas échéant et s’il témoignera à son procès. 
+d. Confirmez que le client peut lire et écrire.
+.4 Informez le client de vos honoraires, des modalités de paiement et des condi-
+tions auxquelles vous acceptez de le représenter.
+
+--- [barreau_procedure-penale.pdf p.5] ---
+page 5 de 16
+.5 Discutez des éléments suivants et prenez des notes :
+a. Les faits sur lesquels les chefs d’accusation se basent (décidez s’il y a lieu de 
+discuter des détails dans le lieu de détention); passez en revue la preuve com-
+muniquée par la Poursuite, si elle l’a été. Vérifiez si le client est en accord ou 
+non avec les faits tels qu’ils sont présentés par la Poursuite.
+b. L’arrestation, les mises en garde, les déclarations extrajudiciaires, les incita-
+tions, les menaces pour les obtenir, y compris : 
+i. Si le client a été informé sans délai des motifs de son arrestation (ar -
+ticle 10 [a) de la Charte canadienne des droits et libertés).
+ii. S’il a été informé de son droit d’avoir recours sans délai à l’assistance 
+d’un avocat de son choix et si on lui a donné l’occasion d’exercer ce droit 
+(article 10 (b) de la Charte; article 25 de la Loi sur la justice pénale pour 
+adolescents).
+iii. S’il a fait l’objet d’une fouille; si on a saisi quelque bien (article 8 de la 
+Charte); déterminez si la fouille ou la perquisition a été faite avec mandat. 
+Si c’est le cas, l’adresse à laquelle la perquisition a été exécutée, est-elle la 
+même que celle inscrite au mandat? Le mandat sera classé selon l’endroit 
+où la perquisition a eu lieu (adresse).
+iv. S’il a été arrêté ou détenu arbitrairement (article 9 de la Charte).
+v. S’il a entre 12 et 17 et a fait une déclaration extrajudiciaire aux policiers 
+(voir l’article 146 de la Loi sur la justice pénale pour adolescents).
+vi. L’heure à laquelle le client a été arrêté. (Voir le délai de 24 heures prévu à 
+l’article 503 (1) (a) du Code criminel).
+vii. Vérifiez si d’autres défenses sont possibles ou si d’autres arguments fon-
+dés sur la Charte peuvent être plaidés.
+c. Les témoins, ce qu’ils peuvent dire, leurs coordonnées et de la possibilité de 
+faire rencontrer ceux-ci par un enquêteur privé.
+d. La nécessité de faire des démarches afin de recueillir et/ou préserver des élé-
+ments de preuve matérielle.
+e. Obtenez de l’information au sujet de facteurs culturels ou environnemen-
+taux pertinents. Par exemple, prenez en considération le niveau de compré-
+hension et d’éducation du client, l’appui que sa famille ou sa communauté 
+sont susceptibles de lui accorder, son degré de motivation ou d’initiative, si 
+un syndrome d’alcool fœtal a été diagnostiqué, l’environnement physique 
+d’un  l’adolescent, et pour un client des premières nations, les solutions de 
+rechange possibles pour ces délinquants. 
+.6 Répétez votre recommandation au client de ne faire aucune déclaration (voir 
+l’article 1.2.2). Si l’identification est en cause, vérifiez si une séance d’identi-
+fication a eu lieu et si on a demandé au client d’y participer. Si ce n’est pas le 
+cas, informez-le des conséquences d’un refus de sa part d’y participer et qu’il 
+n’est pas obligé d’y participer.
+.7 Obtenez des instructions du client au sujet du plaidoyer ou du choix qu’il veut 
+inscrire (revoyez les facteurs énumérés au point 4.1.9).
+.8 S’il décide de plaider coupable, déterminez s’il y a lieu de le faire maintenant 
+ou s’il est préférable de retarder son plaidoyer, et : 
+a. Dans le cas d’un plaidoyer immédiat :
+ (Voir Section 3. DÉTERMINATION DE LA PEINE)
+
+--- [barreau_procedure-penale.pdf p.6] ---
+page 6 de 16
+b. Dans le cas d’un plaidoyer retardé, tentez d’obtenir une mise en liberté pro-
+visoire et faites fixer la date pour orientation, du procès, ou pour la détermi-
+nation de la peine.
+.9 Déterminez les raisons de la détention (évadé, purgeant une peine, en liberté 
+sous cautionnement pour une autre infraction, en libération conditionnelle ou 
+sous le coup d’une libération d’office).
+.10 Recueillez des informations en vue de l’enquête pour mise en liberté provisoire 
+par voie judiciaire. 
+(Voir l’article 1 de la liste de contrôle – PROCÉDURE DE MISE EN LIBERTÉ 
+PROVISOIRE PAR VOIE JUDICIAIRE)
+ 
+.11 Discutez du processus judiciaire et des démarches que vous entreprendrez.
+1.9 Suivi de la première entrevue :
+.1 Ouvrez un dossier et inscrivez dans votre agenda les dates pertinentes, y com-
+pris la prochaine comparution à la cour. 
+.2 Écrivez au client pour confirmer les honoraires, les demandes d’avances, ses 
+instructions et celles que vous lui avez données.
+.3 Recueillez les informations manquantes (voir l’article 4.1), par exemple la 
+communication d’autres éléments de preuve de la Poursuite, des rapports 
+médicaux ou psychiatriques.
+.4 S’il y a un coaccusé, communiquez avec son procureur.
+.5 Si une question de responsabilité professionnelle surgit, communiquez avec 
+le Barreau du Québec.
+.6 Discutez des conséquences de la présente accusation au regard d’accusations 
+pendantes ou d’accusations prévisibles. Vérifiez s’il y a lieu de demander le 
+regroupement des accusations ou s’il est préférable de les traiter séparément.
+2. LA COMPARUTION
+2.1 Vérifiez s’il s’agit d’une infraction punissable par procédure sommaire 
+ou d’un acte criminel. Dans le cas d’un acte criminel, vérifiez si l’infrac-
+tion relève de la juridiction absolue d’un juge de la cour provinciale 
+(article 553 du Code criminel ou si elle relève de la compétence de la 
+cour supérieure de juridiction criminelle (Cour supérieure) (article 469 
+du Code criminel) ou si un choix peut être fait quant au mode de procès 
+(article 536 du Code criminel). Dans le cas d’une infraction hybride, 
+vérifiez l’intention de la Poursuite quant au mode de poursuite si elle 
+n’a pas pris position.
+2.2 Réservez votre choix si vous pouvez remettre la cause pour orientation. 
+Dans le cas où l’option est possible et a lieu à cette étape :
+.1 Entre la Cour du Québec et la Cour supérieure, tenez compte des éléments 
+suivants :
+a. Le point de vue du client.
+b. L’opportunité et le but recherché par une enquête préliminaire.
+c. Les frais.
+d. Le délai.
+e. Les juges disponibles.
+f. La peine possible.
+
+--- [barreau_procedure-penale.pdf p.7] ---
+page 7 de 16
+.2 Entre un procès devant juge seul et un procès devant juge et jury, tenez compte 
+des éléments suivants :
+a. Si le client témoignera à son procès.
+b. La crédibilité du client et des témoins de la défense.
+c. La nature de la défense (technique, faisant appel à l’émotion, etc.).
+d. Le casier judiciaire du client.
+e. Le type d’infraction.
+f. La victime (par exemple, l’âge, la crédibilité).
+2.3 Évaluez la durée de l’enquête préliminaire et celle du procès.
+2.4 Déterminez s’il y a des aveux (admissions) sur lesquels la Poursuite ou 
+le client peuvent s’entendre :
+■	aux fins d’une enquête préliminaire, si elle est demandée;
+■	aux fins du procès.
+2.5 Décidez s’il y a lieu de donner un accord, conformément à l’article 536.5 
+du Code criminel, pour limiter l’enquête préliminaire à des questions 
+données, si elle est demandée.
+2.6 Vérifiez le moment où le client préférerait que son procès ait lieu.
+2.7 Faites fixer la date :
+.1 Suivez la procédure adoptée par la cour saisie de l’affaire.
+.2 Si le client doit faire option lors de la comparution visant à fixer la date, infor-
+mez-le des termes appropriés à employer.
+.3 Assistez à la comparution avec le client ou faites-vous représenter par un avocat.
+.4 Vérifiez avec le client la possibilité qu’il vous désigne pour le représenter 
+comme le Code criminel le permet à l’article 650.01(1).
+.5 Produisez au dossier le cas échéant une désignation dûment signée.
+2.8 Informez le client de la date fixée pour l’enquête préliminaire ou le 
+procès, demandez-lui de la noter et informez-le des conséquences d’un 
+défaut de sa part de se présenter, si une ordonnance du tribunal lui 
+ordonne d’être présent.
+2.9 Vérifiez avec le client et la poursuite la possibilité de procéder à  
+l’enquête préliminaire sans la présence du client.
+2.10 Confirmez par écrit au client la date de l’enquête préliminaire ou celle 
+du procès.
+3. L’ENQUÊTE POUR MISE EN LIBERTÉ
+(Voir la liste de contrôle PROCÉDURE DE MISE EN LIBERTÉ PROVISOIRE 
+PAR VOIE JUDICIAIRE. Notez que l’enquête pour mise en liberté a lieu 
+devant UN JUGE DE PAIX. En ce qui concerne les infractions prévues à 
+l’article 469 du Code Criminel,  l’enquête a lieu devant UN JUGE DE LA 
+COUR SUPÉRIEURE.)
+4. LA COMMUNICATION DE LA PREUVE TRANSMISE LORS  
+D’UNE DES ÉTAPES OU LORS D’UNE ÉTAPE DISTINCTE « PRO FORMA »
+4.1 Recueillez des informations, si c’est possible, particulièrement :
+.1 Une copie de la dénonciation, auprès du greffe si elle n’est pas déjà en votre 
+possession.
+
+--- [barreau_procedure-penale.pdf p.8] ---
+page 8 de 16
+.2 La communication de la preuve de la Poursuite, y compris : 
+a. Les circonstances entourant l’infraction, selon la Poursuite, et le nom des  
+témoins.
+b. Le casier judiciaire
+c. Les déclarations extrajudiciaires faites par le client.
+d. Les dépositions faites par toute autre personne, y compris les complices ou 
+les témoins de la police; obtenez le nom et l’adresse de tous les témoins, y 
+compris ceux que la Poursuite n’a pas l’intention d’appeler.
+.3 Dans le cas d’un mandat de perquisition (article 487 du Code criminel) ou d’un 
+mandat autorisant le prélèvement d’un échantillon d’une substance corporelle 
+(article. 487.04 du Code criminel), obtenez :
+a. Une copie du mandat.
+b. Une copie de la dénonciation à l’origine du mandat (soit de la Poursuite, soit 
+par requête devant le juge de paix ou à un juge de la Cour provinciale si une 
+ordonnance interdisant l’accès aux renseignements a été rendue).
+.4 Dans le cas d’interception d’une communication privée, obtenez la demande 
+d’autorisation et la déclaration sous serment « l’affidavit ».
+4.2 Analysez soigneusement les informations en vérifiant si elles proviennent 
+de déclarations faites sous serment. Vérifiez les prescriptions applicables 
+(déclaration de culpabilité par procédure sommaire : 6 mois; par voie de 
+mise en accusation : aucune prescription; infraction à une loi provinciale 
+et à un règlement : 12 mois, sauf exceptions prévues dans certaines lois.).
+4.3 Analysez les informations recueillies; vérifiez s’il y a des irrégularités 
+dans le dossier de la Poursuite (par exemple, une dénonciation  
+entachée d’un vice).
+4.4 Informez la Cour de votre choix si vous avez retardé de l’annoncer.
+5. L’ENQUÊTE PRÉLIMINAIRE
+Le Code criminel a limité la preuve à être présentée lors de cette étape.  
+Toutefois le client conserve le droit de demander la tenue d’une telle 
+enquête et que soit présentée une preuve sur tous les aspects susceptibles 
+d’un litige.
+5.1 Préparez-vous à l’enquête préliminaire :
+.1 Obtenez vos honoraires pour l’enquête préliminaire et déposez-les dans votre 
+compte en fidéicommis.
+.2 Si une audience est ordonnée avant l’enquête préliminaire conformément à 
+l’article 536.4(1) du Code criminel, préparez-vous en conséquence et soyez 
+présent.
+.3 Vérifiez s’il est opportun que vous vous rendiez sur les lieux où la présumée 
+infraction a été commise.
+.4 Lisez la jurisprudence et les articles pertinents du Code criminel, la dénoncia-
+tion, la preuve communiquée, etc., et vérifiez les éléments suivants :
+a. si la dénonciation comporte des irrégularités qui justifient d’en demander le 
+rejet;
+b. l’opportunité de faire une requête pour division ou pour réunion des chefs 
+d’accusation;
+
+--- [barreau_procedure-penale.pdf p.9] ---
+page 9 de 16
+c. toute défense, tout argument fondé sur la Charte ou toute question de preuve 
+qui ressortent de la communication de la preuve. (Note : bien que le juge qui 
+préside l’enquête préliminaire n’ait pas compétence pour décider des ques-
+tions relevant de l’article 24 de la Charte ou de statuer sur la constitution-
+nalité d’une loi en vertu de l’article 52 de la Loi constitutionnelle de 1982, 
+l’enquête préliminaire est extrêmement utile pour préparer la présentation 
+des requêtes fondées sur la Charte qui se plaident lors du procès.)
+.5 Obtenez tout document que vous croyez utile, y compris une copie de tous les 
+documents dont la Poursuite se servira et une copie de tout document pertinent 
+en possession de la Poursuite ou de la police.
+.6 Interrogez le client au sujet des témoins et d’autres détails concernant l’infraction.
+a. Rencontrez les témoins et obtenez leur déposition. Vérifiez l’opportunité de 
+demander à une autre personne de les rencontrer. Demandez que les témoins 
+signent leur déposition, si possible.  Si un témoin interviewé souhaite revenir 
+sur celle-ci ou une preuve précédemment donnée, considérez de le référer à 
+un conseiller indépendant pour recevoir un avis juridique relatif aux consé-
+quences possibles. Interrogez-vous aussi sur la possibilité d’informer la Pour-
+suite d’une défense d’alibi.
+.7 Faites des recherches sur les défenses possibles et sur les questions relatives 
+à la preuve et décidez du moment approprié pour soulever ces questions, soit 
+à l’enquête préliminaire, soit lors du procès.
+.8 Si vous projetez faire remettre l’audition, assurez-vous de respecter les Règles 
+de cour.
+.9 Si le client désire plaider coupable :
+a. Informez-le d’un acquittement possible.
+b. Informez-le de la peine possible s’il plaide coupable ou s’il est reconnu  
+coupable.
+c. Vérifiez s’il s’agit d’une infraction comportant une peine minimale.
+d. Avisez le client, si l’infraction est une infraction désignée décrite à l’article 
+487.04 du Code criminel, qu’il peut faire l’objet d’une ordonnance obligatoire 
+ou discrétionnaire d’un tribunal et qu’il peut être obligé de fournir un échan-
+tillon de substance corporelle dans le but de conserver son profil génétique 
+dans la banque nationale existante.
+e. Avisez le client, si l’infraction est une infraction désignée, qu’il peut faire 
+l’objet d’une ordonnance l’obligeant à se conformer aux prescriptions de la 
+Loi sur l’enregistrement de renseignements sur les délinquants sexuels.
+f. Avisez le client s’il s’agit d’une infraction comportant une ordonnance obliga-
+toire ou facultative d’interdiction de possession d’armes à feu, munitions ou 
+substances explosives; si c’est le cas, vérifiez l’opportunité de demander une 
+ordonnance afin d’obtenir la levée de l’interdiction en vertu de l’article 113 
+du Code criminel.).
+g. Assurez-vous que le client comprend et veut plaider coupable, selon les exi-
+gences de l’article 606 (1.1) du Code criminel et en outre, est prêt à répondre 
+aux questions que le tribunal peut lui poser avant d’accepter son plaidoyer.
+h. Obtenez une déclaration du client selon laquelle il a commis l’infraction avec 
+l’intention criminelle requise par la loi. Confirmez cette déclaration par écrit 
+et demandez au client de la signer. 
+i. Communiquez avec la Poursuite pour discuter du plaidoyer et de la peine 
+
+--- [barreau_procedure-penale.pdf p.10] ---
+page 10 de 16
+j. Discutez de la position de la Poursuite avec le client, tout en l’avisant que la 
+cour ne sera pas nécessairement liée par quelque entente à ce sujet.
+i. S’il désire plaider coupable, préparez l’audience sur la détermination de la 
+peine (voir la liste de contrôle détermination de la peine). 
+ii. S’il ne désire pas plaider coupable, continuez à préparer l’enquête prélimi-
+naire.
+.10 Préparez le client, informez-le des prochaines démarches et donnez-lui des 
+instructions sur ce qu’il doit faire ou dire (par exemple, sur la façon de faire 
+option, article 536 (2) du Code criminel). 
+.11 Préparez votre « cahier de procès » de l’enquête préliminaire :
+a. Prenez note des éléments essentiels de l’infraction que la Poursuite doit 
+prouver.
+b. Préparez votre contre-interrogatoire en prenant en considération :
+i. Les témoins de la Poursuite.
+ii. Le contenu du témoignage de chaque témoin (c’est-à-dire la preuve).
+iii. Les faiblesses de chaque témoin.
+iv. Le témoignage que chacun des témoins peut rendre en faveur du client.
+v. La formulation des questions afin de faire valoir la preuve favorable au 
+client et de minimiser les conséquences des éléments de preuve qui lui 
+nuisent.
+vi. Les questions que vous souhaitez poser et dont les réponses peuvent être 
+dommageables à votre client et s’il y a lieu de les poser afin de déterminer 
+l’opportunité d’aller à procès.
+c. Les arguments fondés sur la Charte ou les questions de preuve (vérifiez si ces 
+arguments doivent être présentés à l’enquête préliminaire ou lors du procès).
+d. Vérifiez si la Poursuite recherchera la détention du client en rapport avec 
+d’autres chefs d’accusation que ceux indiqués dans la dénonciation.
+e. Les arguments concernant la détention.
+f. Vérifiez l’opportunité de demander une ordonnance de non-publication de 
+la preuve (article 539(1) du Code criminel), de huis clos (article 537 (1) h du 
+Code criminel).
+g. Dans le cas où votre client est détenu, vérifiez s’il y a lieu de présenter une 
+demande de remise en liberté à l’issue de l’enquête préliminaire et préparer 
+celle-ci préalablement.
+5.2 Enquête préliminaire :
+.1 Lorsque la cause est appelée, présentez-vous et indiquez à la cour si le client 
+est présent; faites part, le cas échéant, de votre intention de présenter une 
+requête préliminaire (par exemple, dans le cas d’une dénonciation entachée 
+d’irrégularités) ou annoncez que vous êtes prêt pour l’audition des témoins 
+de l’enquête préliminaire.
+.2 Si la Poursuite ne présente pas de preuve ou retire la dénonciation :
+a. Expliquez la situation au client.
+b. Faites-lui parvenir un compte-rendu accompagné de votre note d’honoraires.
+c. Fermez le dossier.
+.3 Si vous faites des admissions, indiquez que celles-ci sont aux fins de l’enquête 
+préliminaire seulement.
+
+--- [barreau_procedure-penale.pdf p.11] ---
+page 11 de 16
+.4 Pendant le témoignage des témoins de la Poursuite :
+a. Prenez des notes.
+b. Soyez attentif afin de relever toute preuve non pertinente, tout ouï-dire ou 
+toute preuve qui peut faire l’objet d’une objection.
+c. Décidez s‘il y a lieu de contre-interroger.
+d. Demandez la tenue d’un voir-dire sur toute preuve (déclaration) qui peut être 
+exclue à l’enquête préliminaire, avant que la preuve (déclaration) ne soit pré-
+sentée par la Poursuite.  
+.5 Dans le cas d’un voir-dire :
+a. Décidez s’il y a lieu d’y renoncer.
+b. Décidez s’il y a lieu de contre-interroger.
+c. Décidez s’il y a lieu de présenter une preuve.
+d. Décidez s’il y a lieu d’argumenter.
+e. Si la déclaration extrajudiciaire est jugée admissible, décidez si vous devez 
+consentir à ce que la preuve de voir-dire fasse partie de l’enquête prélimi-
+naire, si elle est pertinente.
+.6 Décidez si le client doit parler si le juge lui pose des questions (par exemple 
+sur une défense d’alibi) ou si vous devez plutôt informer la cour (après en 
+avoir avisé la Poursuite). 
+.7 Décidez s’il y a lieu de discuter le renvoi à procès.
+.8 Décidez s’il y a lieu d’opter pour un nouveau mode de procès (article 561du 
+Code criminel)
+.9 Faites fixer la date.
+.10 Si le client est libéré :
+a. Expliquez-lui la situation.
+b. Faites-lui parvenir un compte-rendu accompagné de votre note d’honoraires.
+c. Fermez le dossier.
+.11 Si le client est détenu ou en liberté :
+a. Présentez, s’il y a lieu, la demande de révision de l’ordonnance de détention.
+b. Obtenez la date et l’endroit de la prochaine comparution à la cour.
+c. Notez la date dans votre agenda.
+d. Fournissez des explications au client et veillez à ce qu’il prenne note de la date 
+et de l’endroit de la prochaine comparution.
+5.3 Suivi :
+.1 Demandez la transcription de la preuve si vous le jugez utile.
+.2 Date du procès :
+a. Notez-la dans votre agenda.
+b. Informez le client et veillez à ce qu’il prenne note de la date et de l’endroit.
+c. Confirmez la date du procès par écrit au client et indiquez-lui à quel moment 
+vous souhaitez qu’il communique de nouveau avec vous.
+d. Prévoyez dans votre agenda la sortie du dossier de 30 à 45 jours avant le pro-
+cès afin d’être en mesure de vous retirer du dossier (si vous n’avez pas reçu 
+l’avance demandée ou si vous n’avez pas obtenu d’instructions du client) ou 
+pour donner l’avis requis dans le cas où une question constitutionnelle sera 
+débattue.
+
+--- [barreau_procedure-penale.pdf p.12] ---
+page 12 de 16
+6. LA PRÉPARATION DU PROCÈS
+6.1 Étudiez la transcription, prenez note des éléments de preuve importants 
+et demandez au client de passer la transcription en revue.
+6.2 Interrogez le client à la lumière de la preuve révélée lors de l’enquête 
+préliminaire.
+6.3 Si le client désire plaider coupable :
+.1 Informez-le d’un acquittement possible.
+.2 Informez-le de la peine possible s’il plaide coupable ou s’il est reconnu coupable 
+et vérifiez s’il y a une peine minimale.
+.3 Avisez le client, si l’infraction en est une désignée, qu’à la suite de sa déclaration 
+de culpabilité, le tribunal peut rendre une ordonnance obligatoire ou facultative 
+autorisant le prélèvement pour analyse génétique d’échantillons de substances 
+corporelles afin de les inscrire dans la banque nationale de données génétiques.
+.4 Avisez le client, si l’infraction en est une désignée, qu’il peut alors arriver 
+qu’on lui ordonne de se conformer aux exigences la Loi sur l’enregistrement 
+de renseignements sur les délinquants sexuels (en vertu des articles 109 et 
+110 du Code criminel.)
+.5 Obtenez une déclaration du client selon laquelle il comprend qu’en plaidant 
+coupable il le fait volontairement, qu’il admet les éléments essentiels de l’infrac-
+tion en cause ainsi que la nature et les conséquences de sa décision et que, s’il 
+y a une suggestion commune pour la peine, le tribunal n’est pas lié. Faites-lui 
+signer cette déclaration (en vertu de l’article 606 (1.1) du Code criminel).
+.6 Communiquez avec la Poursuite pour discuter du plaidoyer et de la peine 
+.7 Discutez de la position de la Poursuite avec le client (tout en l’avisant que la 
+cour ne sera pas nécessairement liée par quelque entente à ce sujet).
+.8 Déterminez le désir du client :
+a. S’il désire plaider coupable, préparez l’audition sur la détermination de la peine 
+(Voir Section 3.  DÉTERMINATION DE LA PEINE)
+Vérifiez s’il y a lieu de faire devancer l’audition pour inscrire le plaidoyer de 
+culpabilité.
+b. S’il désire maintenir son plaidoyer de non-culpabilité, commencez à préparer 
+le procès.
+6.4 Obtenez une copie de l’acte d’accusation et vérifiez-en la validité.
+6.5 Recherches :
+.1 Vérifiez les questions en litige et les défenses possibles (à la lumière de la 
+preuve révélée lors de l’enquête préliminaire).
+.2 Vérifiez la possibilité d’invoquer un moyen de défense spécial.
+.3 Recherches factuelles (par exemple, visite des lieux, examen par un expert).
+6.6 Témoins :
+.1 Rencontrez-les et obtenez une copie de leur déposition (voir l’article 5.1.6).
+a. Vérifiez qui sont les témoins que la Poursuite prévoit assigner.
+.2 Décidez des témoins que vous ferez entendre.
+.3 Préparez vos témoins au procès et déterminez leur ordre de présentation.
+
+--- [barreau_procedure-penale.pdf p.13] ---
+page 13 de 16
+.4 Citations à comparaître (Subpoenas) :
+a. Préparez-les et faites-les signer par la personne compétente (par exemple : un 
+juge de paix, un juge de cour provinciale, etc.
+b. Remettez-les à un huissier ou, le cas échéant, à un agent de la paix ou à une 
+personne autorisée par la loi  à les signifier.
+c. Obtenez un rapport de signification, sinon une déclaration sous serment (affi-
+davit) indiquant l’impossibilité de signifier.
+6.7 Préparez le plan du procès.
+6.8 Décidez s’il y a lieu de demander une remise et, dans ce cas :
+.1 Discutez-en avec le client.
+.2 Avisez la Poursuite et vérifiez si elle y consent.
+.3 Faites fixer une date pour la demande de remise.
+.4 Rendez-vous à la cour avec le client et expliquez les motifs de la demande de 
+remise.
+.5 Si la demande de remise est accueillie :
+a. Faites fixer la date et notez-la dans votre agenda.
+b. Donnez les explications au client et veillez à ce qu’il prenne note de la date.
+c. Avisez les témoins.
+6.9 Préparez le cahier de procès, y compris :
+.1 Notez les éléments essentiels de l’infraction que la Poursuite doit prouver.
+.2 Évaluez l’opportunité de faire témoigner le client.  Prenez en considération 
+votre devoir à titre d’officier de la cour. (À cet effet, lire l’article 4.02.01 du 
+Code de déontologie des avocats.)
+.3 L’exposé introductif.
+.4 L’interrogatoire en chef.
+.5 Le contre-interrogatoire, en prenant en considération :
+a. Les témoins que la Poursuite fera entendre.
+b. Le contenu du témoignage de chacun des témoins (c’est-à-dire la preuve).
+c. Les faiblesses de chaque témoin.
+d. Le témoignage que chacun des témoins peut rendre en faveur du client.
+e. Quels sont les buts recherchés par le contre-interrogatoire :
+i. Déterminez l’opportunité de procéder au contre-interrogatoire.
+ii. Préparez un plan de contre-interrogatoire
+f. Si le client est accusé des infractions prévues aux articles 253 (a), 253 (b) ou 
+254 (5) du Code criminel
+(Voir Section 2  INTERROGATOIRE DES TÉMOINS DANS UN PROCÈS DE 
+CONDUITE D’UN VÉHICULE À MOTEUR AVEC LA CAPACITÉ AFFAIBLIE PAR 
+L’EFFET DE L’ALCOOL OU D’UNE DROGUE).
+.6 Les arguments sur la preuve; les arguments sur l’admissibilité des déclarations 
+extrajudiciaires lors du  voir-dire.
+.7 Obtenez une copie de tout rapport d’expert préparé à votre demande ou pré-
+parez un sommaire de l’opinion de l’expert pour divulgation à la Poursuite 
+conformément à l’article 657.3 (3) c du Code criminel.
+.8 Les arguments fondés sur la Charte.
+
+--- [barreau_procedure-penale.pdf p.14] ---
+page 14 de 16
+.9 La plaidoirie.
+6.10 Préparez les arguments sur la détermination de la peine et la nécessité 
+de demander un ajournement pour une audition sur la peine.
+(Voir Section 3.  DÉTERMINATION DE LA PEINE)
+6.11 Préparez le client pour le procès sans oublier de le conseiller sur la 
+façon de se vêtir, de se comporter, de témoigner tant en interrogatoire 
+principal qu’en contre-interrogatoire; informez-le de la peine possible 
+et demandez-lui ses préférences au regard de celle-ci.
+6.12 Si une question de responsabilité professionnelle surgit, communiquez 
+avec le Barreau du Québec. 
+6.13 Si vous envisagez de cesser d’occuper pour le client, veillez à ce que ce 
+soit pour un motif juste et raisonnable et faites-le le plus tôt possible 
+(article 3.03.04 du Code de déontologie des avocats).  Faites-le égale-
+ment en conformité avec les règles de pratique de la cour concernée.
+6.14 Vérifiez la nécessité de donner un avis au procureur général du Québec 
+en matière d’inconstitutionnalité d’une loi (article 95 du Code de  
+procédure civile et article 36 du Code de procédure pénale).
+7. LE PROCÈS 
+7.01 Un juge devant qui des procédures doivent se dérouler, ou un juge 
+coordonnateur peut, à la demande de l’accusé notamment, ordonner 
+qu’une conférence préparatoire ou de gestion soit tenue selon l’article 
+625.1 du Code criminel.
+La conférence préparatoire est plus pointue et se fait généralement selon un 
+formulaire qui révise toutes les questions de faits et de droit.
+.1 Vous devez y participer et vous préparer en conséquence.
+7.02 Un juge de la Cour du Québec chambre criminelle et pénale peut tenir 
+une conférence de facilitation pénale afin de faciliter l’entente entre les 
+parties, par exemple, en ce qui a trait aux admissions ou aux plaidoyers 
+de culpabilité, la recherche d’une solution judiciaire qui convient le 
+mieux aux parties.
+.1 Contacter le représentant de la Poursuite pour explorer cette possibilité afin 
+de l’utiliser, s’il y a lieu.
+.2 
+ 
+S’il y a entente, remplissez le formulaire intitulé « Demande conjointe de 
+conférence de facilitation en matière criminelle et pénale ».
+.3 Préparez-vous à la séance confidentielle qui se déroulera dans une salle de 
+conférence hors la présence de l’accusé et des témoins.
+7.03 Concernant les procès d’une durée de 2 jours et plus, la Cour du Québec 
+chambre criminelle et pénale du district de Montréal propose aux parties 
+impliquées dans ceux-ci de remplir un formulaire conjoint de déclaration 
+préalable à la fixation de la date du procès, afin d’évaluer de façon plus 
+juste la durée du procès. 
+.1 Prenez-en connaissance et préparez-vous à répondre aux questions qui s’y 
+trouvent.
+.2 Remplissez le formulaire conjointement avec le procureur de la Poursuite avant 
+de le soumettre au juge qui déterminera la durée et la date du procès.
+
+--- [barreau_procedure-penale.pdf p.15] ---
+page 15 de 16
+7.1 Lorsque la cause est appelée, présentez-vous, confirmez la présence  
+du client et déclarez-vous prêt à procéder. Vérifiez l’application  
+des nouveaux articles 650(1) (1.1) (1.2) du Code criminel relatifs à  
+la présence à distance de l’accusé.
+7.2 Présentez le cas échéant les requêtes préliminaires :
+.1 Une requête visant l’arrêt des procédures en vertu de l’article 11 (a) ou de 
+l’article 11 (b) de la Charte.
+.2 Une requête visant à obtenir l’exclusion de la preuve en vertu de la Charte.
+.3 Une requête pour procès séparé.
+7.3 Si la Poursuite demande une remise :
+.1 Décidez si vous devez vous y opposer, selon les instructions du client.
+.2 Si la remise est accordée :
+a. Faites fixer la date et notez-la dans votre agenda.
+b. Donnez les explications au client et veillez à ce qu’il prenne note de la date. 
+Confirmez la date par écrit au client.
+7.4 Expliquez au client comment se comporter lors de la lecture de l’acte 
+d’accusation.
+7.5 Si la Poursuite ne présente pas de preuve :
+.1 Présentez une requête en non-lieu pour obtenir l’acquittement.
+.2 Donnez des explications au client.
+.3 Faites-lui parvenir un compte-rendu accompagné de votre note d’honoraires.
+.4 Fermez le dossier.
+7.6 Pendant le témoignage des témoins de la Poursuite :
+.1 Prenez des notes.
+.2 Soyez attentif afin de relever toute preuve non pertinente, tout ouïe-dire ou 
+toute preuve qui peut faire l’objet d’une objection (par exemple, une preuve 
+obtenue en violation de la Charte).
+.3 Décidez s’il y a lieu de maintenir votre décision préalable de contre-interroger.
+7.7 Dans le cas d’un voir-dire :
+.1 Décidez s’il y a lieu d’y renoncer.
+.2 Décidez s’il y a lieu de contre-interroger; limitez-vous à l’aspect volontaire de 
+la déclaration extrajudiciaire et aux circonstances qui l’ont entourée.
+.3 Décidez de l’opportunité de présenter une preuve.
+.4 Décidez s’il y a lieu d’argumenter.
+.5 Si la déclaration extrajudiciaire est jugée admissible, décidez si vous devez 
+consentir à ce que la preuve de voir-dire fasse partie du procès, si elle est 
+pertinente.
+7.8 Lorsque la Poursuite déclare sa preuve close, décidez si vous devez  
+présenter une requête en non-lieu; dans ce cas :
+.1 Présentez la requête.
+.2 Si le client est acquitté :
+a. Donnez-lui les explications nécessaires.
+b. Faites-lui parvenir un compte-rendu accompagné de votre note d’honoraires.
+c. Fermez le dossier.
+
+--- [barreau_procedure-penale.pdf p.16] ---
+page 16 de 16
+7.9 Décidez s’il y a lieu que vous présentiez une preuve :
+.1 Si vous ne présentez pas de preuve, demandez l’acquittement du client pour 
+insuffisance de preuve.
+.2 Si vous présentez une preuve :
+a. Décidez de l’opportunité de faire un exposé introductif.
+b. Appelez vos témoins.
+c. Vérifiez s’il y a lieu d’obtenir des instructions écrites du client sur son désir de 
+témoigner ou non à son procès.
+d. Vérifiez s’il y a lieu de réinterroger un témoin à la suite du contre-interrogatoire 
+de la Poursuite.
+7.10 Si la Poursuite désire présenter une contre-preuve :
+.1 Décidez si vous devez vous y opposer.
+.2 Si la contre-preuve est autorisée, décidez s’il y a lieu que vous contre-interrogiez.
+7.11 Faites votre plaidoirie.
+7.12 Si le client est acquitté :
+.1 Donnez-lui les explications nécessaires.
+.2 Faites-lui parvenir un compte-rendu accompagné de votre note d’honoraires.
+.3 Fermez le dossier.
+7.13 Si le client est reconnu coupable :
+(Voir section 3.  DÉTERMINATION DE LA PEINE)
+8. DÉTERMINATION DE LA PEINE
+(Voir section 3.  DÉTERMINATION DE LA PEINE)
+9. LE SUIVI
+9.1 Discutez avec le client s’il y a lieu d’interjeter appel.
+9.2 Avisez le client du délai d’appel; notez la date limite dans votre agenda.
+9.3 Faites-lui parvenir un compte-rendu accompagné de votre note  
+d’honoraires.
+9.4 Respectez tout engagement pris de retourner à la Poursuite  
+les éléments de preuve spécifiés.

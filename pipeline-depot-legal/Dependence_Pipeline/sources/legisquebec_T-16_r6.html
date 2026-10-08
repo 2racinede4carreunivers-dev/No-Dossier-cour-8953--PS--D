@@ -1,0 +1,467 @@
+<!doctype html>
+<html lang="fr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; CHARSET=utf-8"></meta>
+		<meta name="dc.title" content=" - Régime de prestations supplémentaires des juges auxquels s’applique le régime de retraite prévu à la Partie V.1 de la Loi sur les tribunaux judiciaires">
+		<meta name="dc.creator" content="">
+		<meta name="dc.language" scheme="ISO639-2"	content="fre">
+		<meta name="dc.subject" content="">
+		<meta name="Keywords" content="">
+		<meta name="dc.Publisher" content="">
+		<meta name="dc.Contributor" content="Irosoft, architecture de gestion de l'information législative - legal information management system">
+		<meta name="dc.Description" content="">
+		<meta name="Description" content="">
+		<meta name="Title" content=" - Régime de prestations supplémentaires des juges auxquels s’applique le régime de retraite prévu à la Partie V.1 de la Loi sur les tribunaux judiciaires">
+		<meta name="dc.date.created" content="2025-11-03">
+		<meta name="dc.date.modified" content="2025-11-03">
+
+		<title>Légis Québec</title>
+		
+		<link rel="shortcut icon" href="/img/favicon.ico">
+		<link rel="stylesheet" href="/bootstrap/5.1.3/css/bootstrap.min.css">
+		<link rel='stylesheet' href='/CSS/jquery.loadmask.css?v=2.1'>
+		<link rel='stylesheet' href='/CSS/cyberlex.jquery.loadmask.css?v=2.1'>
+		
+		
+<link rel="stylesheet" type="text/css" href="/CSS/FragmentView.css?v=2.2"></link>
+
+		<link rel="stylesheet" href="/css/publishing-bootstrap.css?v=2.1">
+		<link rel="stylesheet" href="/css/publishing.css?v=2.1">
+		<link rel="stylesheet" href="/CSS/cyberlex-bootstrap.min.css?v=2.1">
+		<link rel="stylesheet" href="/CSS/cyberlex.css?v=2.1">
+		<link rel="stylesheet" href="/css/font-awesome.min.css?v=2.1">
+		<link rel="stylesheet" href="/CSS/core.css?v=2.1">
+		<link rel="stylesheet" href="/CSS/client.css?v=2.1">
+		<link rel="stylesheet" href="/css/publications-quebec.css?v=2.1">
+		<link rel="stylesheet" href="/css/eoq.css?v=2.1">
+
+		<script type="text/javascript" src="/jquery-ui/1.13.0/external/jquery/jquery.js?v=2.1"></script>
+		<script type="text/javascript" src="/jquery-ui/1.13.0/jquery-ui.min.js?v=2.1"></script>
+		<script type="text/javascript" src="/jquery/3.6.0/jquery.min.js?v=2.1"></script>
+		<script type="text/javascript" src="/DOMPurify/dist/purify.min.js?v=2.1"></script>
+	</head>
+
+	<body>
+		<div id="wrap">
+			<div class="main-header">
+				<div class="main-header-content">
+					<a class="logo-pub-quebec" href="https://www.quebec.ca/" target="_blank"></a>
+					<div class="mtess">
+						<a href="https://boutique.publicationsduquebec.gouv.qc.ca/" target="_blank">
+							<div class="mtessTitle">Les Publications du Québec</div>
+							<div class="mtessSubTitle">Ministère de l'Emploi et de la Solidarité sociale</div>
+						</a>
+					</div>
+					<div class="end-header">
+						<a href="/fr/">Accueil</a>
+						<a href="/fr/contenu/FAQ" >FAQ</a>
+						<a href="/fr/contenu/joindre" >Nous joindre</a>
+						<a id="langSwitcher" class="d-none" href=""></a>
+					</div>
+				</div>
+			</div>
+			<div class="page-body">
+				<!-- Header -->
+				<nav class="navbar navbar-light">
+					<div class="container-fluid colorTheme">
+						<div class="navbar-header">
+							<div class="row">
+								<div class="col-sm-3">
+									<div class="input-group" class="pt-2">
+										<input type="text" class="form-control" data-bs-placement="top" data-bs-toggle="tooltip" placeholder="Recherche" id="quickSearchText" title="Rechercher dans lois et règlements codifiés">
+										<span class="input-group-btn">
+											<button class="btn btn-primary" type="button" id="goResult" data-bs-placement="top" data-bs-toggle="tooltip" title="Recherche">
+												<span class="fa fa-search" aria-hidden="true"></span>
+											</button>
+										</span>
+									</div>
+									<div class="py-2"><a href="/fr/recherche?t=a">Recherche avancée</a></div>
+								</div><div class="col-sm-9 d-flex justify-content-between">
+										<a class="navbar-brand logo-fr logo" title="Accueil" href="/fr/"></a>
+								</div>
+							</div>
+						</div>
+					</div><!-- /.container-fluid -->
+				</nav>
+				<!-- Content -->
+				<div class="row">
+					<div class="col-sm-3">
+						<div class="list-group">
+	<a href="#" class="list-group-item active disabled bg-primary bg-gradient text-white">Lois et règlements codifiés</a>
+	<a href="/fr/chapitres?corpus=lois" id="chapterStatutes" class="list-group-item">Lois codifiées</a>
+	<a href="/fr/chapitres?corpus=regs" id="chapterRegulations" class="list-group-item">Règlements codifiés</a>
+
+	<a href="#" class="list-group-item active disabled bg-primary bg-gradient text-white">Lois et règlements annuels</a>
+	<a href="/fr/annuels?filtre=lois" id="browseannual-statutes" class="list-group-item">Lois annuelles</a>
+	<a href="/fr/annuels?filtre=regs" id="browseannual-regs" class="list-group-item">Règlements annuels</a>
+	
+	<a href="#" class="list-group-item active disabled bg-primary bg-gradient text-white">Information complémentaire</a>
+	<a id="content-editoff" href="/fr/contenu/editeurofficiel" class="list-group-item">L’Éditeur officiel du Québec</a>
+	<a id="content-neuf" href="/fr/contenu/neuf" class="list-group-item">Quoi de neuf?</a>
+	<a id="content-noteinfo" href="/fr/contenu/noteinfo" class="list-group-item">Note d’information</a>
+	<a id="content-mjqpol" href="/fr/contenu/mjqpol" class="list-group-item">Politique du ministre de la Justice</a>
+	<a id="content-modlois" href="/fr/contenu/modlois" class="list-group-item">Lois : Modifications</a>
+	<a id="content-nevlois" href="/fr/contenu/nevlois" class="list-group-item">Lois : Dispositions non en vigueur</a>
+	<a id="content-eevlois" href="/fr/contenu/eevlois" class="list-group-item">Lois : Entrées en vigueur</a>
+	<a id="content-loisann" href="/fr/contenu/loisann" class="list-group-item">Lois annuelles : Versions PDF depuis 1996</a>
+	<a id="content-modreg" href="/fr/contenu/modreg" class="list-group-item">Règlements : Modifications</a>
+	<a id="content-regann" href="/fr/contenu/regann" class="list-group-item">Règlements annuels : Versions PDF depuis 1996</a>
+	<a id="content-decision" href="/fr/contenu/decision" class="list-group-item">Décisions des tribunaux</a>
+</div>
+						
+					</div>
+					<div id="contentDiv" class="col-sm-9">
+						<form id="form" onsubmit="" method="post" action="">
+	<div>
+		<input alt="Champ caché" name="command" type="hidden" value=""></input>
+		<input alt="Champ caché" name="shorttitle" type="hidden" value=""></input>
+		<input alt="Champ caché" name="marginalnotexml" type="hidden" value=""></input>
+		<input alt="Champ caché" name="heading" type="hidden" value=""></input>
+		<input alt="Champ caché" name="fragment" type="hidden" value=""></input>
+		<input alt="Champ caché" name="selfrag" type="hidden" value=""></input>
+		<input alt="Champ caché" name="search_type" type="hidden" value=""></input>
+		<input alt="Champ caché" name="title_search_type" type="hidden" value=""></input>		
+		<input alt="Champ caché" name="anchor" type="hidden" value=""></input>
+		<input alt="Champ caché" name="dateEEV" type="hidden" value=""></input>
+		<input alt="Champ caché" name="statuteyear" type="hidden" value=""></input>
+		<input alt="Champ caché" name="isPrinting" type="hidden" value="false"></input>
+		<input alt="Champ caché" name="from" type="hidden" value=""></input>
+		<input alt="Champ caché" name="output" type="hidden" value="printFull"></input>
+		<input alt="Champ caché" name="page" type="hidden" value="<<page>>"></input>
+		<input alt="Champ caché" name="length" type="hidden" value=""></input>
+		<input alt="Champ caché" name="instrumentnumber" type="hidden" value="t-16, r. 6"></input>
+		<input alt="Champ caché" name="instrumentnumbersearch" type="hidden" value=""></input>
+		<input alt="Champ caché" name="stemmed" type="hidden" value=""></input>
+		
+	</div>
+
+	<div class="card">
+		<div class="card-header p-3 bg-gradient docHeader">
+						<div class="d-flex justify-content-between align-items-center">
+							<h3 class="card-title me-1"><span class="fw-bold">t-16, r. 6</span> - Régime de prestations supplémentaires des juges auxquels s’applique le régime de retraite prévu à la Partie V.1 de la Loi sur les tribunaux judiciaires</h3>
+							<a id="contLangSwitcher" class="btn btn-outline-secondary bg-gradient " role="button" href="/fr/document/rc/t-16,%20r.%206?langCont=en">English</a>
+						</div>
+					</div>
+		
+		<div class="card-body">
+			<div class="d-flex justify-content-between align-items-center">
+				<div class="flex-row d-flex align-items-center">
+					<div class="pr-1">
+						<a href="/fr/tdm/rc/t-16,%20r.%206" class="btn btn-outline-secondary bg-gradient" role="button" title="Afficher la table des matières du document" alt="Afficher la table des matières du document" data-bs-toggle="tooltip" data-bs-placement="top">Table des matières <span class="fa fa-list smallLeftSpacer" aria-hidden="true"></span></a>
+					</div>
+					<div class="px-1">
+						
+				<div class="btn-group">
+					<button id="relatedLegislativeDocument" type="button" class="btn btn-outline-secondary bg-gradient dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false" data-bs-offset="-100, 0">
+						Loi habilitante <span class="badge rounded-pill bg-secondary smallLeftSpacer">1</span> <span class="caret smallLeftSpacer"></span>
+					</button>
+					<table class="table table-responsive table-hover dropdown-menu relatedDoc" role="menu">
+						<thead>
+							<tr>
+								<th width="15%">Alphanumérique</th>
+								<th width="85%">Titre</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+<td>T-16</td>
+<td>
+<a class="hand boldLink" href="/fr/document/lc/T-16">Loi sur les tribunaux judiciaires   
+</a>
+</td>
+</tr>
+						</tbody>
+					</table>
+					</div>
+					</div>
+					<div class="px-1">
+						<span id="occurrenceButton" class="d-none">
+							Occurrences<span class="badge rounded-pill bg-secondary ms-3" id="occurrenceCount">0</span>
+						</span>
+					</div>
+					<div class="px-1">
+						
+					</div>
+				</div>
+
+				<div class="flex-row d-flex align-items-center">
+					<div class="px-1">
+						<a id="renditionPdf" target="_blank" class="btn btn-outline-secondary bg-gradient d-none" 
+							role="button" title="Ouvrir la version PDF" alt="Ouvrir la version PDF"
+							data-bs-toggle="tooltip" data-bs-placement="top">
+							 <span class="fa pdf-icon" aria-hidden="true"></span>
+						</a>
+					</div>
+					<div class="px-1">
+						<a id="renditionEpub" target="_blank" class="btn btn-outline-secondary bg-gradient d-none" 
+							role="button" title="Télécharger la version ePUB" alt="Télécharger la version ePUB"
+							data-bs-toggle="tooltip" data-bs-placement="top">
+							 <span class="fa epub-icon" aria-hidden="true"></span>
+						</a>
+					</div>
+					<div class="px-1">
+						<a id="btnPrintPreview" class="btn btn-outline-secondary bg-gradient last"
+							role="button" title="Préparer le document pour l'impression"
+							alt="Préparer le document pour l'impression" data-bs-toggle="tooltip" data-bs-placement="top"><span id="printBtnIcon"
+								class="fa fa-print" aria-hidden="true"></span>
+						</a>
+					</div>
+				</div>
+				
+			</div>
+			<div class="row pt-2">
+				<div class="col">
+					<div class="card ">
+						
+							<div class="card-header official-heading bg-gradient ">
+								<div class="row">
+									<div class="col">
+										<div class="text-end"></div>
+										Texte complet 
+									</div>
+								
+									<div class="col">
+										<div class="text-end">
+											À jour au 1<sup>er</sup> mai 2026
+										</div>
+										<div class="text-end">
+											Ce document a valeur officielle.
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="card-body history current conso" id="mainContent-document">
+								<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE div
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<div xmlns="http://www.w3.org/1999/xhtml" xmlns:exsl="http://exslt.org/common" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:integrity="http://ref.irosoft.com/integrity/" integrity:Digest="B02A0321EADFC83CE376B2FF68106E4A"><meta title="Ministère de la Justice du Québec" author="Ministère de la Justice du Québec" subject="Ministère de la Justice du Québec" keywords="Ministère de la Justice du Québec" description="Ministère de la Justice du Québec" timestamp="n'est pas supporter" application="CYBERLEX" version="2.2.11.1" provider="Irosoft" source="xsl"/><div xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:law="http://ref.irosoft.com/LIMS/1.0/law" class="DefaultPageSequence BodyPageSequence"><div class="LegislativeDocument Global Style_Extra_Class"><div class="Identification"><div integrity:added="1" class="Identification-Id"><span integrity:added="1">chapitre </span><span integrity:order="1">T-16, r. 6</span></div><div integrity:order="2" class="titre-reglement-left titre-reglement-left customLongTitleWord">Régime de prestations supplémentaires des juges auxquels s’applique le régime de retraite prévu à la Partie V.1 de la Loi sur les tribunaux judiciaires</div><span class="Hidden" integrity:order="3">TRIBUNAUX JUDICIAIRES - RÉGIME DE PRESTATIONS SUPPLÉMENTAIRES DES JUGES</span><div><div class="enabling-identification"><div integrity:order="5" class="LongTitle-enabling">Loi sur les tribunaux judiciaires</div></div><div class="HistoricalNote-LongTitle"><span><span integrity:order="6">(chapitre T-16, a. 122 et 122.1)</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div><span class="Hidden" integrity:order="4">T-16</span></div><span class="Hidden"><span integrity:order="9" class="date-txt-statut Hidden">01</span><span integrity:added="1">1</span><span integrity:added="1" class="superscript_7point">er</span><span integrity:added="1"> </span><span integrity:order="8" class="Hidden">09</span><span integrity:added="1">septembre </span><span integrity:order="7" class="date-txt-statut">2012</span></span></div><div id="ga:l_i"><div class="Heading Heading" id="ga:l_i-h1"><span integrity:order="10" class="Label-group5"><span integrity:added="1">SECTION </span>I</span><div integrity:order="11" class="TitleText-group5 group5" id="ga:l_i-h1-t1-nb:1">CHAMP D’APPLICATION DU RÉGIME</div></div><div class="section" id="se:1"><div class="Subsection SubsectionFirst" id="se:1-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:1&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:1" data-code="se:1"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="12" class="Label-Section consolidationWhipeTextDecoration consolidationClean">1<span integrity:added="1">.</span></span></span></a> <span integrity:order="13" class="Subsection">Est établi à l’égard des juges auxquels s’applique le régime de retraite prévu à la Partie V.1 de la Loi sur les tribunaux judiciaires (chapitre T-16), un régime de prestations supplémentaires payables à compter de la date à laquelle des prestations deviennent payables en vertu du régime de retraite. </span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="14">D. 695-2001, a. 1</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div></div></div><div id="ga:l_ii"><div class="Heading Heading" id="ga:l_ii-h1"><span integrity:order="15" class="Label-group5"><span integrity:added="1">SECTION </span>II</span><div integrity:order="16" class="TitleText-group5 group5" id="ga:l_ii-h1-t1-nb:1">CALCUL ET PAIEMENT DES PRESTATIONS SUPPLÉMENTAIRES </div></div><div class="section" id="se:2"><div class="Subsection SubsectionFirst" id="se:2-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:2&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:2" data-code="se:2"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="17" class="Label-Section consolidationWhipeTextDecoration consolidationClean">2<span integrity:added="1">.</span></span></span></a> <span integrity:order="18" class="Subsection">La prestation annuelle supplémentaire payable au juge est égale au montant obtenu par le calcul suivant:</span><div class="Paragraph" id="se:2-ss:1-p1:1"><span integrity:order="19" class="Label-Z LabelBase">1<span integrity:added="1">° </span><span integrity:added="1" class="WidthFixForLabel"> </span></span><span integrity:order="20" class="Paragraph">en multipliant le traitement moyen par 3% par année de service servant au calcul de la pension payable en vertu du régime de retraite;</span></div><div class="Paragraph" id="se:2-ss:1-p1:2"><span integrity:order="21" class="Label-Z LabelBase">2<span integrity:added="1">° </span><span integrity:added="1" class="WidthFixForLabel"> </span></span><span integrity:order="22" class="Paragraph">en soustrayant le montant de la pension du montant obtenu au paragraphe 1.</span></div></div><div class="Subsection" id="se:2-ss:2"><span integrity:order="23" class="Subsection">Si la pension du juge est réduite en application du deuxième alinéa de l’article 224.10 ou de l’article 224.16 de la Loi, le montant obtenu au paragraphe 1 du premier alinéa est réduit de la même manière que la pension.</span></div><div class="Subsection" id="se:2-ss:3"><span integrity:order="24" class="Subsection">Le premier alinéa ne s’applique pas aux années de service créditées en application de l’article 224.30 de la Loi.</span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="25">D. 695-2001, a. 2</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="26">D. 865-2010, a. 1</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="27">L.Q. 2017, c. 30, a. 26</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div></div><div class="section" id="se:3"><div class="Subsection SubsectionFirst" id="se:3-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:3&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:3" data-code="se:3"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="28" class="Label-Section consolidationWhipeTextDecoration consolidationClean">3<span integrity:added="1">.</span></span></span></a> <span integrity:order="29" class="Subsection">Une prestation supplémentaire spéciale est versée au juge lorsque le service de la pension qui lui est accordée en vertu du régime de retraite a débuté après le 30 décembre de l’année au cours de laquelle il a atteint l’âge de 69 ans. Cette prestation est égale au montant obtenu en multipliant le traitement moyen par 3% par année de service comprise entre le 30 décembre de cette année et la première des dates suivantes:</span><div class="Paragraph" id="se:3-ss:1-p1:1"><span integrity:order="30" class="Label-Z LabelBase">1<span integrity:added="1">° </span><span integrity:added="1" class="WidthFixForLabel"> </span></span><span integrity:order="31" class="Paragraph">la date à laquelle sa pension devient payable en vertu du deuxième alinéa de l’article 224.11 de la Loi;</span></div><div class="Paragraph" id="se:3-ss:1-p1:2"><span integrity:order="32" class="Label-Z LabelBase">2<span integrity:added="1">° </span><span integrity:added="1" class="WidthFixForLabel"> </span></span><span integrity:order="33" class="Paragraph">la date de son 71<span integrity:order="34" class="superscript">e</span> anniversaire.</span></div></div><div class="Subsection" id="se:3-ss:2"><span integrity:order="35" class="Subsection">Si la pension est réduite en application de l’article 224.16 de la Loi, la prestation supplémentaire est réduite de la même manière que la pension.</span></div><div class="Subsection" id="se:3-ss:3"><span integrity:order="36" class="Subsection">Le premier alinéa ne s’applique pas aux années de service créditées en application de l’article 224.30 de la Loi.</span></div><div class="Subsection" id="se:3-ss:4"><span integrity:order="37" class="Subsection">Les années de services considérées aux fins du premier alinéa comprennent également, le cas échéant, celles ainsi cumulées au 31 mars 2024 pour le calcul d’une prestation supplémentaire spéciale en vertu du régime de prestations supplémentaires équivalent au présent régime en vigueur au sein de la Ville de Montréal à cette date.</span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="38">D. 695-2001, a. 3</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="39">D. 865-2010, a. 2</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="40">L.Q. 2017, c. 30, a. 26</span><span><span integrity:added="1">; </span></span></span><span><span><span class="Hidden" integrity:order="41">1737-2024</span><span integrity:added="1">D. 1737-2024</span><span integrity:added="1">, </span><span integrity:added="1">a. </span><span integrity:order="42">1</span><span integrity:order="43" class="Hidden">1</span></span><span integrity:added="1">.</span></span></div></div><div class="section" id="se:4"><div class="Subsection SubsectionFirst" id="se:4-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:4&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:4" data-code="se:4"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="44" class="Label-Section consolidationWhipeTextDecoration consolidationClean">4<span integrity:added="1">.</span></span></span></a> <span integrity:order="45" class="Subsection">Dans le cas où la pension accordée en vertu du régime de retraite devient payable conformément au paragraphe 3 de l’article 224.3 de la Loi, si le total du montant de cette pension et du montant des prestations supplémentaires accordées en vertu du présent régime est, avant que cette pension et ces prestations ne soient, le cas échéant, réduites conformément à l’article 224.16 de la Loi, inférieur à 55% du traitement moyen, le montant des prestations supplémentaires est augmenté de façon à ce que ce pourcentage soit atteint.</span></div><div class="Subsection" id="se:4-ss:2"><span integrity:order="46" class="Subsection">Le montant de cette augmentation est attribué à la dernière année de service du juge qui est considérée aux fins du présent régime. Si la pension est réduite en application de l’article 224.16 de la Loi, le nouveau montant des prestations supplémentaires est réduit de la même manière que la pension.</span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="47">D. 695-2001, a. 4</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="48">D. 865-2010, a. 3</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="49">L.Q. 2017, c. 30, a. 27</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div></div><div class="section" id="se:5"><div class="Subsection SubsectionFirst" id="se:5-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:5&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:5" data-code="se:5"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="50" class="Label-Section consolidationWhipeTextDecoration consolidationClean">5<span integrity:added="1">.</span></span></span></a> <span integrity:order="51" class="Subsection">Le total du montant des prestations supplémentaires accordées au juge en vertu du présent régime et du montant de la pension accordée en vertu du régime de retraite ne peut être supérieur à 65% de son traitement moyen avant que ces prestations et cette pension ne soient, le cas échéant, réduites conformément à l’article 224.16 de la Loi.</span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="52">D. 695-2001, a. 5</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="53">D. 865-2010, a. 4</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div></div><div class="section" id="se:6"><div class="Subsection SubsectionFirst" id="se:6-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:6&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:6" data-code="se:6"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="54" class="Label-Section consolidationWhipeTextDecoration consolidationClean">6<span integrity:added="1">.</span></span></span></a> <span integrity:order="55" class="Subsection">Pour l’application de la présente section, le traitement moyen est déterminé conformément à l’article 224.9 de la Loi.</span></div><div class="Subsection" id="se:6-ss:2"><span integrity:order="56" class="Subsection">Toutefois, dans le cas du juge visé à l’article 3, le traitement annuel de chaque année de service comprise dans la période déterminée par cet article doit être également pris en considération.</span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="57">D. 695-2001, a. 6</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="58">D. 865-2010, a. 5</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div></div><div class="section" id="se:7"><div class="Subsection SubsectionFirst" id="se:7-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:7&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:7" data-code="se:7"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="59" class="Label-Section consolidationWhipeTextDecoration consolidationClean">7<span integrity:added="1">.</span></span></span></a> <span class="Subsection"><span integrity:order="60" class="Repealed-Text">(Abrogé).</span></span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="61">D. 695-2001, a. 7</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="62">D. 865-2010, a. 6</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div></div><div class="section" id="se:8"><div class="Subsection SubsectionFirst" id="se:8-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:8&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:8" data-code="se:8"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="63" class="Label-Section consolidationWhipeTextDecoration consolidationClean">8<span integrity:added="1">.</span></span></span></a> <span integrity:order="64" class="Subsection">Les prestations supplémentaires du juge sont viagères et elles sont payables à compter de la date à laquelle sa pension devient payable en vertu du régime de retraite. </span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="65">D. 695-2001, a. 8</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div></div><div class="section" id="se:9"><div class="Subsection SubsectionFirst" id="se:9-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:9&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:9" data-code="se:9"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="66" class="Label-Section consolidationWhipeTextDecoration consolidationClean">9<span integrity:added="1">.</span></span></span></a> <span integrity:order="67" class="Subsection">Au décès du juge à la retraite, ses prestations continuent d’être versées à son conjoint ou, à défaut, à ses héritiers jusqu’au premier jour du mois suivant le décès. </span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="68">D. 695-2001, a. 9</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div></div></div><div id="ga:l_iii"><div class="Heading Heading" id="ga:l_iii-h1"><span integrity:order="69" class="Label-group5"><span integrity:added="1">SECTION </span>III</span><div integrity:order="70" class="TitleText-group5 group5" id="ga:l_iii-h1-t1-nb:1">COTISATIONS </div></div><div class="section" id="se:10"><div class="Subsection SubsectionFirst" id="se:10-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:10&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:10" data-code="se:10"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="71" class="Label-Section consolidationWhipeTextDecoration consolidationClean">10<span integrity:added="1">.</span></span></span></a> <span integrity:order="72" class="Subsection">Le juge doit verser au présent régime une cotisation égale à 9% de son traitement annuel, moins celle versée au régime de retraite. À compter de la date à laquelle le juge a accumulé 21,7 années de service au régime de retraite, il doit verser au présent régime une cotisation égale à 1% de son traitement annuel, moins celle versée au régime de retraite.</span></div><div class="Subsection" id="se:10-ss:2"><span integrity:order="73" class="Subsection">Le premier alinéa s’applique également, compte tenu des adaptations nécessaires, au juge qui continue d’exercer sa charge après le 30 décembre de l’année au cours de laquelle il a atteint l’âge de 69 ans si le service de sa pension n’a pas débuté.</span></div><div class="Subsection" id="se:10-ss:3"><span integrity:order="74" class="Subsection">Aux fins du présent article, le traitement annuel du juge est déterminé conformément à l’article 224.2 de la Loi.</span></div><div class="Subsection" id="se:10-ss:4"><span integrity:order="75" class="Subsection">Les dispositions de la Loi relatives au remboursement de cotisations à un juge, à son conjoint ou à ses héritiers s’appliquent aux cotisations versées en vertu du présent article.</span></div><div class="Subsection" id="se:10-ss:5"><span integrity:order="76" class="Subsection">Les cotisations versées en vertu du présent article le sont à un fonds prenant la forme d’une fiducie de convention de retraite.</span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="77">D. 695-2001, a. 10</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="78">D. 865-2010, a. 7</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="79">L.Q. 2015, c. 11, a. 2</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="80">L.Q. 2017, c. 30, a. 28</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="81">L.Q. 2023, c. 23, a. 59</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div></div></div><div id="ga:l_iv"><div class="Heading Heading" id="ga:l_iv-h1"><span integrity:order="82" class="Label-group5"><span integrity:added="1">SECTION </span>IV</span><div integrity:order="83" class="TitleText-group5 group5" id="ga:l_iv-h1-t1-nb:1">EXERCICE D’UNE CHARGE PAR UN JUGE À LA RETRAITE </div></div><div class="section" id="se:11"><div class="Subsection SubsectionFirst" id="se:11-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:11&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:11" data-code="se:11"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="84" class="Label-Section consolidationWhipeTextDecoration consolidationClean">11<span integrity:added="1">.</span></span></span></a> <span integrity:order="85" class="Subsection">Le juge à la retraite qui est autorisé par le gouvernement, en vertu de l’article 93 de la Loi, à exercer des fonctions judiciaires continue de recevoir ses prestations supplémentaires. Il ne peut cependant acquérir aucun droit à un montant supplémentaire de prestation.</span></div><div class="Subsection" id="se:11-ss:2"><span integrity:order="86" class="Subsection">Le juge à la retraite qui reçoit un traitement pour l’exercice de quelque autre charge sous le gouvernement du Québec ou, dans le cas d’un juge d’une cour municipale, de quelque autre charge au sein de la municipalité, continue de recevoir ses prestations supplémentaires et son traitement est réduit conformément à la deuxième phrase du deuxième alinéa de l’article 224.25 de la Loi.</span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="87">D. 695-2001, a. 11</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="88">D. 865-2010, a. 8</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div></div></div><div id="ga:l_v"><div class="Heading Heading" id="ga:l_v-h1"><span integrity:order="89" class="Label-group5"><span integrity:added="1">SECTION </span>V</span><div integrity:order="90" class="TitleText-group5 group5" id="ga:l_v-h1-t1-nb:1">CALCUL ET PAIEMENT DES PRESTATIONS SUPPLÉMENTAIRES DU CONJOINT ET DES ENFANTS </div></div><div class="section" id="se:12"><div class="Subsection SubsectionFirst" id="se:12-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:12&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:12" data-code="se:12"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="91" class="Label-Section consolidationWhipeTextDecoration consolidationClean">12<span integrity:added="1">.</span></span></span></a> <span integrity:order="92" class="Subsection">Le conjoint et les enfants d’un juge ont droit, lorsqu’une pension leur est, à ce titre, payable en vertu du régime de retraite prévu à la Partie V.1 de la Loi, à une prestation supplémentaire calculée en fonction de celle que le juge recevait ou aurait reçue et dans la même proportion que celle appliquée pour l’établissement du montant de la pension qui leur est payable en vertu du chapitre V de cette Partie, à l’exclusion d’une diminution résultant de l’application de l’article 224.15 de la Loi.</span></div><div class="Subsection" id="se:12-ss:2"><span integrity:order="93" class="Subsection">Toute prestation supplémentaire ainsi accordée est versée jusqu’au jour où le bénéficiaire cesse d’avoir droit à sa pension en vertu du régime de retraite.</span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="94">D. 695-2001, a. 12</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="95">D. 865-2010, a. 9</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div></div></div><div id="ga:l_vi"><div class="Heading Heading" id="ga:l_vi-h1"><span integrity:order="96" class="Label-group5"><span integrity:added="1">SECTION </span>VI</span><div integrity:order="97" class="TitleText-group5 group5" id="ga:l_vi-h1-t1-nb:1">DISPOSITIONS DIVERSES</div></div><div class="section" id="se:12_1"><div class="Subsection SubsectionFirst" id="se:12_1-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:12_1&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:12_1" data-code="se:12_1"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="98" class="Label-Section consolidationWhipeTextDecoration consolidationClean">12.1<span integrity:added="1">.</span></span></span></a> <span integrity:order="99" class="Subsection">Les sommes requises pour le versement des prestations supplémentaires sont prises sur le fonds consolidé du revenu dans une proportion de 90% et sur la fiducie de convention de retraite prévue au cinquième alinéa de l’article 10 dans une proportion de 10%.</span></div><div class="Subsection" id="se:12_1-ss:2"><span integrity:order="100" class="Subsection">Il en est de même des sommes requises aux fins du partage des droits accumulés par un juge ou un ancien juge au titre du régime de retraite prévu à la Partie V.1 de la Loi.</span></div><div class="Subsection" id="se:12_1-ss:3"><span integrity:order="101" class="Subsection">Malgré les premier et deuxième alinéas, dans le cas d’un juge qui n’a versé aucune cotisation dans la fiducie de convention de retraite au moment du versement des prestations supplémentaires ou à la date d’évaluation des droits en raison du partage ou de la cession des droits accumulés, les sommes requises sont prises en totalité sur le fonds consolidé du revenu.</span></div><div class="Subsection" id="se:12_1-ss:4"><span integrity:order="102" class="Subsection">Toutefois, dans le cas d’un juge qui n’a versé aucune cotisation dans la fiducie de convention de retraite en raison du fait qu’il en était exonéré, les sommes requises aux fins des premier et deuxième alinéas sont prises conformément au premier alinéa.</span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span><span class="Hidden" integrity:order="103">1737-2024</span><span integrity:added="1">D. 1737-2024</span><span integrity:added="1">, </span><span integrity:added="1">a. </span><span integrity:order="104">2</span><span integrity:order="105" class="Hidden">1</span></span><span integrity:added="1">.</span></span></div></div><div class="section" id="se:13"><div class="Subsection SubsectionFirst" id="se:13-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:13&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:13" data-code="se:13"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="106" class="Label-Section consolidationWhipeTextDecoration consolidationClean">13<span integrity:added="1">.</span></span></span></a> <span integrity:order="107" class="Subsection">Toute prestation supplémentaire est indexée annuellement de la manière prévue à l’article 224.23 de la Loi.</span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="108">D. 695-2001, a. 13</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div></div><div class="section" id="se:13_1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:13_1&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:13_1" data-code="se:13_1"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="109" class="Label-Section consolidationWhipeTextDecoration consolidationClean">13.1<span integrity:added="1">.</span></span></span></a> <span class="Section"><span integrity:order="110" class="Repealed-Text">(Abrogé).</span></span><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="111">D. 865-2010, a. 10</span><span><span integrity:added="1">; </span></span></span><span><span><span class="Hidden" integrity:order="112">1737-2024</span><span integrity:added="1">D. 1737-2024</span><span integrity:added="1">, </span><span integrity:added="1">a. </span><span integrity:order="113">3</span><span integrity:order="114" class="Hidden">1</span></span><span integrity:added="1">.</span></span></div></div><div class="section" id="se:14"><div class="Subsection SubsectionFirst" id="se:14-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:14&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:14" data-code="se:14"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="115" class="Label-Section consolidationWhipeTextDecoration consolidationClean">14<span integrity:added="1">.</span></span></span></a> <span integrity:order="116" class="Subsection">Toute prestation supplémentaire est payée aux époques et selon les conditions fixées par règlement édicté en application de l’article 148 de la Loi sur le régime de retraite du personnel employé du gouvernement et des organismes publics (<a href="/fr/document/lc/R-10?&cible=" target="_blank"><span integrity:order="117">chapitre R-10</span></a>). </span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="118">D. 695-2001, a. 14</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div></div><div class="section" id="se:15"><div class="Subsection SubsectionFirst" id="se:15-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:15&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:15" data-code="se:15"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="119" class="Label-Section consolidationWhipeTextDecoration consolidationClean">15<span integrity:added="1">.</span></span></span></a> <span integrity:order="120" class="Subsection">Les règles de partage et de cession de droits entre conjoints prévues à la Partie VI.2 de la Loi et celles que le gouvernement a édictées en vertu des dispositions de cette Partie qui sont applicables aux droits accumulés par le juge au titre de son régime de retraite s’appliquent, compte tenu des adaptations nécessaires, aux droits accumulés par ce juge au titre du présent régime. </span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="121">D. 695-2001, a. 15</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div></div><div class="section" id="se:16"><div class="Subsection SubsectionFirst" id="se:16-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:16&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:16" data-code="se:16"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="122" class="Label-Section consolidationWhipeTextDecoration consolidationClean">16<span integrity:added="1">.</span></span></span></a> <span class="Subsection"><span integrity:order="123" class="Repealed-Text">(Abrogé).</span></span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="124">D. 695-2001, a. 16</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="125">D. 865-2010, a. 11</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div></div><div class="section" id="se:17"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:17&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:17" data-code="se:17"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="126" class="Label-Section consolidationWhipeTextDecoration consolidationClean">17<span integrity:added="1">.</span></span></span></a> <span class="Section"><span integrity:order="127" class="Repealed-Text">(Abrogé).</span></span><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="128">D. 695-2001, a. 17</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="129">D. 865-2010, a. 12</span><span><span integrity:added="1">; </span></span></span><span><span><span class="Hidden" integrity:order="130">1736-2024</span><span integrity:added="1">D. 1736-2024</span><span integrity:added="1">, </span><span integrity:added="1">a. </span><span integrity:order="131">8</span><span integrity:order="132" class="Hidden">1</span></span><span integrity:added="1">.</span></span></div></div><div class="section" id="se:18"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:18&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:18" data-code="se:18"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="133" class="Label-Section consolidationWhipeTextDecoration consolidationClean">18<span integrity:added="1">.</span></span></span></a> <span class="Section"><span integrity:order="134" class="Repealed-Text">(Abrogé).</span></span><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="135">D. 695-2001, a. 18</span><span><span integrity:added="1">; </span></span></span><span><span integrity:order="136">D. 865-2010, a. 13</span><span><span integrity:added="1">; </span></span></span><span><span><span class="Hidden" integrity:order="137">1736-2024</span><span integrity:added="1">D. 1736-2024</span><span integrity:added="1">, </span><span integrity:added="1">a. </span><span integrity:order="138">8</span><span integrity:order="139" class="Hidden">1</span></span><span integrity:added="1">.</span></span></div></div><div class="section" id="se:19"><div class="Subsection SubsectionFirst" id="se:19-ss:1"><div integrity:added="1" class="HistoryLink"><a href="/fr/version/rc/t-16, r. 6?code=se:19&historique=20260924#20260924"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Versions historiques"><img xmlns="" src="/img/history.png"/></span></a></div><a class="linkOtherLang" href="#se:19" data-code="se:19"><span class="tooltipInfo" data-bs-toggle="tooltip" data-bs-placement="left" title="Basculement linguistique"><span integrity:order="140" class="Label-Section consolidationWhipeTextDecoration consolidationClean">19<span integrity:added="1">.</span></span></span></a> <span class="Subsection"><span integrity:order="141" class="Repealed-Text">(Omis).</span></span></div><div class="HistoricalNote"><div class="ligne"><span integrity:added="1">
+                    </span></div><span><span integrity:order="142">D. 695-2001, a. 19</span><span integrity:added="1">.</span><span integrity:added="1"/></span></div></div></div><div class="note-block" id="nk-nb:1"><div class="center"><span integrity:added="1">DISPOSITIONS TRANSITOIRES</span></div><div class="subheading"><span integrity:order="152" class="Provision">2024</span></div><div class="indent-1-1"><span><span integrity:order="153" class="keep-together-bold"><span integrity:order="154" class="italic">(D. 1737-2024)</span> ARTICLE 4</span><span integrity:added="1">. </span></span><span integrity:order="155" class="Provision">Les articles 1 et 3 ont effet depuis le 1<span integrity:order="156" class="superscript">er</span> avril 2024.</span></div></div><div class="AmendedTextTitle"><div class="ligne"><span integrity:added="1">
+                    </span></div><span integrity:added="1">RÉFÉRENCES</span></div><div><span><span integrity:order="143">D. 695-2001, 2001 G.O. 2, 3760</span></span></div><div><span><span integrity:order="144">D. 865-2010, 2010 G.O. 2, 4309</span></span></div><div><span><span integrity:order="145">L.Q. 2015, c. 11, a. 2</span></span></div><div><span><span integrity:order="146">L.Q. 2015, c. 20, a. 61</span></span></div><div><span><span integrity:order="147">L.Q. 2017, c. 30, a. 26, 27 et 28</span></span></div><div><span><span integrity:order="148">L.Q. 2022, c. 22, a. 285</span></span></div><div><span><span integrity:order="149">L.Q. 2023, c. 23, a. 59</span></span></div><div><span><span class="Hidden" integrity:order="150">1736-2024, 2024 G.O. 2, 7152</span><span integrity:added="1">D. 1736-2024, 2024 G.O. 2, 7152</span></span></div><div><span><span class="Hidden" integrity:order="151">1737-2024, 2024 G.O. 2, 7154</span><span integrity:added="1">D. 1737-2024, 2024 G.O. 2, 7154</span></span></div></div></div></div>
+							</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</form>
+
+<ul id="contextMenu" class="dropdown-menu" role="menu" >
+	<li id="contextMenuCopy" class="disabled dropdown-item"><a tabindex="-1">Copier</a></li>
+	<li class="dropdown-divider"></li>
+	<li class="dropdown-item"><a tabindex="-1"">Sélectionner cet élément</a></li>
+	<li id="contextMenuSelectParent" class="dropdown-item"><a tabindex="-1">Sélectionner l'élément parent</a></li>
+	<li id="contextMenuUnselectAll" class="disabled dropdown-item"><a tabindex="-1">Désélectionner tous les éléments</a></li>
+	<li class="dropdown-divider"></li>
+	<li id="contextMenuCopyToArbortext" class="disabled dropdown-item"><a tabindex="-1">Copier vers Rédaction</a></li>
+	<li id="contextMenuCopyToLaw" class="d-block disable dropdown-item"><a tabindex="-1">Copier vers LAW</a></li>
+</ul>
+<input type="text" class="copyContainer" id="copyToClipboardMenu">
+<div id="copyToClipboard" class="modal fade">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h4 class="modal-title">
+					Copier vers le presse-papier
+				</h4>
+				<button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>				
+			</div>
+			<div class="modal-body">
+				<p>
+				<div class="description">
+					Pour copier : Ctrl+C
+				</div>
+				<input type="text" class="form-control" name="copyToInput" id="copyToInput">
+				</p>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-outline-secondary bg-gradient" data-bs-dismiss="modal">OK</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<a href="#" class="back-to-top"><span class="fa fa-chevron-up"></span></a>
+
+
+	<!-- migration rapide - éventuellement call ajax JSON -->
+	<input type="hidden" id="alpha" value="t-16, r. 6">
+	<input type="hidden" id="title"  value='t-16, r. 6 - Régime de prestations supplémentaires des juges auxquels s’applique le régime de retraite prévu à la Partie V.1 de la Loi sur les tribunaux judiciaires'>
+	<input type="hidden" id="dbType"  value="cr">
+	<input type="hidden" id="langCont"  value="fr">
+	<input type="hidden" id="otherLangCont" value="en">
+
+	<input type="hidden" id="contextMenu_copy" value="Copier"/>
+	<input type="hidden" id="contextMenu_selectElement" value="Sélectionner cet élément"/>
+	<input type="hidden" id="contextMenu_selectParentElement" value="Sélectionner l'élément parent"/>
+	<input type="hidden" id="contextMenu_unselectElement" value="<<SR_contextMenu_unselectElement>>"/>
+	<input type="hidden" id="contextMenu_unselectAll" value="Désélectionner tous les éléments"/>
+
+	<input type="hidden" id="contextMenu_copyToArbortext" value="Copier vers Rédaction"/>
+	<input type="hidden" id="contextMenu_copyToLaw" value="Copier vers LAW"/>
+	<input type="hidden" id="contextMenu_FragmentSelection" value="<<SR_contextMenu_FragmentSelection>>"/>
+	<input type="hidden" id="ctrlC_toCopyToClipboard" value="Pour copier : Ctrl+C"/>
+	<input type="hidden" id="readyToPaste" value="Vos sélections ont été copiées dans le presse-papier."/>
+
+	<input type="hidden" id="readyToPasteInLAW" value="Vous pouvez coller vos sélections dans LAW en utilisant la fonction appropriée."/>
+	<input type="hidden" id="readyToPasteInArbortext" value="Vous pouvez coller vos sélections dans Arbortext en utilisant la fonction appropriée."/>
+	<input type="hidden" id="errorWhileCopyingTo" value="Une erreur est survenue lors de la préparation des données."/>
+	<input type="hidden" id="showSelections" value="false"/>
+	<input type="hidden" id="consolidetedDateLabel" value=""/>
+	<input type="hidden" id="renditions" value='{"Epub":"/fr/epub/cr/T-16, R. 6.epub","Pdf":"/fr/pdf/rc/T-16, R. 6.pdf"}'/>
+	<input type="hidden" id="output" value=""/>
+	
+						
+<div data-bs-toggle="modal" data-bs-target="#myModal" id="printPreviewButton" class="printPreviewButton d-none">
+<button type="button" class="btn btn-primary my-2 rounded-pill" id="goPrintPreview" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">
+<span class="fa fa-check-square-o" aria-hidden="true"></span> <span class="badge rounded-pill bg-secondary badgeWhite">0</span>
+</button>
+</div>
+
+					</div>
+				</div>
+			</div>
+			<!-- Footer -->
+		<div class="row pt-4">
+			<div align="center" class="pt-4">
+				<ul class="footer-options">
+					<li><a href="/fr/contenu/joindre/" >Nous joindre</a></li>
+					<li><a href="/fr/contenu/plan/" >Plan du site</a></li>
+					<li><a href="https://www.quebec.ca/" target="_blank">Québec.ca</a></li>
+					<li><a href="/fr/contenu/access/" >Accessibilité</a></li>
+					<li><a href="/fr/contenu/confid/" >Politique de confidentialité</a></li>
+					<li><a href="https://www.quebec.ca/gouvernement/ministeres-organismes/emploi-solidarite-sociale/cadre-legal-transparence/acces-information" target="_blank">Accès à l'information</a></li>
+				</ul>
+			</div>
+			<div  align="center"><a href="https://boutique.publicationsduquebec.gouv.qc.ca/" target="_blank"><img src="/img/pub-quebec.webp"></a></div>
+			<div  align="center" class="copyright pt-2"><a class="footer-options" href="http://www.droitauteur.gouv.qc.ca/copyright.php" target="_blank">&copy; Gouvernement du Qu&eacute;bec</a></div>
+
+		</div>
+			
+		</div>
+			
+		<!-- Fenetre modal pour l'impression -->
+		<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+			<div class="modal-dialog modal-dialog-impression">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h4 class="modal-title" id="myModalLabel">Sélections</h4>
+						<button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+							<span aria-hidden="true">&times;</span>
+						</button>
+					</div>
+					<div class="modal-body">
+						<div>
+							<h4 id="myModalSubtitle"><small></small></h4>
+						</div>
+						<div class="list-group">
+							<a href="#" class="list-group-item active disabled bg-primary bg-gradient text-white">Afficher</a>
+							<a href="#" id="showSelectionsInCurrentDocument" class="list-group-item d-none">Les sélections du document courant</a>
+							<a href="#" id="showAllSelectionsInCollection" class="list-group-item">Toutes les sélections de la collection</a>
+							<a href="#" class="list-group-item active disabled bg-primary bg-gradient text-white">Fragments sélectionnés</a>
+							<a href="#" id="printPreviewResetSelections" class="list-group-item">Supprimer toutes les sélections</a>
+							<a href="#" id="printPreviewShowSelections" class="list-group-item d-none">Afficher les sélections</a>
+						</div>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-outline-secondary bg-gradient" data-bs-dismiss="modal">Fermer</button>
+					</div>
+				</div>
+			</div>
+			<form name="printForm" id="printForm" encType="application/x-www-form-urlencoded" method="post">
+				<input type="hidden" name="newQuery" value=""></input>
+				<input type="hidden" name="text" value=""></input>
+				<input type="hidden" name="isPrinting" value="false"></input>
+				<input type="hidden" name="title" value=""></input>
+				<input type="hidden" name="langCont" value="fr"></input>
+				<input type="hidden" name="type" value="cs"></input>
+				<input type="hidden" name="printType" value=""></input>
+				<input type="hidden" name="summary" value=""></input>
+				<input type="hidden" name="instrumentNumber" value=""></input>
+				<input type="hidden" name="selfrag" value=""></input>
+				<input type="hidden" name="anchor" value=""></input>
+				<input type="hidden" name="anchorSS" value=""></input>
+				<input type="hidden" name="recordsWithHits" value="false"></input>
+				<input type="hidden" name="validSearch" value="false"></input>
+				<input type="hidden" name="sortmode" value="false"></input>
+				<input type="hidden" name="output" value="selections"></input>
+			</form>
+		</div>
+		
+		<div class="modal fade bs-example-modal-sm" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
+			<div class="modal-dialog modal-sm">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h4 class="modal-title" id="mySmallModalLabel">Cyberlex</h4>
+						<button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+					</div>
+					<div class="modal-body">
+						Version 2.2.13.0
+					</div>
+				</div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		</div>
+
+	
+		
+		<!-- migration rapide - éventuellement call ajax JSON -->
+		<input type="hidden" id="token" name="token" value="<<token>>">
+		<input type="hidden" id="config" name="config" value='{"ConfigurationMenu":{"params":{},"enabled":false},"XSLT":{"params":{"CocoonFullTextUrl":"ace-xslt-web.html","CocoonTOCUrl":"ace-xslt-toc.html"},"enabled":true},"GoogleRecaptcha":{"params":{"apiKey":"AIzaSyCgcR482ZumQ-pHNDJHCfz_xOVctdsvKH0","scoreThreshold":"0.5","siteKey":"6Lcu82UsAAAAALYHmzyrjnw7rOE-uda_bJxDO3_V","validationEndPoint":"https://recaptchaenterprise.googleapis.com:443/v1/projects/mess-legis/assessments?key=$0","alwaysLogScore":false,"supportedCommands":"result, showversion","ignoreScore":false},"enabled":false},"Import":{"params":{"odbc-AnnualStatutes":"","odbc-Regulations":"","odbc-Statutes":"","odbc-AnnualRegulations":""},"enabled":false},"GoogleAnalytic":{"params":{"trackingId":""},"enabled":false},"Export":{"params":{"exportLast":["last","external-last","report"],"formatOptions":["Xml","Html"],"export-Regulations":true,"export-AnnualRegulations":true,"typeFileOptions":["",""],"exportFull":["all","external-all","report","orphans"],"modeOptions":["Last","All","Full"],"exportAll":["all","external-all","report"],"export-DtdClient":"Quebec","export-Statutes":true,"export-AnnualStatutes":true,"exportHtml-CocoonUrl":"ace-xslt-export.html"},"enabled":true},"Conversion":{"params":{"generatePdf-Statutes":"single","generatePdf-Regulations-Overwrite":true,"generatePdf-Statutes-Path":"master\\cs\\pdf","generateEpub-Statutes-Overwrite":true,"generateEpub-Statutes-Storage":"disk","generatePdf-Regulations-SoapEnvelope":"config/conversion/single-regulations.xml","generateEpub-AnnualStatutes-SoapEnvelope":"","generateEpub-Regulations-Storage":"disk","generatePdf-AnnualStatutes-SoapEnvelope":"","generateEpub-AnnualStatutes-Storage":"none","generatePdf-Regulations-Storage":"disk","generatePdf-AnnualRegulations-Storage":"none","generatePdf-AnnualRegulations-Overwrite":false,"generatePdf-Statutes-SoapEnvelope":"config/conversion/single-statutes.xml","generateEpub-AnnualRegulations-Storage":"none","generateEpub-AnnualStatutes":"none","renditionOptions":["Pdf","Epub"],"generateEpub-AnnualRegulations-SoapEnvelope":"","generatePdf-AnnualStatutes-Storage":"none","generateEpub-Statutes-SoapEnvelope":"config/conversion/epub.xml","generateEpub-Statutes-Path":"master\\cs\\epub","generatePdf-Regulations-SoapEnvelope-TwoPhase":"config/conversion/fo-to-pdf.xml","generateEpub-Regulations-Path":"master\\cr\\epub","generateEpub-AnnualStatutes-Overwrite":false,"generateEpub-Regulations-Overwrite":true,"generateEpub-Regulations-SoapEnvelope":"config/conversion/epub.xml","generateEpub-AnnualRegulations-Path":"annuals_master\\ar\\epub","generatePdf-Regulations-Path":"master\\cr\\pdf","generatePdf-AnnualStatutes":"none","generateEpub-Statutes":"single","generatePdf-AnnualRegulations-SoapEnvelope":"","generatePdf-AnnualRegulations":"none","generateEpub-AnnualStatutes-Path":"annuals_master\\as\\epub","generateEpub-AnnualRegulations-Overwrite":false,"generatePdf-Statutes-Overwrite":true,"generateEpub-AnnualRegulations":"none","generatePdf-AnnualStatutes-Path":"annuals_master\\as\\pdf","generatePdf-Statutes-Storage":"disk","generatePdf-AnnualRegulations-Path":"annuals_master\\ar\\pdf","generatePdf-AnnualStatutes-Overwrite":false,"generatePdf-Regulations":"single","generatePdf-Statutes-SoapEnvelope-TwoPhase":"config/conversion/fo-to-pdf.xml","generateEpub-Regulations":"single"},"enabled":true},"Core":{"params":{"CopyToLaw":false,"Browse-cr-Category-Id":"","ShowBarLetter":true,"Browse-cs-Category-Id":"","CopyToArbortext":false,"Template-NotFound":"notfound.html","DoTreatment-ConsoDate":true,"Menu-cs-Category-Id":"","FutureDate":29990101000000,"ShowFutureDate":true,"Search-OptionInForce":true,"Search-OptionStemming":true,"MasterToServerChunkSize":2000,"DefaultCorpus":"statutes","StopWordsFiles":["config/StopWordFr.txt","config/StopWordEn.txt"],"CutOffDate":19990401000000,"ShowTypeFileOptions":false,"Browse-cr-HideRepealed":false,"StrikethroughConsoDateException_selectionPage":false,"FragmentSelection":true,"Browse-DefaultRecentYear":false,"Browse-cs-HideRepealed":false},"enabled":true},"ContentSecurityPolicy":{"params":{"FrameAncestors":"https://*.nexam.io"},"enabled":true},"Backup":{"params":{"backupDbList":["master","annuals_master"],"backupExternalFolderList":["master=master","annuals_master=annuals_master","loose=loose"]},"enabled":true},"Integrity":{"params":{"Validate-Conversion-Pdf":true,"Exceptions":"","Validate-Exportation":true,"RemoveIntegrityAttributesOnConversion":true,"RemoveIntegrityAttributesOnExportation":true},"enabled":true}}'>
+		<input type="hidden" id="cmdId" name="cmdId" value="">
+		<input type="hidden" id="langInt" name="langInt" value="fr">
+		<input type="hidden" id="filter" name="filter" value="">
+
+		<input type="hidden" id="langCont" name="langCont" value="fr">
+		<input type="hidden" id="hideMenu" name="hideMenu" value="Fermer le menu">				
+		<input type="hidden" id="diplayMenu" name="diplayMenu" value="Afficher le menu">						
+		<input type="hidden" id="printPreview" name="printPreview" value="<<SR_printPreview>>">						
+		<input type="hidden" id="loadingMaskText" name="loadingMaskText" value="Chargement en cours...">					
+			
+		<input type="hidden" id="showSelectionsButtonTooltipSingleFrag" name="showSelectionsButtonTooltipSingleFrag" value="1 fragment a été sélectionné">				
+		<input type="hidden" id="showSelectionsButtonTooltipMultipleFrags" name="showSelectionsButtonTooltipMultipleFrags" value="fragments ont été sélectionnés">				
+		<input type="hidden" id="bootstrapMultiselect_nonSelectedText_limitSearch" name="bootstrapMultiselect_nonSelectedText_limitSearch" value="Aucune limite">				
+		<input type="hidden" id="bootstrapMultiselect_nSelectedText_limitSearch" name="bootstrapMultiselect_nSelectedText_limitSearch" value="limites">																
+		<input type="hidden" id="bootstrapMultiselect_allSelectedText_limitSearch" name="bootstrapMultiselect_allSelectedText_limitSearch" value="Toutes les limites">																			
+		<input type="hidden" id="corpusQuickSearch" name="corpusQuickSearch" value="all">
+
+		<script type="text/javascript" src="/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
+		<script type="text/javascript" src="/bootstrap-notify/3.1.5/bootstrap-notify.min.js"></script>
+		<script type="text/javascript" src="/js/Config.js?v=2.1"></script>
+		<script type="text/javascript" src="/js/Object.js?v=2.1"></script>
+		<script type="text/javascript" src="/js/mainMenu.js?v=2.1"></script>
+		<script type='text/javascript' src='/js/jquery.loadmask.js?v=2.1'></script>
+		<script type='text/javascript' src='/js/cyberlex.jquery.loadmask.js?v=2.1'></script>
+		<script type='text/javascript' src='/js/selections.js?v=2.1'></script>
+		<script type='text/javascript' src='/js/UrlHelper.js?v=2.1'></script>
+		
+<script type="text/javascript" src="/js/Config.js?v=2.2"></script>
+
+<script type="text/javascript" src="/js/showdoc.js?v=2.2"></script>
+
+		<script type='text/javascript'>
+			const g_recaptchaSiteKey = "6Lcu82UsAAAAALYHmzyrjnw7rOE-uda_bJxDO3_V"
+			const g_recaptchaEnabled = "false";
+		</script>
+	</body>
+</html>

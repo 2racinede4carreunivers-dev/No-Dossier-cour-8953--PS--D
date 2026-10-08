@@ -1,0 +1,23 @@
+﻿== NOMBRE DE PAGES ==
+  Demande seule        : 9 pages
+  Pi├¿ce A-1 (lettre)   : 2 pages
+  Pi├¿ce A-2 (article)  : 36 pages
+  Dossier complet      : 49 pages
+  Attendu (demande + 2 intercalaires + pi├¿ces) : 49
+  Coh├®rence assemblage : OK
+
+== EXTRAIT PAGE 1 DE LA DEMANDE (contr├┤le des accents) ==
+  COUR DU QU├ëBEC Chambre criminelle et p├®nale ÔÇö District de Qu├®bec N┬░ dÔÇÖincident : LVSEV25000954 N┬░ de dossier : 8952 ÔÇô PS-D La personne accus├®e : Philippe Joseph Thomas Savard Adresse : 4-5354 rue du Menuet, L├®vis (QC), G6X 2Y6, Canada Objet : Demande dÔÇÖajout dÔÇÖune preuve au d├®p├┤t l├®gal Audience : 23 octobre 2026, ├á 9 h 30, salle 2.15 ÔÇö Palais de justice de Qu├®bec DEMANDE DÔÇÖAJOUT DÔÇÖUNE PREUVE AU D├ëP├öT L├ëGAL DE LA PREUVE Le soussign├® a lÔÇÖhonneur de demander ├á la Cour dÔÇÖajouter, au d├®p├┤t l├®gal de la preuve du dossier susmentionn├®, la communication re├ºue par courriel dans le cadre dÔÇÖune demande de
+
+== EXTRAIT PAGE INTERCALAIRE A-1 ==
+  PI├êCE A-1 Lettre de d├®cision et courrieldÔÇÖaccompagnement Courriel ┬½ CJM 260814-savard ┬╗ de la Revue canadienne de math├®matiques (Henry H. Kim et Robert McCann, r├®dacteurs en chef) Dossier Cour du Qu├®bec n Ôùª 8952 ÔÇô PS-D | Incident LVSEV25000954
+
+== CONFORMIT├ë EN BASE ==
+  satisfait       : 18
+
+  Pi├¿ces consign├®es :
+  A-1 | pr├®sent=1 | pages=2 | Lettre de d├®cision de la Revue canadienne de math├®matiques et courriel de transmission
+  A-2 | pr├®sent=1 | pages=36 | Article scientifique ┬½ G├®om├®trie du spectre des nombres premiers ┬╗
+
+== RAPPORT ==
+  C:\Users\thomasphiliippesavar\.cline\data\workspaces\chat\pipeline-depot-legal\Demande_ajout_depot_legal\rapport_conformite.md (5466 octets)
