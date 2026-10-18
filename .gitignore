@@ -8,8 +8,13 @@
 # Python bytecode
 __pycache__/
 
-# Database files
-*.db
+# Documentation de travail (journal, logs, base de données)
+execution_pipeline.log
+verification.log
+depot_legal.db
+guide_transmission_poursuite.md
+checklist_conformite.md
+rapport_conformite.md
 # Nested/embarrassed repositories and scratch areas
 No-Dossier-cour-8953--PS--D/
 repo-remote/
@@ -27,3 +32,10 @@ repo-remote/
 .sidecar/thinking/
 .sidecar/pids.json
 *.keep
+# Gros fichier local non poussé vers GitHub (>100 Mo)
+depot_8953_PS-D_nettoye.zip
+# Caches sidecar imbriqués dans les copies d'envoi
+**/.sidecar/cache/
+**/.sidecar/sessions/
+**/.sidecar/logs/
+**/.sidecar/embeddings.bin

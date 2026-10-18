@@ -1,0 +1,14 @@
+Dossier : 8953 - PS-D | Incident : LVSEV25000954 | 2026-10-13
+A : greffe-fds-criminel.CQ.Quebec@justice.gouv.qc.ca
+Cci : penal.quebec@dpcp.gouv.qc.ca ; philippethomassavard@gmail.com
+Objet : Dossier 8953 - PS-D / LVSEV25000954 — Demande art. 723(2) + demande d'ajout d'une preuve au dépôt légal — Audience 23 oct. 2026 — Savard
+
+demande_ajout_act.pdf | 311954 octets | sha256:065e601b878b | Demande 1 — Ajout d'un acte a l'instruction en vue du jugement (art. 723(2) C.cr.)
+demande_ajout_preuve.pdf | 93862 octets | sha256:8ca85c07520a | Demande 2 — Ajout d'une preuve au depot legal de la preuve
+lettre_ccq.pdf | 1175995 octets | sha256:635ba20942d4 | Piece A-1a lettre CCQ
+lettre_refus.pdf | 43399 octets | sha256:0932d6bdd685 | Piece A-1b lettre refus
+Geometrie_du_Spectre_des_Nombres_Premiers_2026.pdf | 515857 octets | sha256:26ef1bd25a99 | Piece A-2 article
+LISEZMOI_A3_CCQ_2026-09-25.md | 3409 octets | sha256:66c689d3f273 | Piece A-3 note CCQ
+lettre_CCQ_incident_2026-09-25.pdf | 197640 octets | sha256:aaf095ff4ec2 | Piece A-3b scan lettre CCQ 25 sept. 2026 (cyberattaque 24 aout 2026)
+
+Total : 2342116 octets (2.23 Mo)

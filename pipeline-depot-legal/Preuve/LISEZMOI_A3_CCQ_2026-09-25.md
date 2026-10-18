@@ -27,7 +27,12 @@ Fichier actuel : `Demande_ajout_depot_legal/demande_ajout_preuve.tex`
 - Pièce à ajouter : A-3 (lettre CCQ).
 - Sections à mettre à jour : 1 (Objet), 2 (Contenu), 3 (Motifs — identité civile Philippe Savard vs identité professionnelle), Liste des pièces, Conclusion, Avis à la poursuite, Annexe méthodologique.
 
-Ne modifiez pas le .tex à la main tant que le PDF de la lettre n'est pas placé ici — le pipeline (`Pipeline/orchestrator_legal.py` + `chemins.py`) devra ensuite être mis à jour pour intégrer A-3 automatiquement et régénérer le dossier complet de 49 pages.
+## Statut au 11 octobre 2026 : INTÉGRÉE + CAHIER MIROIR v2
+- Fichier versé : `lettre_CCQ_vol_donnees_2026-09-25.pdf` (copie conforme de `lettre_ccq.pdf` = `Numérisation_20261007 (2).pdf`, 1 page, SHA-256 `635ba20942d46b62…`).
+- Demande mise à jour : `Demande_ajout_depot_legal/demande_ajout_preuve.tex` (10 pages compilées, 15 mentions A-3) ; copie versionnée `demande_ajout_preuve_A3_2026-10-11.tex` ; sauvegarde `demande_ajout_preuve_AVANT-A3.bak`.
+- Cahier v2 : `pages_remplacement_A3_2026-10-11.tex/.pdf` (12 pages : C1 index + C2--C11 miroir exact du complet 10 pages, fins de page vérifiées identiques P1=C2 … P10=C11 + C12 intercalaire A-3 sans numéro). Fusion : retirer les 9 anciennes pages, insérer C2--C11 dans l'ordre, puis intercalaire + lettre.
+- Pipeline : `Pipeline/chemins.py` complété (`PIECE_CCQ_PDF`, `PIECE_CCQ_SCAN_ORIGINAL`).
+- Règle de prudence appliquée : seules les catégories de données selon l'avis sont décrites dans le corps de la demande (nom complet, date de naissance, adresse, n° compte CCQ, NAS, autres) ; aucun numéro chiffré n'est reproduit ; protection demandée section 5 (caviardée au dossier accessible, complète sous scellé si autorisé).
 
 ## Prochaine étape attendue de vous
 1. Placer `lettre_CCQ_vol_donnees_2026-09-25.pdf` dans `Preuve/`.

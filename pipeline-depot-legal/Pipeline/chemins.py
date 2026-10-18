@@ -26,6 +26,8 @@ DIR_PREUVE = DIR_RACINE / "Preuve"
 PIECE_LETTRE_DOCX = DIR_PREUVE / "lettre_refus.docx"
 PIECE_LETTRE_PDF = DIR_PREUVE / "lettre_refus.pdf"
 PIECE_ARTICLE_PDF = DIR_PREUVE / "Geometrie_du_Spectre_des_Nombres_Premiers_2026.pdf"
+PIECE_CCQ_PDF = DIR_PREUVE / "lettre_CCQ_vol_donnees_2026-09-25.pdf"
+PIECE_CCQ_SCAN_ORIGINAL = DIR_PREUVE / "lettre_ccq.pdf"
 
 # Emplacements sources des pièces (pour référence et traçabilité)
 LETTRE_SOURCE_ORIGINALE = Path(r"C:\ARTICLE\Article\tex\lettre_refus.docx")

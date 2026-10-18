@@ -51,9 +51,7 @@ les pièces sont assemblées dans un seul PDF paginé avec pages intercalaires.
   salutation « Cher Professeur Savard ».
 - **Pièce A-2** : `C:\agent-multiloop-Gabriel-local\agent-multiloop-Gabriel-local\theories\tex\Geometrie_du_Spectre_des_Nombres_Premiers_2026.pdf`.
 
-> Note : le document de travail mentionnait « Journal canadien de mathématiques » ; la lettre
-> émane officiellement de la *Revue canadienne de mathématiques*. La demande générée rappelle
-> les deux appellations pour exactitude devant la Cour.
+
 
 
 
